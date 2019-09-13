@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/asudatascience/NeptuneProject/Repositories/Fall2019/MultiClassClassifier/venv"
+VIRTUAL_ENV="/Users/asudatascience/NeptuneProject/Repositories/Fall2019/Classification/MultiClassClassifier/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
