@@ -22,7 +22,13 @@ from keras.models import load_model
 
 
 class Train(object):
-    def __init__(self,training_data=TRAIN_DATA):
+    def __init__(self,training_data=TRAIN_DATA, force_retrain=False):
+        if os.path.exists(PROCESSED_DATA_PATH + MODEL_NAME) and not force_retrain:
+            self.ignore = True
+            print("Skipping Training...")
+            return
+        self.ignore = False
+
         # load data
         # assumes input has first col string and second col set obj with classes
         self.df = pd.read_hdf(PROCESSED_DATA_PATH+training_data, key='train')
@@ -30,7 +36,7 @@ class Train(object):
 
         # encode classes
         self.one_hot = MultiLabelBinarizer()
-        self.Y = self.one_hot.fit_transform(self.df['label_SALLY'])
+        self.Y = self.one_hot.fit_transform(self.df['Y'])
         self.save_encoder()
 
         # hyperparameters
@@ -108,9 +114,10 @@ class Train(object):
         return pad_sequences(encoded_sent, self.sentence_length, padding='post')
 
     def train_model(self,model_file=MODEL_NAME):
-        self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=10, verbose =1)
-        self.model.save(PROCESSED_DATA_PATH + model_file)
-        self.plot_history()
+        if not self.ignore:
+            self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=10, verbose =1)
+            self.model.save(PROCESSED_DATA_PATH + model_file)
+            self.plot_history()
 
     # works only for accuracy not with categorical_accuracy
     def plot_history(self):
@@ -140,7 +147,7 @@ class Predict(object):
         self.model = None
         self.tokenizer = None
         self.one_hot = None
-        self.load_model()
+        # self.load_model()
 
     def load_model(self):
         # input a sentence or string
@@ -161,6 +168,25 @@ class Predict(object):
 
         # predict and decode to original tags(classes)
         pred = self.model.predict(padded_sent)
-        y_classes = (pred > self.confidence).astype(int)
-        tags = self.one_hot.inverse_transform(y_classes)
+
+        #multi sentence multi label
+        # y_classes = (pred > self.confidence).astype(int)
+        # tags = self.one_hot.inverse_transform(y_classes)
+        tags = self.one_hot.inverse_transform(pred == pred.max())[0][0]
+        # import IPython
+        # IPython.embed()
         return tags
+
+    def predict_data(self,test_data=TEST_DATA):
+        df = pd.read_hdf(PROCESSED_DATA_PATH + test_data, key='test')
+        tmp = df['text']
+        self.predicted_vals = df['text'].apply(self.predict)
+        df['text'] = tmp
+        df['Predicted_Values'] = self.predicted_vals
+        df.to_csv(PROCESSED_DATA_PATH+PREDICTION_FILE, header=True)
+        self.df = df
+
+    def analyze(self):
+        total_matching = sum(self.df['Y'] == self.predicted_vals)
+        total = len(self.predicted_vals)
+        print('accuracy = ',total_matching/total)

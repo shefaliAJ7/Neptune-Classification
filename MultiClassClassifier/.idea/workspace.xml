@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11502608-6e12-4e48-a771-eb7f48ab1344" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/MultiClassClassifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MultiClassClassifier.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML071350662.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML071350662.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML12027A131.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML12027A131.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML13182A476.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML13182A476.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML13298A103.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML13298A103.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML14041A484.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML14041A484.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML14087A338.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML14087A338.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/wat_2000010.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/wat_2000010.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiClassClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultiClassClassifier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProcessedData/InterCoderReliability/raw_data.h5" beforeDir="false" afterPath="$PROJECT_DIR$/ProcessedData/InterCoderReliability/raw_data.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/createDataset.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predictClass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainModel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,7 +126,12 @@
       <workItem from="1568247625751" duration="5785000" />
       <workItem from="1568331229559" duration="2075000" />
       <workItem from="1568333973250" duration="408000" />
-      <workItem from="1568441444336" duration="7330000" />
+      <workItem from="1568441444336" duration="8451000" />
+      <workItem from="1568485462384" duration="625000" />
+      <workItem from="1568486391563" duration="2774000" />
+      <workItem from="1568491976134" duration="188000" />
+      <workItem from="1568492225237" duration="5000" />
+      <workItem from="1568603169676" duration="3873000" />
     </task>
     <servers />
   </component>
@@ -163,6 +153,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MultiClassClassifier$trainModel.coverage" NAME="trainModel Coverage Results" MODIFIED="1568331941201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MultiClassClassifier$main.coverage" NAME="main Coverage Results" MODIFIED="1568450040348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MultiClassClassifier$main.coverage" NAME="main Coverage Results" MODIFIED="1568607047545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

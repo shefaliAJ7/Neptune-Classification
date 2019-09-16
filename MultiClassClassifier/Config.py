@@ -1,3 +1,4 @@
+import os
 PROCESSED_DATA_DIR = "ProcessedData/"
 ANNOTATED_FILE_DIR = "CodingFiles/"
 CURRENT_DATA = "InterCoderReliability/"
@@ -5,8 +6,7 @@ CURRENT_DATA = "InterCoderReliability/"
 CSV_DATA_PATH = ANNOTATED_FILE_DIR + CURRENT_DATA
 PROCESSED_DATA_PATH = PROCESSED_DATA_DIR + CURRENT_DATA
 
-GLOVE_PATH = '/Users/asudatascience/NeptuneProject/Repositories/Fall2019/glove.6B.100d.txt'
-
+GLOVE_PATH = os.path.abspath(os.path.dirname(__file__))+'/../../glove.6B.100d.txt'
 
 # Number between 0 and 1
 TRAIN_TEST_SPLIT = 0.8
@@ -22,3 +22,7 @@ TRAIN_DATA='train_data.h5'
 TEST_DATA='test_data.h5'
 
 MODEL_NAME = 'multiclass_model.h5'
+# TRAINING_LABEL = 'label_SALLY'
+# TRAINING_LABEL = 'label_Frenard'
+# TRAINING_LABEL = 'label_struck'
+PREDICTION_FILE = 'Result.csv'
