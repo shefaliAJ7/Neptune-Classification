@@ -5,8 +5,10 @@ import pandas as pd
 import string
 from Config import *
 
-
+# This class handles processing of raw data, cleaining it and splitting it between training and
+# testing data depending on Config settings
 class CreateDataset(object):
+    # Checks if files exists and creates them if they don't
     def __init__(self):
         if not os.path.exists(PROCESSED_DATA_PATH + RAW_DATA):
             self.process_raw_to_hd()
@@ -16,6 +18,7 @@ class CreateDataset(object):
             self.split_train_test()
 
     @staticmethod
+    # Extracts list of csv file names in directory CSV_DATA_PATH
     def get_file_names():
         files = [f for f in glob.glob(CSV_DATA_PATH+"*.csv")]
         file_list = []
@@ -24,6 +27,7 @@ class CreateDataset(object):
                 file_list.append(file)
         return file_list
 
+    # Creates a pandas dataframe sentences from all csv documents and storing attributes corresponding to that sentence:
     def process_raw_to_hd(self):
         filenames = self.get_file_names()
         main_df = pd.DataFrame()
@@ -37,6 +41,7 @@ class CreateDataset(object):
         main_df.to_hdf(PROCESSED_DATA_PATH + RAW_DATA, key='raw', append=True, format='t', min_itemsize={'text': 4096})
         return main_df
 
+    # Function to clean the 'text' column in the data-frame and tokenizing it for easier processing
     @staticmethod
     def clean_text(line):
         # Converting to lower
@@ -57,32 +62,23 @@ class CreateDataset(object):
         tokens = [word for word in tokens if len(word) > 1]
         return tokens
 
+    # Creating new data-frame with cleaned text
     def clean_data(self):
         df = pd.read_hdf(PROCESSED_DATA_PATH + RAW_DATA,key='raw')
         df = df.dropna()
         df['text'] = df['text'].apply(self.clean_text)
-        df['Y'] = df[TRAINING_LABEL].apply(self.class_label_handler)
-        df = df.drop(['label_SALLY', 'label_struck', 'label_Frenard'], axis=1)
-        df = df.dropna()
         # import IPython
         # IPython.embed()
-        df.to_hdf(PROCESSED_DATA_PATH + CLEAN_DATA, key='clean')#, format='t', min_itemsize={'text': 4096})
+        df.to_hdf(PROCESSED_DATA_PATH + CLEAN_DATA, key='clean')
 
-    @staticmethod
-    def class_label_handler(class_label):
-        if 'U' in class_label:
-            return None
-        else:
-            return class_label.split(',')[0]
-
-
+    # Splitting the previously cleaned dataframe into training and testing datasets depending on Config settings
     @staticmethod
     def split_train_test():
         df = pd.read_hdf(PROCESSED_DATA_PATH + CLEAN_DATA,key='clean')
         msk = np.random.rand(len(df)) < TRAIN_TEST_SPLIT
         train = df[msk]
         test = df[~msk]
-        train.to_hdf(PROCESSED_DATA_PATH + TRAIN_DATA, key='train')#, format='t', min_itemsize={'text': 4096})
-        test.to_hdf(PROCESSED_DATA_PATH + TEST_DATA, key='test')#   , format='t', min_itemsize={'text': 4096})
+        train.to_hdf(PROCESSED_DATA_PATH + TRAIN_DATA, key='train')
+        test.to_hdf(PROCESSED_DATA_PATH + TEST_DATA, key='test')
 
 
