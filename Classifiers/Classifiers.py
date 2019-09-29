@@ -22,7 +22,7 @@ from keras.models import load_model
 # This class handles all the training portion of classifiers using neural networks
 class Train(object):
     # The init function performs all the tasks in a sequential manner to perform training
-    def __init__(self,training_data=TRAIN_DATA, force_retrain=False):
+    def __init__(self, force_retrain=False,training_data=TRAIN_DATA):
         # Check if model path exists and create it if it doesn't
         if not os.path.exists(MODEL_PATH):
             os.mkdir(MODEL_PATH)

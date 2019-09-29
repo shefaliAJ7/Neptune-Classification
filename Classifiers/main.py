@@ -9,7 +9,7 @@ import shutil
 class Classification:
     def __init__(self, force_retrain=True):
         self.create_dataset = CreateDataset()
-        self.train = Train(force_retrain)
+        self.train = Train(force_retrain=force_retrain)
         self.predict = Predict()
 
     def train_model(self):
@@ -31,6 +31,7 @@ if __name__ == '__main__':
         except:
             # If folder does not exist
             pass
+    D = CreateDataset()
     classifier = Classification(force_retrain=RETRAIN)
     # Training the model
     classifier.train_model()
