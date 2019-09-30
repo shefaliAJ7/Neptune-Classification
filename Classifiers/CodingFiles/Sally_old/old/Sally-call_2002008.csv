@@ -1,0 +1,451 @@
+,,,text,line,start_pos,end_pos,file,predict
+,,,23-Apr-02,0,0,14,call_2002008.txt,0
+useless,,,"Garry L. Randolph, Senior Vice President and Chief Nuclear Officer Union Electric Company P.O.",2,0,94,call_2002008.txt,0
+useless,,,"Box 620 Fulton, Missouri 65251 SUBJECT: CALLAWAY PLANT - NRC SUPPLEMENTAL INSPECTION REPORT 50-483/02-08",2,94,198,call_2002008.txt,0
+useless,,,"Dear Mr. Randolph: On March 13, 2002, the NRC completed a supplemental inspection at your Callaway Plant.",4,0,105,call_2002008.txt,0
+useless,,,The enclosed report documents the inspection findings which were discussed with you and other members of your staff.,4,105,221,call_2002008.txt,0
+useless,,,"The NRC determined, during a Special Inspection performed in June 2001, that between February 9-15, 2001, one train of essential service water had been rendered inoperable for approximately 132 hours.",4,221,421,call_2002008.txt,0
+useless,,,"If a loss of offsite power had occurred while the train of essential service water was inoperable, the safety systems supported by Train B of essential service water would not have been available to perform their safety function.",4,421,650,call_2002008.txt,0
+useless,,,A finding of low to moderate safety significance (White) was identified and documented in NRC Inspection Report 50-483/2001-09.,4,650,777,call_2002008.txt,0
+useless,,,"This supplemental inspection was conducted to provide assurance that the root causes and contributing causes of the White finding are understood, to independently assess the extent of the condition, and to provide assurance that the corrective actions for risk significant performance issues are sufficient to address the root causes and contributing causes and to prevent recurrence.",4,777,1161,call_2002008.txt,0
+useless,,,The NRC concluded that your staff performed a thorough evaluation of the causes and duration of the inoperable train of essential service water and correctly identified the extent of the condition.,4,1161,1358,call_2002008.txt,0
+useless,,,"Additionally, we determined that corrective actions identified by your staff were appropriate to address the root causes.",4,1358,1479,call_2002008.txt,0
+useless,,,The inspectors verified that the completed corrective actions were effective in addressing the associated root causes.,4,1479,1597,call_2002008.txt,0
+useless,,,"While your leakage collection device program has undergone significant changes which should preclude further events, such as the inoperable essential service water pump, the changes to the controls on foreign material exclusion appeared to be less rigorous.",4,1597,1854,call_2002008.txt,0
+useless,,,"Also, our review of the Callaway Action Request system identified that personnel assigned lower priority corrective action documents may not be getting sufficient training in root cause identification and resolution.",4,1854,2070,call_2002008.txt,0
+useless,,,"Based on the results of this inspection, the inspectors identified one issue of very low safety significance (Green) that was determined to involve a violation of NRC requirements.",4,2070,2250,call_2002008.txt,0
+useless,,,"However, because of the very low safety significance and because it has been entered into your corrective action program, the NRC is treating this issue as a noncited violation in accordance",4,2250,2440,call_2002008.txt,0
+useless,,,Union Electric Company,6,0,23,call_2002008.txt,0
+useless,,,-2-,8,0,3,call_2002008.txt,0
+useless,,,with Section VI.A.1 of the NRC's Enforcement Policy.,10,0,52,call_2002008.txt,1
+useless,,,"If you deny this noncited violation, you should provide a response with the basis for your denial, within 30 days of the date of this inspection report, to the U.S. Nuclear Regulatory Commission, ATTN: Document Control Desk, Washington DC 20555-0001; with copies to the Regional Administrator, Region IV; the Director, Office of Enforcement, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; and the NRC Resident Inspector at the Callaway Plant facility.",10,52,519,call_2002008.txt,0
+useless,,,"In accordance with 10 CFR 2.790 of the NRC's ""Rules of Practice,"" a copy of this letter and its enclosure will be available electronically for public inspection in the NRC Public Document Room or from the Publicly Available Records (PARS) component of NRC's document ADAMS is accessible from the NRC Web site at http://www.nrc.gov/NRC/ADAMS/index.html (the Public Electronic Reading Room).",10,519,908,call_2002008.txt,0
+useless,,,"Sincerely, /RA/ Ken E. Brockman, Director Division of Reactor Projects Docket: 50-483 License: NPF-30 Enclosures: 1.",10,908,1024,call_2002008.txt,0
+useless,,,NRC Inspection Report 50-483/00-07 2.,10,1024,1061,call_2002008.txt,0
+useless,,,"Supplemental Inspection Team Charter cc w/enclosure: Professional Nuclear Consulting, Inc. 19041 Raines Drive Derwood, Maryland 20855 John O'Neill, Esq.",10,1061,1213,call_2002008.txt,0
+useless,,,"Shaw, Pittman, Potts & Trowbridge 2300 N. Street, N.W.",10,1213,1267,call_2002008.txt,0
+useless,,,"Washington, D.C. 20037 Mark A. Reidmeyer, Regional Regulatory Affairs Supervisor Quality Assurance Union Electric Company P.O.",10,1267,1393,call_2002008.txt,0
+useless,,,"Box 620 Fulton, Missouri 65251",10,1393,1423,call_2002008.txt,0
+useless,,,Union Electric Company Manager - Electric Department Missouri Public Service Commission 301 W. High P.O.,12,0,105,call_2002008.txt,0
+useless,,,"Box 360 Jefferson City, Missouri 65102 Ronald A. Kucera, Director of Intergovernmental Cooperation P.O.",12,105,208,call_2002008.txt,0
+useless,,,"Box 176 Jefferson City, Missouri 65102 Otto L. Maynard, President and Chief Executive Officer Wolf Creek Nuclear Operating Corporation P.O.",12,208,347,call_2002008.txt,0
+useless,,,"Box 411 Burlington, Kansas 66839 Dan I. Bolef, President Kay Drey, Representative Board of Directors Coalition for the Environment 6267 Delmar Boulevard University City, Missouri 63130 Lee Fritz, Presiding Commissioner Callaway County Courthouse 10 East Fifth Street Fulton, Missouri 65251 Alan C. Passwater, Manager Licensing and Fuels AmerenUE One Ameren Plaza 1901 Chouteau Avenue P.O.",12,347,735,call_2002008.txt,0
+useless,,,"Box 66149 St. Louis, Missouri 63166-6149 J. V. Laux, Manager Quality Assurance Union Electric Company P.O.",12,735,841,call_2002008.txt,0
+useless,,,"Box 620 Fulton, Missouri 65251 Jerry Uhlmann, Director State Emergency Management Agency P.O.",12,841,934,call_2002008.txt,0
+useless,,,"Box 116 Jefferson City, Missouri 65101",12,934,972,call_2002008.txt,0
+useless,,,-3-,14,0,3,call_2002008.txt,0
+useless,,,"Union Electric Company Electronic distribution from ADAMS by RIV: Regional Administrator (EWM) DRP Director (KEB) DRS Director (ATH) Senior Resident Inspector (VGG) Branch Chief, DRP/B (DNG) Senior Project Engineer, DRP/B (RAK1) Section Chief, DRP/TSS (PHH) RITS Coordinator (NBH) DRS PSB Branch Chief (GMG) DRS Inspector (LTR) Scott Morris (SAM1) NRR Event Tracking System (IPAS) CWY Site Secretary (DVY) Dale Thatcher (DFT)",16,0,426,call_2002008.txt,0
+useless,,,-4-,18,0,3,call_2002008.txt,0
+useless,,,R:\_CW\2002\CW2002-08RP-RAK.wpd RIV:DRP/B DRS:OB DRS:EMB C:DRP/B RAKopriva HFBundy JEWhittemore DNGraves /RA/ /RA /RA/ /RA/ 4/17/02 4/17/02 4/23/02 4/23/02 OFFICIAL RECORD COPY T=Telephone,20,0,188,call_2002008.txt,0
+useless,,,D:DRP KEBrockman /RA/ 4/23/02 E=E-mail F=Fax,22,0,44,call_2002008.txt,0
+useless,,,ENCLOSURE U.S. NUCLEAR REGULATORY COMMISSION REGION IV,24,0,55,call_2002008.txt,0
+useless,,,Docket: License: Licensee: Facility: Report: Location: Date: Inspectors:,26,0,72,call_2002008.txt,0
+useless,,,"50-483 NPF-30 Union Electric Company Callaway Plant 50-483/02-08 Junction Highway CC and Highway O Fulton, Missouri February 19 through March 13, 2002 R. A. Kopriva, Senior Project Engineer, Project Branch B J. E. Whittemore, Senior Reactor Inspector, Engineering and Maintenance Branch H. F. Bundy, Senior Operations Engineer, Operations Branch Ken E. Brockman, Director Division of Reactor Projects",28,0,400,call_2002008.txt,0
+useless,,,Approved by:,30,0,12,call_2002008.txt,0
+useless,,,SUMMARY OF FINDINGS Callaway Plant NRC Inspection Report 50-483/02-08 IR 05000483-02-08; on 02/19/2002-03/08/2002; Union Electric Co; Callaway Plant Supplemental Inspection Report The inspection was conducted by a Senior Project Engineer and two region-based inspectors.,32,0,271,call_2002008.txt,0
+useless,,,The inspection identified one Green finding which was a noncited violation.,32,271,346,call_2002008.txt,0
+useless,,,"The significance of most findings is indicated by their color (Green, White, Yellow, Red) using Inspection Manual Chapter 0609, ""Significance Determination Process.""",32,346,511,call_2002008.txt,0
+useless,,,"Findings for which the significance determination process does not apply are indicated by ""No Color"" or by the severity level of the applicable violation.",32,511,665,call_2002008.txt,0
+useless,,,The NRC's program for overseeing the safe operation of commercial nuclear power reactors is described at its Reactor Oversight Process web site at http://www.nrc.gov/NRR/OVERSIGHT/index.html.,32,665,856,call_2002008.txt,0
+useless,,,A.,32,856,858,call_2002008.txt,0
+useless,,,"Inspector Identified Findings Cornerstone: Mitigating Systems · This supplemental inspection was performed by the NRC to assess the licensee's evaluation of the event that occurred between February 9-15, 2001, where one train of essential service water had been rendered inoperable for approximately 132 hours.",32,858,1168,call_2002008.txt,0
+useless,,,"If a loss of offsite power had occurred while the train of essential service water was inoperable, the Train B safety systems supported by essential service water, including an emergency diesel generator, would not have been available to perform their safety function.",32,1168,1436,call_2002008.txt,0
+useless,,,The finding was previously characterized as having low to moderate safety significance (White) in NRC Inspection Report 50-483/01-09.,32,1436,1569,call_2002008.txt,0
+useless,,,"During this supplemental inspection performed in accordance with Inspection Procedure 95002 and the enclosed charter, the inspectors determined that the licensee performed a thorough evaluation of the causes pertaining to the inoperable essential service water pump and correctly identified the extent of the condition.",32,1569,1888,call_2002008.txt,0
+team,procedural,organizational-training,"The licensee identified the primary root causes of the performance issues to be: (1) personnel did not know that they needed to secure the drain hose because corrective action from a previous event did not preclude foreign material from entering the suction bay for the essential service water pump, (2) the drain hose was not adequately secured because there was no procedure for the job, (3) the drain hose was not adequately secured because important information that should have been covered during the prejob brief was omitted, (4) personnel did not know that they needed to secure the drain hose because safety precautions and warnings were not included in the work package, (5) personnel that saw or were informed of the presence of a funnel without a drain hose did not have a questioning attitude, (6) the control room took over one hour to enter Technical Specification 3.0.3 after declaring Train B of the essential service water system inoperable because personnel found the procedure difficult to use, and (7) the control room took over one hour to enter Technical Specification 3.0.3 after declaring Train B of the essential service water system inoperable because training was not repeated enough for information to be learned and skills practiced.",32,1888,3151,call_2002008.txt,0
+useless,,,"With regard to the extent of condition, the licensee found that the first five root causes identified extended throughout the plant for both installation of leakage",32,3151,3315,call_2002008.txt,0
+useless,,,-2control devices and foreign material exclusion.,34,0,50,call_2002008.txt,0
+useless,,,The licensee specified appropriate corrective actions to address the root causes and had implemented these actions.,34,50,165,call_2002008.txt,0
+useless,,,"Because of the licensee's acceptable performance in addressing the inoperability of Train B of the essential service water system, the White finding associated with this issue will only be considered in assessing plant performance for a total of four quarters, in accordance with the guidance in IMC 0305, ""Operating Reactor Assessment Program.""",34,165,510,call_2002008.txt,0
+useless,,,Implementation of the licensee's corrective actions will be reviewed further during a future inspection.,34,510,614,call_2002008.txt,0
+useless,,,"· (Green) During the independent review, the team determined that the licensee failed to promptly identify the need for and implement corrective action to address the flow anomaly condition of the auxiliary feedwater system Train B that existed between February 2000 and March 28, 2001, where the flow through the recirculation valve was below the required flow.",34,614,976,call_2002008.txt,0
+useless,,,The condition had a credible impact on safety since the flow anomaly had only been addressed from the standpoint of pump performance and operability and not system performance and required train function.,34,976,1180,call_2002008.txt,0
+useless,,,"However, since there was no actual loss of safety function and the system would have delivered the required minimum of 500 gpm to two steam generators when the function was required, the finding was considered to be of very low safety significance.",34,1180,1428,call_2002008.txt,0
+useless,,,"Because of the very low safety significance and because the licensee included the item in their corrective action program by reopening Callaway Action Request 200000669 on March 1, 2002, this violation is being treated as a noncited violation in accordance with Section VI.A.1 of the NRC Enforcement Policy (Section 3R21).",34,1428,1750,call_2002008.txt,0
+useless,,,B. Licensee Identified Findings A violation of very low safety significance which was identified by the licensee has been reviewed by the inspectors.,34,1750,1899,call_2002008.txt,0
+useless,,,Corrective actions taken or planned by the licensee appear reasonable.,34,1899,1969,call_2002008.txt,0
+useless,,,This violation is listed in Section 4OA7.,34,1969,2010,call_2002008.txt,0
+useless,,,"Report Details 01 Inspection Scope This supplemental inspection was performed by the NRC, in accordance with Inspection Procedure 95002, ""Inspection for One Degraded Cornerstone or Any Three White Inputs in a Strategic Performance Area,"" and the attached charter to assess the licensee's evaluation associated with one train of essential service water (ESW) that had been rendered inoperable for approximately 132 hours.",36,0,421,call_2002008.txt,0
+useless,,,"If a loss of offsite power had occurred while the train of ESW was inoperable, the safety systems supported by ESW would not have been available to perform their safety function.",36,421,599,call_2002008.txt,0
+useless,,,"A white finding, related to the mitigating systems cornerstone in the reactor safety strategic performance area, was identified and documented in NRC Inspection Report 50-483/01-09.",36,599,780,call_2002008.txt,0
+useless,,,02 Evaluation of Inspection Requirements,36,780,820,call_2002008.txt,0
+useless,,,02.01 Problem Identification a.,38,0,31,call_2002008.txt,0
+useless,,,"Determine that the licensee's evaluation identifies who, and under what conditions, the issue was identified.",38,31,140,call_2002008.txt,0
+useless,,,"The evaluation determined that the licensee found, during a routine operational surveillance, that the Train B ESW pump would not run and was declared inoperable.",40,0,162,call_2002008.txt,0
+useless,,,Inspection of the pump revealed that a 20-foot section of reinforced tygon hose had dropped from a leakage collection device and become entwined around the pump.,40,162,323,call_2002008.txt,0
+useless,,,The licensee initiated Callaway Action Request (CAR) 200100515 to document the findings and track corrective actions associated with the event.,40,323,466,call_2002008.txt,0
+useless,,,b.,40,466,468,call_2002008.txt,0
+useless,,,Determine that the licensee's evaluation documents how long the issue existed and prior opportunities for identification.,40,468,589,call_2002008.txt,0
+useless,,,"The evaluation identified that a leakage collection device was installed on the ESW Train B prelube tank at 2:15 p.m. on February 9, 2001.",42,0,138,call_2002008.txt,0
+useless,,,"At 4:35 p.m. a nonlicensed operator performing rounds noticed the leakage collection funnel installed, but without a drain hose attached.",42,138,275,call_2002008.txt,0
+useless,,,At this time the licensee had an opportunity to identify the loss of the tygon drain hose and to look for the missing hose.,42,275,398,call_2002008.txt,0
+useless,,,"No questions were asked about any previously installed drain hose, and another hose was attached to the leakage collection funnel.",42,398,528,call_2002008.txt,0
+useless,,,"The ESW pump failed to start, was declared inoperable at 8:51a.m.",42,528,593,call_2002008.txt,0
+useless,,,"on February 14, 2001, and was not put back into service until 2:31 a.m. on February 15.",42,593,680,call_2002008.txt,0
+useless,,,"The licensee concluded that the pump had been inoperable for a total of 132 hours, which exceeded the Technical Specification (TS) allowed outage time of 72 hours.",42,680,843,call_2002008.txt,0
+useless,,,c. Determine that the licensee's evaluation documents the plant specific risk consequences and compliance concerns associated with the issue(s) both individually and collectively.,42,843,1022,call_2002008.txt,0
+useless,,,A plant specific probabilistic risk assessment was performed independent of the NRC's assessment.,44,0,97,call_2002008.txt,0
+useless,,,"The licensee's risk assessment, PARER No.",44,97,138,call_2002008.txt,0
+useless,,,"01-139, determined that the incremental conditional core damage probability for this incident was 2.32E-6.",44,138,244,call_2002008.txt,0
+useless,,,"-2Callaway letter ULNRC-04545, ""Reply to Notice of Violation,"" dated August 20, 2001, specifically addressed the compliance concerns associated with the event.",46,0,160,call_2002008.txt,0
+useless,,,"The corrective actions taken and results achieved, corrective actions to avoid further violations, and dates when full compliance or the corrective actions performed were identified.",46,160,342,call_2002008.txt,0
+useless,,,The team's review of the Callaway letter found the licensee's identification of compliance issues and corrective actions for the event thorough.,46,342,486,call_2002008.txt,0
+useless,,,02.02 Root Cause and Extent of Condition Evaluation a.,46,486,540,call_2002008.txt,0
+useless,,,Determine that the problem was evaluated using systematic methods to identify root causes and contributing causes.,46,540,654,call_2002008.txt,0
+useless,,,The inspectors concluded that the root cause analysis was performed in a systematic manner which correctly and completely determined the root causes and contributing factors.,48,0,174,call_2002008.txt,0
+useless,,,"The evaluation team performed the root cause analysis using an industry accepted methodology which employed the following techniques: records review, personnel interviews, events and causal factor charting, barrier analysis, and change analysis.",48,174,419,call_2002008.txt,0
+useless,,,b.,48,419,421,call_2002008.txt,0
+useless,,,Determine that the root cause evaluation was conducted to a level of detail commensurate with the significance of the problem.,48,421,547,call_2002008.txt,0
+useless,,,The inspectors concluded that the licensee's analysis was performed to a level of detail commensurate with the safety significance of the ESW pump.,50,0,147,call_2002008.txt,0
+useless,,,CAR 200100515 was identified as a Level 1 CAR which is the licensee's highest level designation for corrective action documents.,50,147,275,call_2002008.txt,0
+useless,,,The licensee's evaluation identified seven root causes.,50,275,330,call_2002008.txt,0
+team,procedural,organizational-training,"The licensee identified the primary root causes of the performance issues to be: (1) personnel did not know that they needed to secure the drain hose because corrective action from a previous event did not preclude foreign material from entering the suction bay for the ESW pump, (2) the drain hose was not adequately secured because there was no procedure for the job, (3) the drain hose was not adequately secured because important information that should have been covered during the prejob brief was omitted, (4) personnel did not know that they needed to secure the drain hose because safety precautions and warnings were not included in the work package, (5) personnel that saw or were informed of the presence of a funnel without a drain hose did not have a questioning attitude, (6) the control room took over one hour to enter TS 3.0.3 after declaring Train B of the ESW system inoperable because personnel found the procedure difficult to use, and (7) the control room took over one hour to enter TS 3.0.3 after declaring Train B of the ESW system inoperable because training was not repeated enough for information to be learned and skills practiced.",50,330,1491,call_2002008.txt,0
+team ,organizational,,c. Determine that the root cause evaluation included a consideration of prior occurrences of the problem and knowledge of prior operating experience.,50,1491,1640,call_2002008.txt,0
+useless,,,The inspectors concluded that the root cause analysis adequately considered historical information associated with the problem of foreign material exclusion (FME).,52,0,163,call_2002008.txt,0
+useless,,,The licensee had identified a previous occurrence of foreign material intrusion into the ESW pump bay and thoroughly reviewed the actions taken from that event.,52,163,323,call_2002008.txt,0
+useless,,,CAR 199800301,52,323,336,call_2002008.txt,0
+useless,,,"-3and two Requests For Resolution (RFR), 18874A and 19044A, were written when a drive shaft retainer pin was dropped into an ESW pump suction bay.",54,0,147,call_2002008.txt,0
+useless,,,The pin dropped straight down into the bay and had not moved nor was it sucked into the ESW pump during pump operation.,54,147,266,call_2002008.txt,0
+useless,,,The licensee's assessment of the CAR and RFR concluded that the FME controls in place were adequate and that permanent FME covers were not required.,54,266,414,call_2002008.txt,0
+useless,,,"This was based on the administrative controls in place, namely that work control procedures would require an FME cover for a given job.",54,414,549,call_2002008.txt,0
+useless,,,"Also, material that could possibly pass through the floor penetration would not seriously threaten the ability of the ESW pump to perform its function.",54,549,700,call_2002008.txt,0
+organizational,,,"The licensee concluded that, although they had instituted additional FME controls in 1998 when a problem was previously identified, the controls would not have been detailed or comprehensive enough to preclude entry of the tygon hose into the drain.",54,700,949,call_2002008.txt,0
+organizational,,,"The NRC's inspection team concluded that had the licensee been more rigorous in their review and justification of the previous FME occurrence, the recent ESW pump inoperability event may not have occurred.",54,949,1154,call_2002008.txt,0
+useless,,,d. Determine that the root cause evaluation included consideration of potential common causes and extent of condition of the problem.,54,1154,1287,call_2002008.txt,0
+useless,,,The licensee's evaluation considered the potential for common causes.,56,0,69,call_2002008.txt,0
+useless,,,"A common cause comparison was performed with CAR 200000377 (which addressed three White findings in the radiation protection area), in which there were six common causes identified.",56,69,250,call_2002008.txt,0
+team,organizational-training,procedural,"These include: (1) the work or situation was significant or complicated enough to warrant some type of standards, policies, or administrative controls, (2) corrective action for a known deficiency was not recommended or disregarded, (3) standards, directives, or policies were not communicated from management down through the organization, (4) safety precautions and warnings were not included in the work package, (5) important information that should have been covered during the prejob brief was omitted, and (6) continuing training or retraining of personnel was infrequent, insufficient in depth, or otherwise inadequate.",56,250,877,call_2002008.txt,0
+useless,,,"In bounding the extent of condition, the licensee found that the first five root causes, pertaining to FME controls and leakage collection devices, extended throughout the plant.",56,877,1055,call_2002008.txt,0
+organizational-documentation,,,The requirements to document or log leakage collection device installation was weak and incomplete.,56,1055,1154,call_2002008.txt,0
+useless,,,"The licensee completed an assessment of leakage collection device controls, which resulted in several recommendations which the licensee has implemented.",56,1154,1307,call_2002008.txt,0
+useless,,,"A review of the FME control program was also performed, citing similar recommendations (i.e., revise the procedure, strengthen prejob briefings, install placards).",56,1307,1470,call_2002008.txt,0
+useless,,,02.03 Corrective Actions a.,56,1470,1497,call_2002008.txt,0
+useless,,,Determine that appropriate corrective actions are specified for each root/contributing cause or that there is an evaluation that no actions are necessary.,56,1497,1651,call_2002008.txt,0
+useless,,,The inspectors concluded that the corrective actions appropriately addressed the root causes.,58,0,93,call_2002008.txt,0
+useless,,,The inspectors found that licensee representatives had identified specific corrective actions to address each of the documented root causes.,58,93,233,call_2002008.txt,0
+useless,,,The inspectors,58,233,247,call_2002008.txt,0
+useless,,,"-4discussed the proposed corrective actions with licensee representatives and verified that each of the recommended corrective actions identified through the root cause analysis was tracked in the facility's corrective action program in accordance with Administrative Procedure APA-Z.-00500, ""Corrective Action Program.""",60,0,321,call_2002008.txt,0
+team,,,"The NRC inspection team noted that, although FME controls were discussed within the root causes identified, FME as a specific root cause to the ESW pump inoperability event was not discussed.",60,321,512,call_2002008.txt,0
+useless,,,This observation is discussed in Section 02.04. b.,60,512,562,call_2002008.txt,0
+useless,,,Determine that the corrective actions have been prioritized with consideration of the risk significance and regulatory compliance.,60,562,692,call_2002008.txt,0
+useless,,,The inspectors concluded that the corrective actions were properly prioritized.,62,0,79,call_2002008.txt,0
+useless,,,The licensee prioritized the corrective actions so that the primary root causes were addressed first.,62,79,180,call_2002008.txt,0
+useless,,,A completion date and responsible person were assigned for each corrective action.,62,180,262,call_2002008.txt,0
+useless,,,c. Determine that a schedule has been established for implementing and completing the corrective actions.,62,262,367,call_2002008.txt,0
+useless,,,"The licensee established due dates for the corrective actions, but had difficulty completing the action items by the established dates.",64,0,135,call_2002008.txt,0
+useless,,,The due dates established by the licensee were sufficient to prevent recurrence of a similar event of foreign material intrusion disabling the ESW pumps.,64,135,288,call_2002008.txt,0
+useless,,,The inspectors noted that there were numerous changes as the status of the root cause responses changed.,64,288,392,call_2002008.txt,0
+useless,,,"These included due date changes, changes in persons assigned as leads for completing the different root cause responses, department assignee changes, and action assignee changes.",64,392,570,call_2002008.txt,0
+useless,,,"The original estimated date of completion of CAR 200100515, including the assessments, was October 2001.",64,570,674,call_2002008.txt,0
+useless,,,"As of February 2002 the major activities had been completed, with only a few minor items left for closure.",64,674,780,call_2002008.txt,0
+useless,,,The inspectors noted that many of the corrective actions that were of a more generic or administrative nature or covered other areas of the plant were still in varying stages of completeness.,64,780,971,call_2002008.txt,0
+useless,,,Examples included: · The ESW prelube tanks are scheduled to be changed out during Refuel 12.,64,971,1063,call_2002008.txt,0
+useless,,,This was evaluated as an acceptable time frame for replacement.,64,1063,1126,call_2002008.txt,0
+useless,,,"The self-assessment of the ESW system material condition was tracked under separate CARs with the recommendations contained in Self-Assessment SA01NE-014, ""ESW Equipment Performance and Material Condition,"" dated November 16, 2001.",64,1126,1357,call_2002008.txt,0
+useless,,,"Other areas in the plant being evaluated for additional FME, particularly near pump sumps, was still being evaluated.",64,1357,1474,call_2002008.txt,0
+useless,,,·,66,0,1,call_2002008.txt,1
+useless,,,·,68,0,1,call_2002008.txt,1
+useless,,,"-5· Training of plant personnel, particularly radiation and decontamination personnel regarding installation of leakage collection devices, is still being developed and taught.",70,0,177,call_2002008.txt,0
+useless,,,Determine that quantitative or qualitative measures of success have been developed for determining the effectiveness of the corrective actions to prevent recurrence.,70,177,342,call_2002008.txt,0
+useless,,,d.,72,0,2,call_2002008.txt,0
+useless,,,The licensee's routine and nonroutine maintenance and Technical Specification surveillances were quantitative measures of success.,74,0,130,call_2002008.txt,0
+useless,,,"The implementation of drain covers, drain hose attachments, placards, prejob briefs and walkdowns have aided and prevented recurrence of ESW pump inoperability due to foreign material.",74,130,314,call_2002008.txt,0
+useless,,,Several multitask maintenance activities have taken place on the ESW system within the ESW pump houses with no problems or concerns with leakage control devices or with FME.,74,314,487,call_2002008.txt,0
+useless,,,General Employee Training continues to reinforce the need for their FME program and emphasizes the identification and instructions of posted placards and information disseminated during prejob briefings.,74,487,690,call_2002008.txt,0
+useless,,,These actions were all the result of the licensee's corrective actions.,74,690,761,call_2002008.txt,0
+useless,,,"Qualitative measures taken by the licensee included performance of Self-Assessment SA01-OP-006, ""Leak Collection Devices Self-Assessment,"" dated November 16, 2001.",74,761,924,call_2002008.txt,0
+useless,,,"Most of the recommendations were implemented in site-wide Procedure OTS-Z.-06032, ""Leak Collection Devices,"" Revision 000, dated December 3, 2001.",74,924,1070,call_2002008.txt,0
+useless,,,All leak collection devices were logged and inspected periodically.,74,1070,1137,call_2002008.txt,0
+useless,,,"The team inspected 5 of the 13 leak collection devices on the list of February 24, 2002, and found the installations to be adequate.",74,1137,1269,call_2002008.txt,0
+useless,,,"Also, training had been conducted to promote leak awareness.",74,1269,1329,call_2002008.txt,0
+useless,,,02.04 Independent Assessment of the Extent of Condition Five of the seven root causes discussed in the licensee's root cause evaluation for this event referred to various aspects of installation and control of the leak collection device which failed and caused ESW Pump B to become inoperable.,74,1329,1622,call_2002008.txt,0
+team,,,"Although FME control was discussed in several of the identified root causes and in the associated corrective actions, it was not specifically discussed as a primary root cause.",74,1622,1798,call_2002008.txt,0
+team,organizational,,The NRC inspection team considered inadequate FME control a root cause for this event and evaluated the extent of this condition as well as the extent of the control of leak collection devices.,74,1798,1991,call_2002008.txt,0
+useless,,,The team inspected the pump intake areas for the ESW pumps and noted that adequate provisions had been made to secure leak collection devices and prevent foreign material from entering the pumps.,74,1991,2186,call_2002008.txt,0
+useless,,,"The team also walked down the intakes for the river, service water, and circulating water pumps and noted some potential for entry of foreign materials.",74,2186,2338,call_2002008.txt,0
+useless,,,"However, no events had occurred in recent years and the licensee was continuing to evaluate potential preventive measures.",74,2338,2460,call_2002008.txt,0
+useless,,,"Some preventive measures were already in place, such as securing hard hats in the intake areas for the circulating and service water pumps.",74,2460,2599,call_2002008.txt,0
+useless,,,The team did not note any vulnerabilities that had not been previously identified by the licensee.,74,2599,2697,call_2002008.txt,0
+useless,,,"-6As previously stated, the licensee had performed Self-Assessment SA01-OP-006, ""Leak Collection Devices Self-Assessment,"" dated November 16, 2001, and implemented most recommendations in site-wide Procedure OTS-Z.-06032, ""Leak Collection Devices,"" Revision 000, dated December 3, 2001.",76,0,287,call_2002008.txt,0
+useless,,,All leak collection devices were logged and inspected periodically.,76,287,354,call_2002008.txt,0
+useless,,,"The team inspected 5 of the 13 leak collection devices on the list of February 24, 2002, and found the installations to be adequate.",76,354,486,call_2002008.txt,0
+useless,,,"Also, training had been conducted to promote leak awareness.",76,486,546,call_2002008.txt,0
+useless,,,"The NRC inspection team reviewed Procedure APA-Z.-0081, ""Foreign Material Exclusion,"" Revision 16, Temporary Change Notice 01-0229, issued June 8, 2001.",76,546,698,call_2002008.txt,0
+useless,,,"The team noted that the only change made since the ESW pump inoperability event was the statement, ""Where accessible, a thorough vacuum of FME area should be performed.""",76,698,867,call_2002008.txt,0
+useless,,,No changes were made pursuant to this event.,76,867,911,call_2002008.txt,0
+useless,,,Procedure APA-Z.-0081 covered administrative controls for FME adequately.,76,911,984,call_2002008.txt,0
+useless,,,"However, the team noted that, except in special areas, there was little guidance for selecting FME covers.",76,984,1090,call_2002008.txt,0
+useless,,,"Typically, the checklists stated that cover devices should be made of an adequate material deemed acceptable by the supervisor for the location and size of the opening to be covered.",76,1090,1272,call_2002008.txt,0
+useless,,,No suggested material and configuration list for covers was included.,76,1272,1341,call_2002008.txt,0
+useless,,,"The NRC inspection team reviewed a list of 40 CARS involving FME considerations which were initiated since February 2, 2001.",76,1341,1465,call_2002008.txt,0
+useless,,,"From that list the team selected CAR 200103181, ""Foreign Material Entered Main Feedwater Piping During AEHV0034 Valve Stroke,"" for further review.",76,1465,1611,call_2002008.txt,0
+useless,,,"This CAR was initiated May 15, 2001, and classified at Significance Level 2.",76,1611,1687,call_2002008.txt,0
+useless,,,"This event occurred when an FME cover consisting of four strips of red duct tape, each about 8 to 9 inches long, was drawn into the system when a vacuum was inadvertently created in the system during operation of Valve AEHV0034 for troubleshooting.",76,1687,1935,call_2002008.txt,0
+useless,,,"The version which the NRC inspection team initially reviewed was updated on January 27, 2002, to change the due date from January 18 to March 8, 2002.",76,1935,2085,call_2002008.txt,0
+useless,,,"This version largely discussed searches for the tape, which was never found.",76,2085,2161,call_2002008.txt,0
+useless,,,Suitability of the tape as an FME cover was not discussed.,76,2161,2219,call_2002008.txt,0
+useless,,,Several due date extensions discussed allowing time to consider departmental responses and the need for additional corrective actions.,76,2219,2353,call_2002008.txt,0
+useless,,,"However, the only corrective action discussed was the attempt to locate the tape.",76,2353,2434,call_2002008.txt,0
+useless,,,"The NRC inspection team concluded that the tape would have been captured by the strainer at the inlet to the condensate pumps if it made its way through the condenser and, therefore, was not a significant safety concern.",76,2434,2654,call_2002008.txt,0
+useless,,,"The team questioned why, after more than 9 months, CAR 200103181 did not include a discussion of possible root causes in accordance with Procedure APA-Z.-00500, ""Corrective Action Program,"" Revision 031.",76,2654,2857,call_2002008.txt,0
+useless,,,"Paragraph 7.8.2.3 states ""The Lead ensures a Thorough Root Cause Analysis is being performed by the Responsible Department.""",76,2857,2981,call_2002008.txt,0
+useless,,,"Paragraph 7.8.2.3.3 states ""A copy of the Thorough Root Cause Analysis is to be attached to Event Resolution (ER) Action.""",76,2981,3103,call_2002008.txt,0
+useless,,,"After the team discussed its concerns with the lead, CAR 200103181 was updated on February 28, 2002, to discuss valve leakage which caused the vacuum and state corrective actions to prevent buildup of the vacuum under similar conditions.",76,3103,3340,call_2002008.txt,0
+organizational,,,It was not apparent to the team why work control deficiencies and FME control deficiencies were not considered as potential root causes for this event.,76,3340,3491,call_2002008.txt,0
+useless,,,"-7The NRC inspection team noted that CAR 200103320 had been initiated on May 21, 2001, to address several work control issues, including loss of the tape.",78,0,155,call_2002008.txt,0
+useless,,,CAR 200103320 referred work control issues associated with loss of the tape back to CAR 200103181.,78,155,253,call_2002008.txt,0
+useless,,,"As discussed above, even though CAR 200103181 remained open, work control had not been discussed.",78,253,350,call_2002008.txt,0
+useless,,,The NRC inspection team concluded that coordination of transfer of responsibility for resolving work control issues associated with loss of the tape was inadequate.,78,350,514,call_2002008.txt,0
+useless,,,"During attempts to retrieve the tape, a work control event occurred, which resulted in the emission of steam from vents on Feedwater Heaters 6A and 6B.",78,514,665,call_2002008.txt,0
+useless,,,This potentially impacted two jobs -- tape retrieval and feedwater piping repair -- which were stopped.,78,665,768,call_2002008.txt,0
+useless,,,"The licensee initiated CAR 200103249 on May 18, 2001, and classified it as Significance Level 1.",78,768,864,call_2002008.txt,0
+useless,,,Action 3 covered several actions recommended by the licensee's event review team.,78,864,945,call_2002008.txt,0
+useless,,,One of the actions was to evaluate the use of red tape as FME covers.,78,945,1014,call_2002008.txt,0
+useless,,,The NRC inspection team discussed potential root causes with the assigned root cause analyst.,78,1014,1107,call_2002008.txt,0
+useless,,,"The analyst stated that the root cause evaluation had not been completed, but that the use of tape as an FME cover was not being considered as a root cause for this event.",78,1107,1278,call_2002008.txt,0
+useless,,,"The due date for this CAR was April 19, 2002.",78,1278,1323,call_2002008.txt,0
+useless,,,The NRC inspection team concluded that evaluation of the use of the red duct tape as an FME cover should have been performed under CAR 200103181.,78,1323,1468,call_2002008.txt,0
+useless,,,The NRC inspection team concluded that the licensee had not demonstrated an appropriate level of coordination and urgency in resolving outage work control issues.,78,1468,1630,call_2002008.txt,0
+useless,,,"The team determined that, in light of the additional FME event involving the red duct tape, the licensee's evaluation of its FME control program was not comprehensive and did not necessarily identify all vulnerabilities.",78,1630,1850,call_2002008.txt,0
+useless,,,The licensee issued CAR 200201331 to address this concern.,78,1850,1908,call_2002008.txt,0
+useless,,,The team observed that the root cause analyses for Significance Level 2 CARS were sometimes not thorough and frequently disjointed.,78,1908,2039,call_2002008.txt,0
+useless,,,The licensee issued CAR 200201332 to address this observation.,78,2039,2101,call_2002008.txt,0
+useless,,,3,78,2101,2103,call_2002008.txt,0
+useless,,,"REACTOR SAFETY Cornerstones: Initiating Events, Mitigating Systems, Barrier Integrity, Emergency Preparedness",78,2103,2212,call_2002008.txt,0
+useless,,,"3R02 Evaluations of Changes, Tests, and Experiments (71111.02) a.",80,0,65,call_2002008.txt,0
+useless,,,"Inspection Scope The inspectors reviewed four safety evaluations associated with safety-related pumps to assess whether the licensee's evaluations were consistent with the requirements of 10 CFR 50.59, ""Evaluations of Changes, Tests, or Experiments.""",80,65,315,call_2002008.txt,0
+useless,,,"The inspectors reviewed eight safety evaluation screens, in which the licensee determined that safety evaluations were not required, to ensure that the licensee's exclusion of a full evaluation was consistent with the requirements of 10 CFR 50.59, ""Evaluations of Changes, Tests, or Experiments.""",80,315,611,call_2002008.txt,0
+useless,,,"-8Finally, the inspectors reviewed a sample of CARS initiated by the licensee to determine whether problems or deficiencies associated with 10 CFR 50.59 requirements did or did not exist.",82,0,188,call_2002008.txt,0
+useless,,,b.,82,188,190,call_2002008.txt,0
+useless,,,Findings No findings of significance were identified.,82,190,243,call_2002008.txt,0
+useless,,,3R04 Equipment Alignment (71111.04) a.,82,243,281,call_2002008.txt,0
+useless,,,Inspection Scope The inspectors performed a partial walkdown of the Train B ESW system to verify equipment alignment and identify any discrepancies that could impact the function of the systems and therefore increase risk.,82,281,503,call_2002008.txt,0
+useless,,,The inspectors also verified that equipment alignments that could impact this mitigating system had been identified and were prioritized for resolution.,82,503,655,call_2002008.txt,0
+useless,,,b.,82,655,657,call_2002008.txt,0
+useless,,,Findings No findings of significance were identified.,82,657,710,call_2002008.txt,0
+useless,,,3R12 Maintenance Rule Implementation (71111.12) b.,82,710,760,call_2002008.txt,0
+useless,,,"Inspection Scope The inspectors reviewed the licensee's maintenance rule program to determine if it was effective at monitoring and maintaining the safety-related and important-to-safety functions associated with fluid systems, with an emphasis on pumps.",82,760,1014,call_2002008.txt,0
+useless,,,"To make this assessment, the inspectors requested the licensee to provide a 3-year history of structures, systems, and components (SSCs) that were placed into and out of Category (a)(1).",82,1014,1200,call_2002008.txt,0
+useless,,,The inspectors observed that a total of 19 instances of SSCs were identified as exceeding their performance criteria during this 3-year period.,82,1200,1343,call_2002008.txt,0
+useless,,,Some SSCs had exceeded their performance criteria more than once during the 3-year period.,82,1343,1433,call_2002008.txt,0
+useless,,,"However, only 7 SSCs had been placed in Category (a)(1).",82,1433,1489,call_2002008.txt,0
+useless,,,"With this information, the inspectors performed the following: · A review of the corrective action documents and evaluations related to the 12 SSCs that were not placed in Category (a)(1).",82,1489,1677,call_2002008.txt,0
+useless,,,A review to determine if the licensee's identification and correction of programmatic issues and generic implications were complete and effective.,82,1677,1823,call_2002008.txt,0
+useless,,,A review to determine the effectiveness of the goals established for those SSCs that were placed in Category (a)(1).,82,1823,1939,call_2002008.txt,0
+useless,,,A review of the corrective maintenance performed on safety-related pumps during the 3-year period to determine the percentage of system/train,82,1939,2080,call_2002008.txt,0
+useless,,,·,84,0,1,call_2002008.txt,1
+useless,,,·,86,0,1,call_2002008.txt,1
+useless,,,·,88,0,1,call_2002008.txt,1
+useless,,,-9unavailability that was attributed to pumps or their prime movers.,90,0,69,call_2002008.txt,0
+useless,,,"This review included pumps in the auxiliary feedwater, component cooling water, essential service water, high pressure safety injection, residual heat removal, and safety injection systems.",90,69,258,call_2002008.txt,0
+useless,,,· A performance assessment of safety-related pumps following the licensee's adjustment of maintenance rule program performance criteria in response to programmatic issues.,90,258,429,call_2002008.txt,0
+useless,,,The inspectors performed further review of recent pump performance to assure that the percentage of unavailability due to pump performance problems was satisfactory.,90,429,594,call_2002008.txt,0
+useless,,,The inspectors used the information from the above review to assess the adequacy and effectiveness of the licensee's maintenance rule program for monitoring and evaluation of safety-related pump performance.,92,0,207,call_2002008.txt,0
+useless,,,b.,92,207,209,call_2002008.txt,0
+useless,,,Findings No findings of significance were identified.,92,209,262,call_2002008.txt,0
+useless,,,3R15 Operability Evaluations (71111.15) a.,92,262,304,call_2002008.txt,0
+useless,,,"Inspection Scope The inspectors reviewed the evaluation for ESW Pump B to ensure that operability was properly justified and that the component and system remained available: SOS 01-0515 Operability of PEF01B following removal of foreign material from the pump suction Self-assessment ""ESW Equipment Performance and Material Condition,"" dated November 16, 2001",92,304,664,call_2002008.txt,0
+useless,,,SA01-NE-014,94,0,11,call_2002008.txt,0
+useless,,,b.,96,0,2,call_2002008.txt,0
+useless,,,Findings No findings of significance were identified.,98,0,53,call_2002008.txt,0
+useless,,,3R17 Permanent Plant Modifications (71111.17B) a.,100,0,49,call_2002008.txt,0
+useless,,,Inspection Scope The inspectors reviewed four permanent plant modification packages associated with safety-related pumps to evaluate the effectiveness of the program for implementing modifications to risk-significant SSCs.,100,49,271,call_2002008.txt,0
+useless,,,"As such, this review was partially integrated with the review to assess the licensee's program for the evaluation of changes, tests, and experiments.",100,271,420,call_2002008.txt,0
+useless,,,The inspectors evaluated the effectiveness of the licensee's corrective action process to identify and correct problems concerning permanent plant modifications.,100,420,581,call_2002008.txt,0
+useless,,,The inspectors,100,581,595,call_2002008.txt,0
+useless,,,-10reviewed CARS and the subsequent corrective actions pertaining to problems and errors regarding permanent plant modifications.,102,0,130,call_2002008.txt,0
+useless,,,b.,102,130,132,call_2002008.txt,0
+useless,,,Findings No findings of significance were identified.,102,132,185,call_2002008.txt,0
+useless,,,3R19 Postmaintenance Testing (71111.19) a.,102,185,227,call_2002008.txt,0
+useless,,,"Inspection Scope The inspectors reviewed the pump testing procedures listed in the attachment to this report in order to determine if the procedures adequately addressed test instrument accuracy, conformed to the ASME Section XI Code, clearly evaluated safety function performance, and provided results for adequate trending of pump performance.",102,227,572,call_2002008.txt,0
+useless,,,Discussions were held with engineering analysis staff personnel to evaluate the adequacy of the pump test methodology and how the test results related to actual inplant performance during an event.,102,572,769,call_2002008.txt,0
+useless,,,The inspectors requested and received information related to the calculated flow margin available for the motor-driven auxiliary feedwater pumps.,102,769,914,call_2002008.txt,0
+useless,,,This necessitated additional review of calculated pump performance curves and the Quality Assurance justification of the code and model used to generate the curves.,102,914,1078,call_2002008.txt,0
+useless,,,b.,102,1078,1080,call_2002008.txt,0
+useless,,,Findings No findings of significance were identified.,102,1080,1133,call_2002008.txt,0
+useless,,,3R21 Safety System Design and Performance Capability (71111.21) a.,102,1133,1199,call_2002008.txt,0
+useless,,,"Inspection Scope During the course of the inspection, the inspectors reviewed corrective action program performance related to the following: · · system and component test failures, review of industry, regulatory, and vendor information for applicability to the Callaway facility and programs affected by the information, initiation of event cause determination and identification of corrective action to address the cause(s), identification of corrective action to address quality assurance audit and selfassessment findings, and the program performance in the identification of generic implications and the identification of corrective action to preclude recurrence.",102,1199,1867,call_2002008.txt,0
+useless,,,·,104,0,1,call_2002008.txt,1
+useless,,,·,106,0,1,call_2002008.txt,1
+useless,,,·,108,0,1,call_2002008.txt,1
+useless,,,-11The inspectors collectively assessed the effectiveness of the licensee's corrective action program as it pertained to the event and the risk-significant functional performance of safety-related pumps.,110,0,204,call_2002008.txt,0
+useless,,,b.,110,204,206,call_2002008.txt,0
+useless,,,Findings The inspectors reviewed corrective action program documents that identified abnormal or failed testing results for the motor-driven auxiliary feedwater pumps.,110,206,373,call_2002008.txt,0
+useless,,,Three of the CARS provided identified less than adequate or required test flow for the Trains A and B pumps.,110,373,481,call_2002008.txt,0
+useless,,,"The inspectors performed a detailed review of the following documents: · CAR 200200281 identified an abnormally low test flow associated with the Train A pump on January 16, 2002.",110,481,660,call_2002008.txt,0
+useless,,,"CAR 200000386 identified that the Train B pump did not meet the acceptable flow rate during the required inservice test of pump performance on February 23, 2000.",110,660,821,call_2002008.txt,0
+useless,,,"CAR 200000669 identified that the Train B pump continued to remain below the acceptable flow rate during the required inservice test of pump performance on March 27, 2000.",110,821,992,call_2002008.txt,0
+useless,,,·,112,0,1,call_2002008.txt,1
+useless,,,·,114,0,1,call_2002008.txt,1
+useless,,,0.1,116,0,2,call_2002008.txt,0
+useless,,,"The inspectors reviewed the circumstances related to the Train A pump low test flow on January 16, 2002, and reported in CAR 200200281.",118,0,135,call_2002008.txt,0
+useless,,,The licensee's inspection determined that pump performance was degraded because of a previous event related to the deterioration of the floating interface seal in the condensate storage tank and the subsequent release of debris into the auxiliary feedwater system.,118,135,399,call_2002008.txt,0
+useless,,,The licensee flushed and cleaned the debris from the system and installed a spare rotating element in order to restore pump performance.,118,399,535,call_2002008.txt,0
+useless,,,The new pump rotating element did not significantly improve performance.,118,535,607,call_2002008.txt,0
+useless,,,Testing indicated that it was below the vendor's performance curve throughout the required operating range.,118,607,714,call_2002008.txt,0
+useless,,,The loss of normal feedwater event analysis assumed that each motor-driven auxiliary feedwater pump would deliver 250 gpm to two steam generators at a pressure of 1221 pig.,118,714,886,call_2002008.txt,0
+useless,,,The licensee used a code calculation applied to a model of the Callaway auxiliary feedwater system and determined that the Train A pump would deliver 75 gpm to the recirculation flow path and a total of 509 gpm to two steam generators at the assumed event conditions.,118,886,1153,call_2002008.txt,0
+useless,,,This left less than 2 percent calculated margin for the required feedwater flow.,118,1153,1233,call_2002008.txt,0
+useless,,,"The inspectors examined Calculation AL-19, ""A.W.",118,1233,1281,call_2002008.txt,0
+useless,,,"Flow Model Using PIPE2000,"" Revision 1, which modeled Trains A and B as well as the turbine-driven auxiliary feedwater pump.",118,1281,1405,call_2002008.txt,0
+useless,,,The inspectors determined that the licensee's analysts had used Kentucky PIPE Code Version 1.226 with the PIPE2000 model for the auxiliary feedwater system.,118,1405,1561,call_2002008.txt,0
+useless,,,"The inspectors found that the code was reverified on November 8, 2001, in accordance with Procedure EDP-Z.-04011, ""Nuclear Engineering Analytical Software Controls,"" Revision 8.",118,1561,1738,call_2002008.txt,0
+useless,,,"The current auxiliary feedwater system model calculation was reviewed and approved in accordance with Procedure EDP-Z.-04023, ""Calculations,""",118,1738,1879,call_2002008.txt,0
+useless,,,-12Revision 14.,120,0,16,call_2002008.txt,0
+useless,,,"Further, the inspectors reviewed the assumptions in the model calculation and observed that there was sufficient conservatism.",120,16,142,call_2002008.txt,0
+useless,,,"Therefore, it was concluded that the calculated accident flow met the design basis.",120,142,225,call_2002008.txt,0
+useless,,,"However, the licensee's staff is currently researching what corrective action is needed to improve pump performance and the safety analysis margin.",120,225,372,call_2002008.txt,0
+useless,,,".2 During quarterly inservice testing of motor-driven auxiliary feedwater Pump B on February 23, 2000, the maximum flow obtained through the fully-open pump recirculation valve was 122 gpm.",120,372,561,call_2002008.txt,0
+useless,,,The minimum flow required for the test was 124-127 gpm.,120,561,616,call_2002008.txt,0
+useless,,,"In accordance with the ASME Section XI Code, the licensee's staff placed the pump in the ALERT Classification, initiated CAR 200000386, and determined that the pump was operable on the basis of adequate flow rate plus margin.",120,616,841,call_2002008.txt,0
+useless,,,"After verifying test instrument calibration, a work request was initiated to troubleshoot the problem.",120,841,943,call_2002008.txt,0
+useless,,,The pump was placed on a monthly testing schedule due to the ALERT Inservice Test Program classification.,120,943,1048,call_2002008.txt,0
+useless,,,"The licensee also initiated RFR 20473 on February 24, 2000, and closed it on February 26, 2000, after providing a detailed operability review and referencing NUREG-1482, ""Guidelines for Inservice Testing at Nuclear Power Plants,"" to state that a flow rate of 122 gpm was acceptable because of an allowable 2 percent tolerance for the minimum reference value.",120,1048,1406,call_2002008.txt,0
+useless,,,"A test conducted on March 27, 2000, resulted in 120 gpm recirculation flow.",120,1406,1481,call_2002008.txt,0
+useless,,,"The reason for the low flow was still not identified and the licensee opened CAR 200000669, which absorbed open CAR 200000386 (closed on April 11, 2000).",120,1481,1634,call_2002008.txt,0
+useless,,,"This document stated that the root cause was slight pump degradation, minor recirculation line blockage, or both.",120,1634,1747,call_2002008.txt,0
+useless,,,"The document stated that there was uncertainty as to the exact cause because the test is performed on the ""flat portion"" of the pump's performance curve.",120,1747,1900,call_2002008.txt,0
+useless,,,"The CAR indicated that the troubleshooting actions listed below were performed: · · Test instrumentation was rechecked, Portions of the pump recirculation line were radiographed in an attempt to identify any blockage (It is questionable if this would identify any of the nonmetallic debris from the condensate storage tank.",120,1900,2223,call_2002008.txt,0
+useless,,,"), Acoustic monitoring was used in an attempt to identify any valves that were leaking by and contributed to unmeasured flow, Pump vibration was checked, and Pump motor performance was evaluated.",120,2223,2418,call_2002008.txt,0
+useless,,,·,122,0,1,call_2002008.txt,1
+useless,,,· ·,124,0,3,call_2002008.txt,1
+useless,,,The above activities were inconclusive.,126,0,39,call_2002008.txt,0
+useless,,,"A pump vendor representative was brought to the site for test runs in May and June 2000 and reported that the pump was ""healthy.""",126,39,168,call_2002008.txt,0
+useless,,,The corrective action was to change (rebaseline) the testing reference value to 100 gpm and revise the test procedure.,126,168,286,call_2002008.txt,0
+useless,,,"The test procedure, O.P.-AL-P001B, ""Motor-Driven Auxiliary Feedwater Pump Inservice Test,"" Revision 26, was revised to obtain full-open",126,286,421,call_2002008.txt,0
+useless,,,-13recirculation valve flow rate after every test at the new reference value.,128,0,78,call_2002008.txt,0
+useless,,,"The pump was returned to quarterly testing and the CAR was closed on October 30, 2000.",128,78,164,call_2002008.txt,0
+useless,,,"On October 25, 2000, the licensee opened RFR 20550 to evaluate and approve the new pump inservice testing reference value (100 gpm).",128,164,296,call_2002008.txt,0
+useless,,,"The document also provided the justification that is required by the ASME Code, OCA-1988, Part 6, Section 4.5, for a change in the reference test value.",128,296,448,call_2002008.txt,0
+useless,,,"The document was closed on October 30, 2000.",128,448,492,call_2002008.txt,0
+useless,,,"The inspectors reviewed the evaluation and determined it was acceptable, including the code-required justification for changing the reference value.",128,492,640,call_2002008.txt,0
+useless,,,The inspectors reviewed the auxiliary feedwater Pump B test results for the past 3 years.,128,640,729,call_2002008.txt,0
+useless,,,"The inspectors noted that the test flow dropped below the initial reference value of 124 gpm in February 2000 and remained below 124 gpm until a test conducted on August 7, 2000, yielded a full recirculation flow value of 125.7 gpm.",128,729,961,call_2002008.txt,0
+useless,,,The next two tests yielded flow rates just below 124 gpm.,128,961,1018,call_2002008.txt,0
+useless,,,"Since March 27, 2001, all full-recirculation flow rate test values have been greater than 124 gpm and have been as high as 135 gpm.",128,1018,1149,call_2002008.txt,0
+useless,,,"The inspectors observed that CAR 200000669 did not mention or address the increased flow observed during the testing on August 7, 2000.",128,1149,1284,call_2002008.txt,0
+useless,,,"Also, the inspectors did not identify any ongoing corrective action program activities associated with the flow anomaly since the closure of CAR 200000669 and RFR 20550.",128,1284,1453,call_2002008.txt,0
+useless,,,"Furthermore, the licensee has locked the recirculation throttle valves for both motor-driven pumps in a throttled position that will provide the reference test value flow, therefore full recirculation flow will no longer be recorded during quarterly testing.",128,1453,1711,call_2002008.txt,0
+useless,,,"Prior to the end of the inspection, the licensee reopened CAR 200000669 to further review the observed flow anomaly.",128,1711,1827,call_2002008.txt,0
+useless,,,"Criterion XVI of Appendix B to 10 CFR Part 50 states, in part, that ""[measurers shall be established to assure that conditions adverse to quality .",128,1827,1974,call_2002008.txt,0
+useless,,,.,128,1974,1975,call_2002008.txt,0
+useless,,,.,128,1975,1976,call_2002008.txt,0
+useless,,,"are promptly identified and corrected.""",128,1976,2015,call_2002008.txt,0
+organizational,,,"Contrary to the above, the licensee failed to promptly identify the need for and implement corrective action to address the flow anomaly associated with Auxiliary Feedwater Pump B between February 23 and August 7, 2000, when the full recirculation flow returned to its previous test value without explanation.",128,2015,2324,call_2002008.txt,0
+useless,,,"However, because of its very low safety significance and because the licensee has included the item in their corrective action program by reopening CAR 200000669 on March 1, 2002, this violation is being treated as a noncited violation (50-483/0208-01) in accordance with SectionVI.A.1 of the Enforcement Policy.",128,2324,2636,call_2002008.txt,0
+useless,,,This issue was determined to have a credible impact on safety since the flow anomaly had only been addressed from the standpoint of pump performance and operability.,128,2636,2801,call_2002008.txt,0
+useless,,,The system performance and required train function had not been considered during the licensee's review.,128,2801,2905,call_2002008.txt,0
+useless,,,This noncited violation was characterized under the significance determination process as having very low safety significance because there was no actual loss of safety function.,128,2905,3083,call_2002008.txt,0
+useless,,,The system was always capable of delivering a minimum of 500 gpm to two steam generators when the function was required.,128,3083,3203,call_2002008.txt,0
+useless,,,"Therefore, the problem had very low safety significance.",128,3203,3259,call_2002008.txt,0
+useless,,,-144.,130,0,6,call_2002008.txt,0
+useless,,,OTHER ACTIVITIES,130,6,22,call_2002008.txt,0
+useless,,,4OA3 Event Followup (71153) (Closed) Licensee Event Report 50-483/0102-00: Foreign object renders Train B ESW pump inoperable.,132,0,126,call_2002008.txt,0
+useless,,,"On February 14, 2001, at 8:51 a.m., the licensee declared the ESW Pump B inoperable.",132,126,210,call_2002008.txt,0
+useless,,,"At the same time, Containment Cooler C was out of service for planned maintenance.",132,210,292,call_2002008.txt,0
+useless,,,This met the conditions for entry into TS 3.0.3.,132,292,340,call_2002008.txt,0
+useless,,,"The licensee restored the containment cooler to service at 11:15 a.m., which was 2 hours and 32 minutes after when Technical Specification 3.0.3. should have been entered.",132,340,511,call_2002008.txt,0
+useless,,,"TS 3.0.3 states in part, that ""the unit shall be placed in a MODE or other specified condition in which the LAO is not applicable.",132,511,641,call_2002008.txt,0
+useless,,,"Action shall be initiated within 1 hour to place the unit, as applicable, in: MODE 3 within 7 hours, MODE 4 within 13 hours .",132,641,766,call_2002008.txt,0
+useless,,,.,132,766,767,call_2002008.txt,0
+useless,,,.,132,767,768,call_2002008.txt,0
+useless,,,". """,132,768,771,call_2002008.txt,0
+organizational,,,"The licensee had not declared entry into TS 3.0.3, nor had they taken any actions required by TS 3.0.3.",132,771,874,call_2002008.txt,0
+organizational,team,,The licensee performed a review of the duration that the ESW pump was inoperable to identify any other times that TS 3.0.3 would have been applicable.,132,874,1024,call_2002008.txt,0
+useless,,,Four other instances were identified.,132,1024,1061,call_2002008.txt,0
+useless,,,Two of the four times exceeded the one-hour action requirement identified in the TS.,132,1061,1145,call_2002008.txt,0
+organizational,team,,Due to the fact that the licensee was unaware that the ESW pump was inoperable from 2:15 p.m. on February 9 until 8:51a.m.,132,1145,1267,call_2002008.txt,0
+organizational,team,,"on February 14, 2001, they had not realized that they had entered TS 3.0.3 several times.",132,1267,1356,call_2002008.txt,0
+useless,,,This issue has been entered into the licensee's corrective action process as CAR 200100515.,132,1356,1447,call_2002008.txt,0
+useless,,,This was determined to be a violation of TS 3.0.3.,132,1447,1497,call_2002008.txt,0
+useless,,,This issue was evaluated using the Significance Determination Process and determined to be of very low safety significance.,132,1497,1620,call_2002008.txt,0
+useless,,,"This violation is being treated a noncited violation, consistent with Section VIA of the NRC Enforcement Policy (50-483/0208-02).",132,1620,1749,call_2002008.txt,0
+useless,,,"4OA6 Management Meetings Exit Meeting Summary The inspectors presented the inspection results by telephone to Mr. W. Witt, Plant Manager, and other members of licensee management at the conclusion of the inspection on March 13, 2002.",132,1749,1982,call_2002008.txt,0
+useless,,,The licensee acknowledged the findings presented.,132,1982,2031,call_2002008.txt,0
+useless,,,The inspectors asked the licensee whether any materials examined during the inspection should be considered proprietary.,132,2031,2151,call_2002008.txt,0
+useless,,,No proprietary information was identified.,132,2151,2193,call_2002008.txt,0
+useless,,,"4OA7 Licensee Identified Violations The following finding of very low safety significance was identified by the licensee, is a violation of NRC requirements, and meets the criteria of Section VI.A.1 of the NRC Enforcement Policy, NUREG-1600, for being dispositioned as a noncited violation.",132,2193,2483,call_2002008.txt,0
+useless,,,"If you deny this noncited violation, you should provide a response with the basis for your denial, within 30 days of the date of this inspection report, to the U.S. Nuclear",132,2483,2655,call_2002008.txt,0
+useless,,,"-15Regulatory Commission, ATTN: Document Control Desk, Washington DC 20555-0001; with copies to the Regional Administrator, Region IV; the Director, Office of Enforcement, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; and the NRC Resident Inspector at the Callaway Nuclear Plant.",134,0,297,call_2002008.txt,0
+useless,,,NCV Tracking Number 50-483/0208-02 Requirement Licensee Failed to Meet Licensee Event Report 50-483/0102-00: Foreign object renders Train B of the ESW pump inoperable.,134,297,464,call_2002008.txt,0
+useless,,,This issue is discussed in Section 4OA3 of this report.,134,464,519,call_2002008.txt,0
+useless,,,"ATTACHMENT PARTIAL LIST OF PERSONS CONTACTED Licensee R. Affolter, Vice President, Nuclear T. Antweiler, Maintenance Rule Program Administrator G. Belchik, Supervising Engineer, Operations J. Blosser, Manager, Regulatory Affairs C. Dale, Safety Analysis Engineer M. Evans, Manager, Operational Support F. Force, Root Cause Analyst R. Hamblen, Field Supervisor D. Heinlein, Supervising Engineer - Systems D. Hollabaugh, Supervisor, Design Engineering L. Kanuckel, Supervising Engineer, Performance and Inservice Inspection R. Lamb, Superintendent, Work Control D. Lantz, Shift Supervisor J. Laux, Manager, Quality Assurance D. Maxwell, Supervising Engineer, Design Engineering-Mechanical K. Mills, Supervising Engineer, Safety Analysis R. Matt, Supervising Engineer, Maintenance Rule and Valve Programs R. Nelson, Shift Supervisor, Operations G. Randolph, Senior Vice President and Chief Nuclear Officer M. Reidmeyer, Supervisor, Regional Regulatory Affairs K. School craft, Engineer, Regulatory Affairs E. Smith, Engineer, Inservice Testing B. Spock, System Engineer M. Taylor, Manager, Nuclear Engineering R. Wink, System Engineer and Administrative Supervisor W. Witt, Plant Manager NRC V. Gaddy, Senior Resident Inspector J. Hanna, Resident Inspector",136,0,1254,call_2002008.txt,1
+useless,,,"ITEMS OPENED, CLOSED, AND DISCUSSED Opened During this Inspection 05000483/0208-01 NCV Licensee failed to take corrective actions regarding auxiliary feedwater pump flow anomaly (Section 3R21) Licensee failed to take actions as required by TS 3.0.3 following inoperability of ESW Pump B and other equipment (Section 4OA3)",138,0,321,call_2002008.txt,0
+useless,,,05000483/0208-02,140,0,16,call_2002008.txt,0
+useless,,,NCV,142,0,3,call_2002008.txt,0
+useless,,,-2Closed During this Inspection 05000483/0208-01 NCV,144,0,53,call_2002008.txt,0
+organizational,,,Licensee failed to take corrective actions regarding auxiliary feedwater pump flow anomaly (Section 3R21) Licensee failed to take actions as required by TS 3.0.3 following inoperability of ESW Pump B and other equipment (Section 4OA3) Foreign object renders Train B of the ESW pump inoperable (Section 4OA3),146,0,307,call_2002008.txt,0
+useless,,,05000483/0208-02,148,0,16,call_2002008.txt,0
+useless,,,NCV,150,0,3,call_2002008.txt,0
+useless,,,05000483/2001-002 LER,152,0,21,call_2002008.txt,0
+useless,,,DOCUMENTS REVIEWED Procedure APA-Z.-0081 OTS-Z.-06032 APA-Z.-00320 APA-Z.-00340 APA-Z.-00356 O.P.-AL-P001A O.P.-BG-P002A O.P.-BG-P002B O.P.-BG-P005A O.P.-E.G.-P01AC O.P.-EJ-P001A O.P.-EM-P001A O.P.-EM-V0004 O.P.-EN-P001A O.P.-JE-P001A Title Foreign Material Exclusion Leak Collection Devices Processing Work Requests Surveillance Program Administration Pump and Valve Inservice Test Program Motor-Driven Auxiliary Feedwater Pump Inservice Test Boric Acid Transfer Pump A Inservice Test Boric Acid Transfer Pump B Inservice Test Centrifugal Charging Pump A Inservice Test CCW Train A Pump and Valve Inservice Test R.R.,154,0,617,call_2002008.txt,0
+useless,,,Train A Inservice Test Section XI Safety Injection Train A Operability R.R.,154,617,692,call_2002008.txt,0
+useless,,,"Check Valve and SI Pump Recirc Valve Inservice Test Containment Spray Pump A Inservice Test 21 Emergency Fuel Oil Pump A Inservice test Revision 16, TEN 01-0229 000 25 19 11 28 10 08 24 19 28 28 09 22",154,692,892,call_2002008.txt,0
+useless,,,CALCULATIONS Number AL-19 Description A.W.,156,0,42,call_2002008.txt,0
+useless,,,flow model using PIPE2000 Revision 1,156,42,78,call_2002008.txt,0
+useless,,,-3CALLAWAY ACTION REQUESTS (CARS) Number 200100515 200200614 200201188 200103181 200103320 200103249 Topic ESW Pump B Inoperable Due to Low Pressure and Low Flow Evaluate Pre-Existing Leak Collection Devices Catch Device Audit Revealed Devices not Logged Foreign Material Entered MAW Piping During AEHV0034 Valve Stroke Nonconforming Conditions Involving Outside Personnel Feedwater Heater 6A and 6B Vents Found to be Steaming,158,0,427,call_2002008.txt,0
+useless,,,other CARS reviewed included: 199802901 199804031 199900409 199901284 199903025 200000319 200000386,160,0,99,call_2002008.txt,0
+useless,,,200000642 200000669 200000850 200001364 200001504 200002516 200001625,162,0,69,call_2002008.txt,0
+useless,,,200102523 200105300 200105798 200107399 200107423,164,0,49,call_2002008.txt,0
+useless,,,SELF-ASSESSMENTS Number Topic,166,0,29,call_2002008.txt,0
+useless,,,SA01-OP-006 Leak Collection Devices Self-Assessment SA01-NE-001 Self-Assessment of the Callaway Plant Leak Management Program,168,0,125,call_2002008.txt,0
+useless,,,SURVEILLANCE REPORTS Number SP99-023 SP99-031 SP99-070 Topic Surveillance Report on Spent Fuel Pool Re-rack Modification Surveillance Report on Self-Assessment of the Callaway Steam Generator Program Surveillance Report on Observations of Refuel X Equipment and Valve Work Activities,170,0,283,call_2002008.txt,0
+useless,,,"-4MISCELLANEOUS Document Description Policy: M-Troubleshooting-01 Callaway Plant I&C Department Work Standards Install FME Screens over ESW Pumphouse Drains Log - Catch Devices Installed Revision 02 0 September 27, 2001 February 21, 2002",172,0,238,call_2002008.txt,0
+useless,,,RFR 19044,174,0,9,call_2002008.txt,0
+useless,,,DESIGN CHANGES WITH RELATED SAFETY SCREENS AND SAFETY EVALUATIONS PACKAGE CAMP 95-1026 MP 97-1002 MP 97-1033 MP 98-1036 DESCRIPTION REVISION,176,0,140,call_2002008.txt,0
+useless,,,Add Vent Line/Valve to R.R.,178,0,27,call_2002008.txt,0
+useless,,,Pumps Seal Cooler Return Lines Replace PEF01B With a Pump That Has a Slightly Larger Impeller Install Vent Assembly on Discharge of C.P.,178,27,163,call_2002008.txt,0
+useless,,,A and C.P.,178,163,173,call_2002008.txt,0
+useless,,,B Replace PEF01A With a New Pump With a Larger Impeller and Stainless Steel Construction,178,173,261,call_2002008.txt,0
+useless,,,A A A A,180,0,7,call_2002008.txt,0
+useless,,,REQUESTS FOR RESOLUTION INCLUDING SAFETY SCREENS 14080 14993 18487 19892 19939 20473 20195 20939 20550,182,0,102,call_2002008.txt,0
+useless,,,"February 21, 2002",184,0,18,call_2002008.txt,0
+useless,,,"MEMORANDUM TO: Ronald A. Kopriva, Senior Project Engineer, Branch B Division of Reactor Projects FROM: SUBJECT: Ken E. Brockman, Director, Division of Reactor Projects /RA/ SUPPLEMENTAL INSPECTION TEAM AT CALLAWAY PLANT",186,0,219,call_2002008.txt,0
+useless,,,"In response to our initial evaluation of inoperable Essential Service Water (ESW) Pump B at the Callaway Plant on February 9, 2001, a Supplemental Inspection Team is being chartered.",188,0,182,call_2002008.txt,0
+useless,,,You are hereby designated as the Supplemental Inspection Team leader.,188,182,251,call_2002008.txt,0
+useless,,,A.,188,251,253,call_2002008.txt,0
+useless,,,"Basis On February 14, 2001, ESW Pump B failed to achieve rated flow and pressure after it was started.",188,253,355,call_2002008.txt,0
+useless,,,"Operators secured the pump and discovered that a 20-foot piece of tygon tubing, which had been hanging from a funnel, became detached from the funnel and fell into the pump suction.",188,355,536,call_2002008.txt,0
+useless,,,"When the pump was started, the tygon tubing was drawn into the pump, causing a degradation in pump performance.",188,536,647,call_2002008.txt,0
+useless,,,The licensee determined that the tygon tube had the potential to impact the operation of the ESW pump for a total of 132 hours.,188,647,774,call_2002008.txt,0
+useless,,,"At the time ESW Pump B was started, Containment Cooling Train A was out of service for maintenance.",188,774,873,call_2002008.txt,0
+useless,,,"With ESW Pump B inoperable, Containment Cooling Train B and Containment Spray Train B were also inoperable.",188,873,980,call_2002008.txt,0
+useless,,,This resulted in the licensee entering TS 3.0.3.,188,980,1028,call_2002008.txt,0
+organizational,team,,The condition at the time of discovery could have prevented the fulfillment of a safety function for components needed to control the release of radioactive material or mitigate the consequences of an accident.,188,1028,1238,call_2002008.txt,0
+useless,,,"As a result, this condition was reported to the NRC at 4:05 p.m. in accordance with 10 CFR 50.72(b)(3)(v)(D).",188,1238,1347,call_2002008.txt,0
+useless,,,A Supplemental Inspection Team will be dispatched to assess the adequacy of the licensee's evaluation of the inoperable ESW pump event.,188,1347,1482,call_2002008.txt,0
+useless,,,"As a part of the independent assessment of extent of condition, the inspection will include a review of the safetyrelated pumps, motors, valves and other safety-related equipment within the plant.",188,1482,1678,call_2002008.txt,0
+useless,,,The team is expected to perform fact-finding in order to address the following.,188,1678,1757,call_2002008.txt,0
+useless,,,Ronald A. Kopriva B.,190,0,21,call_2002008.txt,0
+useless,,,Scope 1.,190,21,29,call_2002008.txt,0
+useless,,,-2-,192,0,3,call_2002008.txt,0
+useless,,,Develop a complete sequence of events related to the inoperability of the ESW pump.,194,0,83,call_2002008.txt,0
+useless,,,Review the licensee's root cause determination for completeness and accuracy.,194,83,160,call_2002008.txt,0
+useless,,,"Evaluate the adequacy of the licensee's overall response to the event, including NRC notification.",194,160,258,call_2002008.txt,0
+useless,,,Evaluate the adequacy of the changes to the licensee's foreign material exclusion controls.,194,258,349,call_2002008.txt,0
+useless,,,Review the licensee's assessment results of the leakage collection device controls.,194,349,432,call_2002008.txt,0
+useless,,,Evaluate the changes to the administrative controls of leakage collection devices.,194,432,514,call_2002008.txt,0
+useless,,,Review the operability determination of the ESW pumps.,194,514,568,call_2002008.txt,0
+useless,,,Review the licensee's assessment results of the ESW system material condition.,194,568,646,call_2002008.txt,0
+useless,,,"Review the Corrective Action Request system (CARS) pertaining to safetyrelated pumps, motors, and safety-related valves.",194,646,766,call_2002008.txt,0
+useless,,,"Review the last 3 years of all structures, systems, and components (SSCs) that have been in and out of Maintenance Rule Criteria A1 (this list should be focused around safety-related equipment).",194,766,960,call_2002008.txt,0
+useless,,,"Review test procedures (i.e., surveillance procedures) for safety-related equipment.",194,960,1044,call_2002008.txt,0
+useless,,,Focus is on documentation that would include acceptance criteria.,194,1044,1109,call_2002008.txt,0
+useless,,,2,196,0,2,call_2002008.txt,0
+useless,,,3,196,2,4,call_2002008.txt,0
+useless,,,4,198,0,2,call_2002008.txt,0
+useless,,,5,200,0,2,call_2002008.txt,1
+useless,,,6,202,0,2,call_2002008.txt,1
+useless,,,7,204,0,2,call_2002008.txt,0
+useless,,,8,206,0,2,call_2002008.txt,1
+useless,,,9,208,0,2,call_2002008.txt,0
+useless,,,C.,210,0,2,call_2002008.txt,0
+useless,,,"Guidance Inspection Procedure 95002, ""Supplemental Inspection for one degraded cornerstone or three white inputs,"" provides additional guidance to be used by the Supplemental Inspection Team.",212,0,191,call_2002008.txt,0
+useless,,,This memorandum designates you as the Supplement Inspection Team leader.,212,191,263,call_2002008.txt,0
+useless,,,"The Team will report to the site, conduct an entrance, and begin inspection on Monday, February 25.",212,263,362,call_2002008.txt,0
+useless,,,"Tentatively, the inspection should be completed by close of business March 1, with a report documenting the results of the inspection issued within 45 days of the completion of the inspection.",212,362,554,call_2002008.txt,0
+useless,,,"While the team is on site, you will provide daily status briefings to Region IV management, who will coordinate with NRR to ensure that all other parties are kept informed.",212,554,726,call_2002008.txt,0
+useless,,,Ronald A. Kopriva,214,0,18,call_2002008.txt,0
+useless,,,-3-,216,0,3,call_2002008.txt,0
+useless,,,This Charter may be modified should the team develop significant new information that warrants review.,218,0,102,call_2002008.txt,0
+useless,,,"Should you have any questions concerning this Charter, contact Ken Brockman, Director, Division of Reactor Projects at (817) 860-8248.",218,102,236,call_2002008.txt,0

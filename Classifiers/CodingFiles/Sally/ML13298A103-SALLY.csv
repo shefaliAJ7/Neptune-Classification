@@ -1,0 +1,302 @@
+type,class,text,line,start_pos,end_pos,file
+0,U,NUCLEAR REGULATORY COMMISSION,0,0,29,ML13298A103.txt
+0,U,"REGION I V 1600 EAST LAMAR BLVD ARLINGTON, TEXAS 76011-4511",1,0,59,ML13298A103.txt
+0,U,UNITED STATES,3,0,13,ML13298A103.txt
+0,U,"October 24, 2013 Mr. Rafael Flores, Senior Vice President and Chief Nuclear Officer ATTN: Regulatory Affairs Luminant Generation Company LLC Comanche Peak Nuclear Power Plant P.O.",5,0,179,ML13298A103.txt
+0,U,"Box 1002 Glen Rose, TX 76043 SUBJECT: COMANCHE PEAK NUCLEAR POWER PLANT, UNITS 1, 2 AND INDEPENDENT SPENT FUEL STORAGE INSTALLATION (ISFSI) INSPECTION REPORT 05000445/2013009, 05000446/2013009, AND 07200074/2013001",5,179,393,ML13298A103.txt
+0,U,"Dear Mr. Flores: This letter refers to a routine inspection conducted on September 16 - 20, 2013, of the dry cask storage activities associated with your Independent Spent Fuel Storage Installation (ISFSI).",7,0,206,ML13298A103.txt
+0,U,"The enclosed inspection report documents the inspection results which were discussed on September 19, 2013 with members of your staff.",7,206,340,ML13298A103.txt
+0,U,"Inspectors continued to observe cask related loading activities on September 20, 2013 before leaving the site.",7,340,450,ML13298A103.txt
+0,U,"Following the site visit, a telephonic exit was conducted on October 8, 2013 after the completion of a hydrogen monitoring test which was completed that demonstrated the combustible gas monitoring equipment was functioning as required.",7,450,685,ML13298A103.txt
+0,U,The inspection examined activities conducted under your license as they relate to safety and compliance with the Commission's rules and regulations and with the conditions of your license.,7,685,873,ML13298A103.txt
+0,U,"The inspection reviewed compliance with the requirements specified in the Technical Specifications associated with Holtec Certificate of Compliance 1014, the Holtec Final Safety Analysis Report (FSAR), and Title 10 of the Code of Federal Regulations (CFR) Part 72, Part 50, and Part 20.",7,873,1159,ML13298A103.txt
+0,U,"Within these areas, the inspection included a review of radiation safety, cask thermal monitoring, quality assurance, corrective action program, safety evaluations, observations of cask loading activities, and how you addressed industry issues that affected your facility's programs.",7,1159,1442,ML13298A103.txt
+0,U,Also reviewed were changes made to your ISFSI program since the last routine ISFSI inspection was conducted by the U.S. Nuclear Regulatory Commission (NRC).,7,1442,1598,ML13298A103.txt
+0,U,No violations of NRC regulations were identified.,7,1598,1647,ML13298A103.txt
+0,U,"In accordance with 10 CFR 2.390 of the NRC's ""Rules of Practice,"" a copy of this letter, its enclosure, and your response, if you choose to provide one, will be made available electronically for public inspection in the NRC Public Document Room or from the NRC's Agencywide Document Access Management System (ADAMS), accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html.",7,1647,2041,ML13298A103.txt
+0,U,"To the extent possible, your response should",7,2041,2085,ML13298A103.txt
+0,U,R. Flores,9,0,10,ML13298A103.txt
+0,U,-2-,11,0,3,ML13298A103.txt
+0,U,"not include any personal, privacy, or proprietary information so that it can be made available to the Public without redaction.",13,0,127,ML13298A103.txt
+0,U,"Should you have any questions concerning this inspection, please contact the undersigned at 817-200-1191 or Mr. Lee Brookhart at 817-200-1549.",13,127,269,ML13298A103.txt
+0,U,"Sincerely, /RA/ D. Blair Spitzberg, Ph.D., Chief Repository & Spent Fuel Safety Branch Division of Nuclear Materials Safety Dockets: 50-445, 50-446, 72-74 Licenses: NPF-87; NPF-89 Enclosure: Inspection Report 05000445/2013009, 05000446/2013009 and 07200074/2013001 w/attachments: 1.",13,269,551,ML13298A103.txt
+0,U,Supplemental Information 2.,13,551,578,ML13298A103.txt
+0,U,Loaded Casks at the Comanche Peak ISFSI cc w/attachments: Listserv�,13,578,645,ML13298A103.txt
+0,U,R. Flores,15,0,10,ML13298A103.txt
+0,U,-2-,17,0,3,ML13298A103.txt
+0,U,"not include any personal, privacy, or proprietary information so that it can be made available to the Public without redaction.",19,0,127,ML13298A103.txt
+0,U,"Should you have any questions concerning this inspection, please contact the undersigned at 817-200-1191 or Mr. Lee Brookhart at 817-200-1549.",19,127,269,ML13298A103.txt
+0,U,"Sincerely, /RA/ D. Blair Spitzberg, Ph.D., Chief Repository & Spent Fuel Safety Branch Division of Nuclear Materials Safety Dockets: 50-445, 50-446, 72-74 Licenses: NPF-87; NPF-89 Enclosure: Inspection Report 05000445/2013009, 05000446/2013009 and 07200074/2013001 w/attachments: 1.",19,269,551,ML13298A103.txt
+0,U,Supplemental Information 2.,19,551,578,ML13298A103.txt
+0,U,Loaded Casks at the Comanche Peak ISFSI cc w/attachments: Listserv�,19,578,645,ML13298A103.txt
+0,U,DISTRIBUTION w/encls: See next page,21,0,35,ML13298A103.txt
+0,U,DRAFT: S:\DNMS\!RSFS\brookhart\Comanche Peak 2013\ CP 2013009-ISFSI-LEB.docx FINAL: R:\_Reactors\_CPSES\2013\CP 2013009-ISFSI-LEB.docx X Yes  No LEB SUNSI Rev Compl.,23,0,165,ML13298A103.txt
+0,U,X Yes  No ADAMS Reviewer Initials X Yes  No Publicly Available Sensitive  Yes X No Sens.,23,165,253,ML13298A103.txt
+0,U,Type Initials RIV:DNMS/FSDB RIV:DNMS/FSDB R-IV/C:FSDB LEBrookhart EJSimpson DBSpitzberg /RA/ /RA/ /RA/ 10/24/2013 10/24/2013 10/24/2013 OFFICIAL RECORD COPY T=Telephone E=E-mail F=Fax,23,253,436,ML13298A103.txt
+0,U,"Letter to Rafael Flores from D. Blair Spitzberg, dated October 24, 2013.",25,0,73,ML13298A103.txt
+0,U,"SUBJECT: COMANCHE PEAK NUCLEAR POWER PLANT, UNITS 1, 2 AND INDEPENDENT SPENT FUEL STORAGE INSTALLATION (ISFSI) INSPECTION REPORT 05000445/2013009, 05000446/2013009, AND 07200074/2013001",25,73,258,ML13298A103.txt
+0,U,"DISTRIBUTION w/encls: Acting Regional Administrator (Steven.Reynolds@nrc.gov) Acting Deputy Regional Administrator (Thomas.Bergman@nrc.gov) DNMS Director (Anton.Vegel@nrc.gov) DNMS Deputy Director (Vivian.Campbell@nrc.gov) DRP Director (Kriss.Kennedy@nrc.gov) DRP Deputy Director (Troy.Pruett@nrc.gov) RSFS Branch Chief (Blair.Spitzberg@nrc.gov) Acting DRP/A Branch Chief (Wayne.Walker@nrc.gov) Senior Resident Inspector (John.Kramer@nrc.gov) Resident Inspector (Rayomand.Kumana@nrc.gov) Senior Project Engineer, DRP/A (David.Proulx@nrc.gov) Project Engineer, DRP/A (Jason.Dykert@nrc.gov) CP Administrative Assistant (Phyllis.Holder@nrc.gov) RSFS Inspector (Lee.Brookhart@nrc.gov) RSFS Inspector (Eric.Simpson@nrc.gov) Project Manager, SFST (William.Allen@nrc.gov) Public Affairs Officer (Victor.Dricks@nrc.gov) Public Affairs Officer (Lara.Uselding@nrc.gov) RITS Coordinator (Marisa.Herrera@nrc.gov) TSB Technical Assistant (Loretta.Williams@nrc.gov) Regional Counsel (Karla.Fuller@nrc.gov) Congressional Affairs Officer (Jenny.Weil@nrc.gov) RIV/ETA: OEDO (Daniel.Rich@nrc.gov) OEMail_Resources@nrc.gov ROPreports",27,0,1114,ML13298A103.txt
+0,U,U.S. NUCLEAR REGULATORY COMMISSION REGION IV Dockets: Licenses: Report Nos.,29,0,76,ML13298A103.txt
+0,U,": Licensee: Facility: Location: Dates: Inspector: Accompanying Personnel: 050-00445; 050-00446; 072-00074 NPF-87; NPF-89 05000445/2013009; 05000446/2013009; 07200074/2013001 Luminant Generation Company LLC Comanche Peak Nuclear Power Plant, Units 1, 2, and Independent Spent Fuel Storage Installation (ISFSI) P.O.",29,76,389,ML13298A103.txt
+0,U,"Box 1002 Glen Rose, TX 76043 September 16 - 20, 2013 Lee Brookhart, Senior ISFSI Inspector Repository & Spent Fuel Safety Branch Eric Simpson, Health Physicist, Inspector-in-Training, Repository & Spent Fuel Safety Branch D. Blair Spitzberg, Ph.D., Chief Repository & Spent Fuel Safety Branch Division of Nuclear Materials Safety",29,389,718,ML13298A103.txt
+0,U,Approved By:,31,0,12,ML13298A103.txt
+0,U,Enclosure,33,0,9,ML13298A103.txt
+0,U,"SUMMARY OF FINDINGS IR 05000445/2013009; 05000446/2013009; and 07200074/2013001; 09/16 - 09/20/2013; Comanche Peak Nuclear Power Plant, Units 1, 2, and Independent Spent Fuel Storage Installation; Routine ISFSI Inspection Report The report covers an announced inspection by one regional inspector and one inspector-intraining.",35,0,327,ML13298A103.txt
+0,U,No findings or violations associated with NRC regulations were identified.,35,327,401,ML13298A103.txt
+0,U,"The significance of any Part 50 findings are indicated by their color (Green, White, Yellow, or Red) using Inspection Manual Chapter (IMC) 0609, ""Significance Determination Process"".",35,401,583,ML13298A103.txt
+0,U,"The crosscutting aspect is determined using IMC 0310, ""Components Within the Cross-Cutting Areas"".",35,583,681,ML13298A103.txt
+0,U,Findings for which the significance determination process does not apply may be Green or be assigned a severity level after the NRC management review.,35,681,831,ML13298A103.txt
+0,U,"The NRC's program for overseeing the safe operation of commercial nuclear power reactors is described in NUREG-1649, ""Reactor Oversight Process,"" Revision 4, dated December 2006.",35,831,1009,ML13298A103.txt
+0,U,"In accordance with IMC 0612 ""Power Reactor Inspection Reports"", all of the Part 72 ISFSI inspection findings follow the traditional enforcement process and are not dispositioned through the Reactor Oversight Process or the Significance Determination Process.",35,1009,1267,ML13298A103.txt
+0,U,A. NRC-Identified Findings and Self-Revealing Findings No findings were identified.,35,1267,1350,ML13298A103.txt
+0,U,B. Licensee-Identified Violations None.,35,1350,1389,ML13298A103.txt
+0,,-2-,37,0,3,ML13298A103.txt
+0,U,PLANT AND ISFSI STATUS Comanche Peak Nuclear Power Plant's Independent Spent Fuel Storage Installation (ISFSI) stored eleven loaded Holtec HI-STORM 100 casks at the time of the routine inspection.,39,0,197,ML13298A103.txt
+0,U,Comanche Peak was in the middle of a nine cask loading campaign and were performing the loading operations associated with cask number twelve at the time of the routine inspection.,39,197,377,ML13298A103.txt
+0,U,Comanche Peak had loaded the first nine canisters during their first loading campaign from February 2012 through June 2012.,39,377,500,ML13298A103.txt
+0,U,"Comanche Peak utilized a general Part 72 license in accordance with the Holtec HI-STORM 100 System, approved under Certificate of Compliance 1014 License Amendment 7 and Final Safety Analysis Report (FSAR) Revision 9.",39,500,717,ML13298A103.txt
+0,,"The version of the Holtec systems used at the Comanche Peak Power Plant included the MPC-32, a 32 fuel bundle multi-purpose canister, and the HI-STORM 100S Version B overpack.",39,717,892,ML13298A103.txt
+0,U,The ISFSI pad was approximately 262 feet long by 102 feet wide and was designed to accommodate 84 storage casks.,39,892,1004,ML13298A103.txt
+0,U,The storage casks were located outside the Part 50 facilities protected area within its own protected area.,39,1004,1111,ML13298A103.txt
+0,U,A tour of the ISFSI pad and adjacent area found the loaded storage casks to be in good physical condition.,39,1111,1217,ML13298A103.txt
+0,U,A review of the environmental monitoring program demonstrated that radiological exposures to offsite locations due to the ISFSI were low and within regulatory limits.,39,1217,1383,ML13298A103.txt
+0,U,REPORT DETAILS 4.,39,1383,1400,ML13298A103.txt
+0,U,OTHER ACTIVITIES,39,1400,1416,ML13298A103.txt
+0,U,4OA5 Other Activities .1 a.,41,0,27,ML13298A103.txt
+0,U,Operations of an Independent Spent Fuel Storage Installation at Operating Plants (60855.1) Inspection Scope (1) Quality Assurance Audits and Surveillances An onsite review of Quality Assurance (QA) audit reports and surveillances related to dry cask storage activities at Comanche Peak Nuclear Power Plant (CPNPP) was performed.,41,27,355,ML13298A103.txt
+0,U,"Since the last inspection in June 2012, Luminant (parent company of CPNPP) had issued several vendor surveillance reports, a Quality Control (QC) audit of HI-STORM 100 concrete pour activities, and a reactor engineering audit.",41,355,581,ML13298A103.txt
+0,U,"The aforementioned documents, as well as a preliminary surveillance of the ongoing cask loading campaign (UFO2), in-progress at the time of the inspection, were made available for review as part of the inspection.",41,581,794,ML13298A103.txt
+0,U,The audit reports and surveillances were reviewed to see what kinds of issues were being identified by the licensee.,41,794,910,ML13298A103.txt
+0,U,Audit findings and recommendations were placed in the licensee's corrective action program (CAP) as condition reports (CRs).,41,910,1034,ML13298A103.txt
+0,U,Copies of those CRs were requested to see how the issues were addressed and subsequently resolved.,41,1034,1132,ML13298A103.txt
+0,U,The QA documents reviewed for this inspection pointed to eight CRs which were reviewed by the inspectors.,41,1132,1237,ML13298A103.txt
+0,U,"In each situation, the reviewed CRs were assigned to the appropriate licensee staff for review.",41,1237,1332,ML13298A103.txt
+0,U,All CRs reviewed were found to be properly addressed and subsequently closed out.,41,1332,1413,ML13298A103.txt
+0,U,Overall the QA program appeared to be well focused with a suitably low threshold for uncovering issues and issuing CRs to address any identified issues.,41,1413,1565,ML13298A103.txt
+0,U,-3-,43,0,3,ML13298A103.txt
+0,U,(2) Radiological Conditions Related to Stored Casks Radiological conditions at the Comanche Peak Nuclear Power Plant ISFSI were determined from on-site ISFSI pad inspection activities and a paperwork review of ISFSI surveys and quarterly General Area Monitoring (GAM) dosimeter results.,45,0,287,ML13298A103.txt
+0,U,A recent radiological survey was provided to NRC inspectors prior to their arrival onsite.,45,287,377,ML13298A103.txt
+0,U,"For the inspection of the ISFSI, a radiation protection (RP) technician accompanied the NRC inspectors into the protected area (PA) to perform a walkdown of the ISFSI pad.",45,377,548,ML13298A103.txt
+0,U,The RP technician provided NRC with a wide-range energy-compensated Geiger-Mueller (GM) instrument to measure gamma radiation.,45,548,674,ML13298A103.txt
+0,U,Neutron monitoring equipment was not provided at the time of the ISFSI pad walkdown.,45,674,758,ML13298A103.txt
+0,U,The inspectors found the 11 loaded HI-STORM 100 casks to be in excellent physical condition.,45,758,850,ML13298A103.txt
+0,U,No flammable or combustible materials were observed inside the ISFSI protected area.,45,850,934,ML13298A103.txt
+0,U,An NRC inspector took general area radiological measurements to confirm the levels reported on the most recent site survey.,45,934,1057,ML13298A103.txt
+0,U,"Survey measurements were taken around the perimeter of the ISFSI pad, at selected cask lower vent locations, and at environmental dosimeter monitoring locations on the ISFSI outer (nuisance) fencing.",45,1057,1256,ML13298A103.txt
+0,U,General area background readings before reaching the ISFSI were 7 �R/hr.,45,1256,1328,ML13298A103.txt
+0,U,"Approaching the ISFSI pad from the west, the exposure rate reached 11 �R/hr at the outer fence entrance.",45,1328,1432,ML13298A103.txt
+0,U,"Proceeding further eastward to the PA fence, the levels rose to 14 �R/hr.",45,1432,1505,ML13298A103.txt
+0,U,"On the western edge of the ISFSI pad, levels trended slightly upwards to 16 �R/hr and halfway across the pad, a roped-off ISFSI radiation area boundary measured 41 �R/hr.",45,1505,1675,ML13298A103.txt
+0,U,The 11 loaded HI-STROM 100 casks were all located in the northeastern corner of the ISFSI pad.,45,1675,1769,ML13298A103.txt
+0,U,"On the other side of the casks, the northeast and southeast corners of the ISFSI pad measured 300 and 500 �R/hr, respectively.",45,1769,1895,ML13298A103.txt
+0,U,Areas alongside and in-between the casks measured from 890 �R/hr to 1.3 mR/hr.,45,1895,1973,ML13298A103.txt
+0,U,"The highest readings on the ISFSI pad were measured at the lower cask vent locations, which read as high as 1.46 mR/hr.",45,1973,2092,ML13298A103.txt
+0,U,The ISFSI inspection confirmed the previously performed site survey records.,45,2092,2168,ML13298A103.txt
+0,U,Environmental monitoring data from 2011 thru 2013 for the ISFSI pad was provided for review.,45,2168,2260,ML13298A103.txt
+0,U,The data for 2011 and 2012 was from four monitoring locations that contained an optically stimulated luminescent (OSL) dosimeter which were deployed as part of CPNPP General Area Monitoring (GAM) Program for measuring site-wide ambient radiation levels.,45,2260,2513,ML13298A103.txt
+0,U,The four OSLs were responsible for measuring the direct radiological impacts of the loaded casks to locations in close proximity to the ISFSI pad.,45,2513,2659,ML13298A103.txt
+0,U,During 2013 the OSLs were replaced by thermoluminescent dosimeters (TLDs) that performed the same dose measurement function.,45,2659,2783,ML13298A103.txt
+0,U,"Those monitoring locations were identified in documents provided to NRC as location numbers 101 through 104 (see Table 1, below).",45,2783,2912,ML13298A103.txt
+0,U,-4-,47,0,3,ML13298A103.txt
+0,U,"Table 1, Estimated Monitoring Results for Comanche Peak ISFSI in mrem/yr 1 Monitoring Period #/Location 2011 2 2012 20132 101 Dry Cask Storage - North 108 210 177 102 Dry Cask Storage - East 104 332 538 103 Dry Cask Storage - South 108 412 168 104 Dry Cask Storage - West 95 321 101 For the period beginning on October 22, 2011 and ending on June 26, 2013, the OSL/TLD gamma exposure data at the four ISFSI monitoring locations ranged from 19 to 225 mrem per monitoring period (quarterly, roughly).",49,0,499,ML13298A103.txt
+0,U,Those values converted to dose rates of 10 to 104 �rem/hr.,49,499,557,ML13298A103.txt
+0,U,The lowest aggregate dose rates occurred in 2011 prior to any spent fuel being stored on the ISFSI pad.,49,557,660,ML13298A103.txt
+0,U,"The highest quarterly dose rates were measured between April and October 2012, when the final five casks of the first nine-cask loading campaign were loaded and placed on the pad.",49,660,839,ML13298A103.txt
+0,U,"The monitoring location with the highest dose rates varied, moving periodically between locations 102, 103, and 104.",49,839,955,ML13298A103.txt
+0,U,"At the time of the inspection, CPNPP was in the midst of its second ISFSI loading campaign.",49,955,1046,ML13298A103.txt
+0,U,"Three additional casks had been loaded and two had been placed on the pad, bringing the total number on the pad to 11 with one remaining to be placed.",49,1046,1196,ML13298A103.txt
+0,U,"Three empty HI-STORM 100s were also stored on the pad at the southeast corner, parallel to the pad's southern boundary.",49,1196,1315,ML13298A103.txt
+0,U,Offsite monitoring data from the CPNPP Radiological Environmental Monitoring Program (REMP) Annual Reports from 2011 and 2012 did not include any of the direct ISFSI monitoring data from the GAM network.,49,1315,1518,ML13298A103.txt
+0,U,"Instead, the REMP Reports focused on airborne (gaseous and particulate), liquid effluent, and direct radiation monitoring at site boundary and offsite locations.",49,1518,1679,ML13298A103.txt
+0,U,"By design, there were no airborne or liquid effluent releases from the ISFSI, which is located in the site's ESE sector, approximately 0.75 mile from the nuclear plant.",49,1679,1847,ML13298A103.txt
+0,U,"The closest REMP direct radiation monitoring locations to the ISFSI were at site boundary locations identified as R11, R15, R17, and R20.",49,1847,1984,ML13298A103.txt
+0,U,"Those locations are in the E, ESE, SE, and SSE sectors, at distances of 0.5, 1.4, 1.3, and 1.3 miles, respectively, from the plant.",49,1984,2115,ML13298A103.txt
+0,U,Casks 1 through 9 were all placed on the ISFSI pad in calendar year (CY) 2012 during the first loading campaign.,49,2115,2227,ML13298A103.txt
+0,U,There were no loaded casks on the ISFSI pad during CY 2011.,49,2227,2286,ML13298A103.txt
+0,U,"As can be seen below in Table 2, there was an increase in gross radiation readings at the REMP locations in closest proximity to the ISFSI pad in 2012.",49,2286,2437,ML13298A103.txt
+0,U,"Table 2, Dose for REMP Locations Close to CPNPP ISFSI in mrem/yr Monitoring Location, Sector and Distance (miles) 2011 2012 R11, E �_ 0.5 83 106 R15, ESE �_ 1.4 85 96 R17, SE �_ 1.3 94 103 R20, SSE �_ 1.3 84 3 95",49,2437,2645,ML13298A103.txt
+0,U,1,50,0,1,ML13298A103.txt
+0,U,Yearly monitoring estimates are based on actual monitoring data that overlapped calendar years.,52,0,95,ML13298A103.txt
+0,U,The results have been normalized to produce a yearly estimate based on 8760 hours of exposure per year.,52,95,198,ML13298A103.txt
+0,U,2 Partial year data.,52,198,218,ML13298A103.txt
+0,U,3 Estimated value based on three quarters of monitoring data.,52,218,279,ML13298A103.txt
+0,U,-5-,54,0,3,ML13298A103.txt
+0,U,"Average background (control) dose measurements for 2011 and 2012 were 85 and 103 mrem/yr, respectively.",56,0,104,ML13298A103.txt
+0,U,"Correcting for background shows only a slight increase in ambient radioactivity at the closest boundary monitoring location, R11, of 3 mrem/yr.",56,104,247,ML13298A103.txt
+0,U,"This value was well below the 10 CFR 72.104 (a) dose standard, which limits total radiation from plant activities to less than 25 mrem per year at the owner controlled boundary.",56,247,424,ML13298A103.txt
+0,U,Offsite doses due to the ISFSI were well below regulatory limits.,56,424,489,ML13298A103.txt
+0,U,"(3) Records Related to Fuel Stored in the Casks Site records, as required by 10 CFR 72.212(b)(12), which described the spent fuel in dry fuel storage at Comanche Peak Nuclear were reviewed by inspectors.",56,489,692,ML13298A103.txt
+0,U,The review of the CPNPP ISFSI records was performed to determine if an adequate description of the spent fuel loaded in the Holtec HI-STORM 100 casks was documented as a permanent record.,56,692,879,ML13298A103.txt
+0,U,"The spent fuel contents of each canister loaded into a HI-STORM 100 cask at CPNPP was documented in a package that included a NUC-212-4, Cask Acceptability Report, Revision 4 and a NUC-212-5, Comprehensive Assembly Specifications Supplement, Revision 1.",56,879,1132,ML13298A103.txt
+0,U,"Those forms contained information about each fuel assembly placed into dry cask storage and included fuel identification, assembly heat (kw), cooling time (years), initial U-235 enrichment (%), and burnup values (MWd/MTU).",56,1132,1354,ML13298A103.txt
+0,U,A complete set of forms was reviewed for all 12 loaded casks at the time of the inspection.,56,1354,1445,ML13298A103.txt
+0,U,CPNPP was found to be in compliance with the criteria of 10 CFR 72.212(b)(12).,56,1445,1523,ML13298A103.txt
+0,U,(4) Cask Loading Observations Various loading activities were observed by NRC inspectors during the course of the routine inspection.,56,1523,1656,ML13298A103.txt
+0,U,Placement of Cask #11 on the ISFSI pad by use of the wheeled vertical cask transporter was observed on Monday September 16th.,56,1656,1781,ML13298A103.txt
+0,U,The remaining days of the inspection week the licensee was in the process of loading Cask #12.,56,1781,1875,ML13298A103.txt
+0,U,The NRC inspectors observed the fuel movement activities to place spent fuel assemblies into canister #12.,56,1875,1981,ML13298A103.txt
+0,U,"The licensee's staff was experienced in moving the spent fuel assemblies and was proficient in locating the correct assembly, verifying the assembly, moving the assembly from the rack to the canister, and inserting the assembly into the assigned canister slot.",56,1981,2241,ML13298A103.txt
+0,U,"The time from grappling the assembly, placing the assembly into the assigned canister slot, and returning to the next assigned spent fuel assembly was 20 - 25 minutes.",56,2241,2408,ML13298A103.txt
+0,U,"For the canister, which holds 32 assemblies, the entire loading process took approximately 11 hours.",56,2408,2508,ML13298A103.txt
+0,U,Selected welding and non-destructive examination activities were observed during the activities associated with Cask #12.,56,2508,2629,ML13298A103.txt
+0,U,An automatic welding process was used to weld the canister lid.,56,2629,2692,ML13298A103.txt
+0,U,The welders operated the equipment remotely in a low dose rate area.,56,2692,2760,ML13298A103.txt
+0,U,Hydrogen monitoring was performed during the welding of the root weld and subsequent passes.,56,2760,2852,ML13298A103.txt
+0,U,The licensee utilized a RKI instruments Eagle 1 Type 101 for monitoring of explosive gas during the root pass welding and then used the RKI Eagle 1 Type 201-11 for monitoring during subsequent passes for lid to shell welding.,56,2852,3077,ML13298A103.txt
+0,U,"Both instruments had been calibrated on August 21, 2013.",56,3077,3133,ML13298A103.txt
+0,U,"Other activities that were observed by NRC inspectors of the loading of Cask #12 included: lifting the HI-TRAC transfer cask fully loaded out of the spent fuel pool, -6-",56,3133,3302,ML13298A103.txt
+0,U,"forced helium dehydration drying of the canister, helium backfill of the canister, welding of the vent and drain port covers, and transfer of the canister from the HI-TRAC to the HI-STORM.",58,0,189,ML13298A103.txt
+0,U,(5) Combustible Gas Monitoring Comanche Peak utilized Holtec as the welding contractor for performing all welding operations associated with the current and previous dry cask storage loading campaigns.,58,189,390,ML13298A103.txt
+0,U,Holtec welding group provided the hydrogen monitoring equipment for use during those welding operations.,58,390,494,ML13298A103.txt
+0,U,Holtec welding group had changed the hydrogen monitoring equipment and setup during this second campaign from that which was utilized by Comanche Peak during their dry run inspections and first loading campaign.,58,494,705,ML13298A103.txt
+0,U,This new equipment had not been previously inspected by Region IV NRC inspectors.,58,705,786,ML13298A103.txt
+0,U,"During the welding operations associated with Cask #12, the NRC inspector provided a Transnuclear (TN) Bulletin to Comanche Peak that described issues that resulted in a hydrogen deflagration event that occurred at Nine Mile Point (NMP) Nuclear Plant on August 14, 2013 during cask loading operations.",58,786,1087,ML13298A103.txt
+0,U,Comanche Peak's ISFSI personnel were aware of the event but had not received the bulletin due to the system used at NMP was of a different cask vendor.,58,1087,1238,ML13298A103.txt
+0,U,"The arrangement at Nine Mile Point had multiple differences to that at Comanche Peak, such as, a different cask system, welding system, purging gas, hydrogen monitors, and hydrogen monitoring setup.",58,1238,1436,ML13298A103.txt
+0,U,"Regardless, Comanche Peak took immediate actions to place the TN Bulletin into their corrective action program to evaluate the operational experience and determine if any of the issues that resulted in the hydrogen deflagration at NMP were applicable to the activities performed at Comanche Peak.",58,1436,1732,ML13298A103.txt
+0,U,Condition Report CR-2013-009593 was initiated to document Comanche Peak's evaluation.,58,1732,1817,ML13298A103.txt
+0,U,The TN Bulletin noted numerous issues that may have contributed to the hydrogen deflagration at Nine Mile Point.,58,1817,1929,ML13298A103.txt
+0,U,"These issues included: the use of helium as the purging gas, the RKI Eagle 1 monitor used at NMP had not been calibrated for its intended use or properly setup, and the sample line from cask to the instrument was 10 to 12 feet long with several low spots where water was found to be in the line.",58,1929,2224,ML13298A103.txt
+0,U,Comanche Peak's personnel immediately investigated and addressed all the issues identified in the bulletin against the current hydrogen monitoring setup that was in use for Cask #12.,58,2224,2406,ML13298A103.txt
+0,U,All aspects of the investigation were documented in evaluation EV-CR-2013009593.,58,2406,2486,ML13298A103.txt
+0,U,"At Comanche Peak, two hydrogen monitors were used.",58,2486,2536,ML13298A103.txt
+0,U,"A ""handheld"" monitor was used until the lid to shell root pass had been completed and the MPC was sealed.",58,2536,2641,ML13298A103.txt
+0,U,"A welding person used the ""handheld"" monitor to sample the groove area of the lid to shell weld area in four locations every ten minutes during the root pass to ensure no combustible gas was present.",58,2641,2840,ML13298A103.txt
+0,U,"Once the root pass had been completed a second monitor called the ""stationary"" monitor was used to sample the gas mixture that was coming from the vent port of the MPC.",58,2840,3008,ML13298A103.txt
+0,U,Holtec loading operations require an argon purge to be initiated during any welding operations to remove any combustible gas out of the cask and away from weld area.,58,3008,3173,ML13298A103.txt
+0,U,"Once the root pass had been welded the ""stationary"" monitor sampled gas from the MPC which was an oxygen free environment containing only argon and possibly hydrogen.",58,3173,3339,ML13298A103.txt
+0,U,-7-,60,0,3,ML13298A103.txt
+0,U,"At Nine Mile Point, operations used helium to purge the volume under the canister lid and an RKI Eagle 1 instrument that was of a different Type than that used at Comanche Peak.",62,0,178,ML13298A103.txt
+0,U,"For Comanche Peak, argon is a much heavier gas than hydrogen and oxygen and thus would displace those gases due to its higher mass.",62,178,309,ML13298A103.txt
+0,U,"At NMP, helium is close to the same weight as hydrogen and much lighter than oxygen and would be inadequate for displacing those elements by weight alone.",62,309,463,ML13298A103.txt
+0,U,Further the RKI Eagle 1 instrument used at NMP was found to be inadequately calibrated for use in a helium only environment and the monitor contained an internal inlet moisture filter drain that was found to be in the open position but was required to be in the closed position.,62,463,741,ML13298A103.txt
+0,U,At Comanche Peak both RKI Eagle 1 instruments (Type 101 and Type 201-11) did not contain an internal moisture filter or filter drain.,62,741,874,ML13298A103.txt
+0,U,"Further, Comanche Peak contacted RKI Instruments and verified that the Eagle 1 Type 201-11 could in fact work in an all argon environment and sufficiently detect a combustible gas mixture without any special kind of calibration.",62,874,1102,ML13298A103.txt
+0,U,"The Type 201-11 ""stationary"" monitor was equipped with an internal diffuser fitting and was not reliant upon the sample gas as the source for oxygen to detect a combustible gas.",62,1102,1279,ML13298A103.txt
+0,U,"The Type 101 ""handheld"" monitor did not contain the diffuser fitting and as such required the sample gas to contain at least 7% oxygen by volume for the catalytic combustion sensor to function properly.",62,1279,1481,ML13298A103.txt
+0,U,"Additionally, both monitors used at Comanche Peak were calibrated within the last month as recommended by RKI.",62,1481,1591,ML13298A103.txt
+0,U,At Comanche Peak the hydrogen monitoring setup had also changed from that used in the latest campaign from what was used during the first campaign.,62,1591,1738,ML13298A103.txt
+0,U,"In the first campaign the ""stationary"" monitor was kept close to the MPC canister with a sample tubing length of approximately five feet.",62,1738,1875,ML13298A103.txt
+0,U,In the second campaign the hydrogen monitor was positioned in the welders low dose area near the welding remote controlling equipment.,62,1875,2009,ML13298A103.txt
+0,U,The sample tubing was measured to be approximately 85 feet long wrapping along multiple walls and up twenty feet in elevation.,62,2009,2135,ML13298A103.txt
+0,U,Through the review of the TN bulletin a walk-down of the sample line tubing was performed by the Holtec welders.,62,2135,2247,ML13298A103.txt
+0,U,Several dips in the sample line were discovered which contained small amounts of water condensate.,62,2247,2345,ML13298A103.txt
+0,U,No loop seal of water had formed in the tubing.,62,2345,2392,ML13298A103.txt
+0,U,Holtec's welding crew responded appropriately by taking up the slack in the line to remove the low points and drained the small amount of water from the tubing.,62,2392,2552,ML13298A103.txt
+0,U,"After the completion of Cask #12 and prior to the operations associated with Cask #13, Comanche Peak set-up a procedural test of the current hydrogen monitoring equipment by procuring a test bottle of 95 percent nitrogen and 5 percent hydrogen to ensure the equipment and setup used could sufficiently sample a combustible gas mixture as required.",62,2552,2899,ML13298A103.txt
+0,U,The hydrogen monitoring experiment was documented in EV-CR-2013-009593-2.,62,2899,2972,ML13298A103.txt
+0,U,"The licensee connected the test bottle to the 85 feet of tubing used for the ""stationary"" monitor with an equivalent back pressure to see if the monitor alarmed.",62,2972,3133,ML13298A103.txt
+0,U,The Eagle 1 Type 201-11 did alarm almost instantaneously.,62,3133,3190,ML13298A103.txt
+0,U,"Next the licensee tested the ""handheld"" Eagle 1 Type 101 sensor by expelling the combustible gas from an open 1 liter sample bottle and slowly lowered the monitor down to the opening of that bottle to determine when the monitor would alarm.",62,3190,3430,ML13298A103.txt
+0,U,The Type 101 monitor alarmed at approximately one inch away from the open bottle.,62,3430,3511,ML13298A103.txt
+0,U,These test demonstrated that the combustible gas,62,3511,3559,ML13298A103.txt
+0,U,-8-,64,0,3,ML13298A103.txt
+0,U,detection system used in Casks #10 thru #12 was adequate and met the requirements in the Technical Specification 1.3.,66,0,118,ML13298A103.txt
+0,U,The corrective actions that resulted from the review of the TN Bulletin as documented in the condition report CR-2013-009593 included the following: �� A revision to Comanche Peak Procedure DCS-100 to require the DCS Project Manager to verify that there had been no change to either the welding equipment or hydrogen gas monitors or their setups prior to each new loading campaign.,66,118,498,ML13298A103.txt
+0,U,This could include in situ testing under simulated conditions to prove that the gas monitors are functioning or will function as required and/or calibration verification from the monitor vendor that would demonstrate the equipment would function as required.,66,498,756,ML13298A103.txt
+0,U,Holtec Welding procedure HSP-504 was revised to provide instructions to monitor for and drain water that is found in the in-line hydrogen sample tubing and the change included special cautions and guidance for use of the hydrogen monitors.,66,756,995,ML13298A103.txt
+0,U,The in-line hydrogen sample tubing was decreased from 85 feet long to approximately 10 feet long with all low points removed and the use of water collection drip pots that would collect any condensate.,66,995,1196,ML13298A103.txt
+0,U,"The ""handheld"" Eagle 1 Type 101 was removed from service and replaced with a second Eagle 1 Type 201-11 monitor.",66,1196,1308,ML13298A103.txt
+0,U,��,68,0,1,ML13298A103.txt
+0,U,��,70,0,1,ML13298A103.txt
+0,U,��,72,0,1,ML13298A103.txt
+0,U,"(6) Technical Specification 3.1.2, Cask Temperature Monitoring Technical Specification 3.1.2 required either a daily inspection of the inlet and outlet vents for blockage or daily verification that the temperature difference between the HI-STORM outlet temperature and the ISFSI ambient temperature was less than a specified temperature.",74,0,337,ML13298A103.txt
+0,U,The licensee had equipped all the HI-STORM casks with temperature monitoring equipment and was implementing the daily temperature monitoring requirements in compliance with technical specification.,74,337,534,ML13298A103.txt
+0,U,"If the temperature monitoring equipment malfunctioned or was not in operation, the licensee performed vent inspections in accordance with technical specification.",74,534,696,ML13298A103.txt
+0,U,"The licensee implemented Shift Surveillance Procedure OPT-102A ""Mode 1 and 2 Shiftly Surveillances,"" Revision 37 to comply with the Technical Specification.",74,696,852,ML13298A103.txt
+0,U,The procedure required operators to verify that the difference between average overpack air outlet temperature and ISFSI ambient temperature was each HSM temperature was  155 degrees Fahrenheit (F).,74,852,1050,ML13298A103.txt
+0,U,"If the acceptance criteria was not met, the operators were required to inspect the vent openings of the affected cask and remove any blockages, if found.",74,1050,1203,ML13298A103.txt
+0,U,Temperature monitoring documentation was reviewed for the months of December 2012 and June 2013 to verify compliance with the Technical Specification.,74,1203,1353,ML13298A103.txt
+0,U,"For all months selected for review, temperature monitoring or vent inspections were performed daily, as required.",74,1353,1466,ML13298A103.txt
+0,U,"For all the days of the selected months reviewed, no cask vents were reported as being blocked or exceeding temperature monitoring criteria.",74,1466,1606,ML13298A103.txt
+0,U,-9-,76,0,3,ML13298A103.txt
+0,U,(7) Corrective Action Program A list of condition reports issued since the last NRC inspection in June of 2012 was provided by the licensee for the fuel building overhead crane and the ISFSI.,78,0,192,ML13298A103.txt
+0,U,"Issues were processed in accordance with Procedure STA-422 ""Processing Condition Reports,"" Revision 31.",78,192,295,ML13298A103.txt
+0,U,When a problem was identified the licensee would document the issue as a condition report (CR) in the licensee's corrective action program.,78,295,434,ML13298A103.txt
+0,U,"Of the list of CRs provided relating to the ISFSI and the fuel building overhead crane, approximately 25 CRs were selected by the NRC inspectors for further review.",78,434,598,ML13298A103.txt
+0,U,"The CRs related to a number of different topics including: calibration of the forced helium dehydration temperature gages, annual maintenance discrepancies such as light rust found on loaded HI-STORMs on the ISFSI pad, modification of the emergency power disconnect switch for the fuel building overhead crane, and CR regarding issues from the operating experience from other facilities.",78,598,985,ML13298A103.txt
+0,U,The CRs reviewed were well documented and properly categorized based on the significance of the issue.,78,985,1087,ML13298A103.txt
+0,U,The corrective actions taken were appropriate for the situations.,78,1087,1152,ML13298A103.txt
+0,U,"Based on the level of detail of the corrective action reports, the licensee demonstrated a high attention to detail in regards to the maintenance and operation of their ISFSI program and the fuel building overhead crane.",78,1152,1372,ML13298A103.txt
+0,U,No NRC concerns were identified related to the condition reports reviewed.,78,1372,1446,ML13298A103.txt
+0,U,"(8) Decommissioning Funding Plan Federal Register Notice 76FR35512, dated June 17, 2011, included a new rulemaking requirement that affected Part 72 licensees.",78,1446,1605,ML13298A103.txt
+0,U,The Federal Register documented a change to 72.30(b) which required Part 72 licensees to submit to the NRC for review and approval an ISFSI decommissioning funding plan.,78,1605,1774,ML13298A103.txt
+0,U,The final rule made changes to the financial assurance requirements for Part 72 licensees to provide greater consistency with similar decommissioning requirements in the 10 CFR Part 50 regulations.,78,1774,1971,ML13298A103.txt
+0,U,Financial assurances are financial arrangements provided by the licensee to ensure funds for decommissioning will be available when needed.,78,1971,2110,ML13298A103.txt
+0,U,"The effective date of the new rule was December 17, 2012.",78,2110,2167,ML13298A103.txt
+0,U,The new rule required all Part 72 licensees to submit a decommissioning funding plan to the NRC by the effective date of the rule.,78,2167,2297,ML13298A103.txt
+0,U,"Comanche Peak submitted its ISFSI Decommissioning Funding Plan to the NRC for review and approval on December 17, 2012 (Adams Accession No.",78,2297,2436,ML13298A103.txt
+0,U,ML13002A074) in compliance with the new rule.,78,2436,2481,ML13298A103.txt
+0,U,b.,78,2481,2483,ML13298A103.txt
+0,U,Findings No findings were identified.,78,2483,2520,ML13298A103.txt
+0,U,.2 a.,78,2520,2525,ML13298A103.txt
+0,U,Review of 10 CFR 72.212(b) Evaluations at Operating Plants (60856.1) Inspection Scope The 10 CFR 72.212 Evaluation Report was reviewed to verify site characteristics were still bounded by the Holtec HI-STORM 100 cask system's design basis.,78,2525,2764,ML13298A103.txt
+0,U,- 10 -,80,0,6,ML13298A103.txt
+0,U,"Comanche Peak's 10 CFR 72.212 Evaluation Report at the time of the inspection was Revision 5, dated August 13, 2013.",82,0,117,ML13298A103.txt
+0,U,Three revisions had been performed to the 72.212 Evaluation Report since the last NRC routine ISFSI inspection and were reviewed during this inspection.,82,117,269,ML13298A103.txt
+0,U,"These were Revision 3 on October 23, 2012, Revision 4 on July 15, 2013, and Revision 5 implemented on August 13, 2013.",82,269,387,ML13298A103.txt
+0,U,The associated 10 CFR 72.48 screening for each revision was reviewed.,82,387,456,ML13298A103.txt
+0,U,"In Revision 3, the licensee added three tables that enhanced the comprehension and understanding of the MPC and HI-STORM fabrication information and provided additional loading information for the used fuel stored within the casks currently on the ISFSI pad.",82,456,714,ML13298A103.txt
+0,U,"In Revision 4, the licensee added two additional Appendices to the 72.212 Report which removed the non-applicable discussions and requirements from the generic Holtec Certificate of Compliance.",82,714,907,ML13298A103.txt
+0,U,This change was issued to enhance and improve operator usability and aided in cleaning out non-applicable systems not used at Comanche Peak.,82,907,1047,ML13298A103.txt
+0,U,"The latest change, Revision 5, was an editorial change that only changed the table of contents and list of effective pages.",82,1047,1170,ML13298A103.txt
+0,U,b.,82,1170,1172,ML13298A103.txt
+0,U,Findings No findings were identified.,82,1172,1209,ML13298A103.txt
+0,U,.3 a.,82,1209,1214,ML13298A103.txt
+0,U,Review of 10 CFR 72.48 Evaluations (60857) Inspection Scope The licensee's 10 CFR 72.48 screenings and evaluations since the last NRC routine ISFSI inspection were reviewed to determine compliance with regulatory requirements.,82,1214,1440,ML13298A103.txt
+0,U,A list of modifications to the ISFSI programs and changes to the fuel building overhead crane was provided by the licensee.,82,1440,1563,ML13298A103.txt
+0,U,The licensee had not performed any 72.48 ISFSI evaluations or any 50.59 crane evaluations since the last NRC inspection in June of 2012.,82,1563,1699,ML13298A103.txt
+0,U,"From the list of 72.48 screens provided by the licensee, fifteen 10 CFR 72.48 screenings were selected for further review.",82,1699,1821,ML13298A103.txt
+0,U,"The licensee utilized Procedure STA-707, ""10 CFR 50.59 and 10 CFR 72.48 Reviews"" Revision 19 to perform the 10 CFR 72.48 or 10 CFR 50.59 safety screenings or evaluations.",82,1821,1991,ML13298A103.txt
+0,U,None of the screenings reviewed required a full 10 CFR 72.48 or 10 CFR 50.59 safety evaluation.,82,1991,2086,ML13298A103.txt
+0,U,All screenings were determined to be adequately evaluated.,82,2086,2144,ML13298A103.txt
+0,U,b.,82,2144,2146,ML13298A103.txt
+0,U,Findings No findings were identified.,82,2146,2183,ML13298A103.txt
+0,U,"4OA6 Meetings, Including Exit Exit Meeting Summary On September 19, 2013 the inspectors presented the initial inspection results to Mr. Ben Mays, and other members of the licensee staff.",82,2183,2369,ML13298A103.txt
+0,U,"Then on October 8, 2013 a final telephonic exit was conducted with Mr. Jimmy Seawright after the completion of a hydrogen monitoring test which",82,2369,2512,ML13298A103.txt
+0,U,- 11 -,84,0,6,ML13298A103.txt
+0,U,demonstrated that gas monitoring equipment was functioning as required.,86,0,72,ML13298A103.txt
+0,U,The licensee acknowledged the inspection details presented.,86,72,131,ML13298A103.txt
+0,U,The inspector asked the licensee whether any materials examined during the inspection should be considered proprietary.,86,131,250,ML13298A103.txt
+0,U,No proprietary information was identified.,86,250,292,ML13298A103.txt
+0,U,- 12 -,88,0,6,ML13298A103.txt
+0,U,"SUPPLEMENTAL INSPECTION INFORMATION KEY POINTS OF CONTACT Licensee Personnel S. Fenton, Radiation Protection B. Henley, Project Manager T. Hope, Manager of Regulatory Affairs J.",90,0,178,ML13298A103.txt
+0,U,"Hull, Refueling Work Window Manager D. Keating, Ops Procedures M. Ragan, Project Manager J. Seawright, Regulatory Affairs Contractor Personnel J. Crowson, Holtec Cask Loading Supervisor E. Oly, Holtec Welding Supervisor J. Wolfe, System One Quality Control Inspector INSPECTION PROCEDURES USED IP 60855.1 IP 60856.1 IP 60857 Operations of an ISFSI at Operating Plants Review of 10 CFR 72.212(b) Evaluations at Operating Plants Review of 10 CFR 72.48 Evaluations LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED Opened None Discussed None Closed None",90,178,722,ML13298A103.txt
+0,U,Attachment 1,92,0,12,ML13298A103.txt
+0,U,LIST OF DOCUMENTS REVIEWED The following is a list of documents reviewed during the inspection.,94,0,96,ML13298A103.txt
+0,U,"Inclusion on this list does not imply that the NRC inspectors reviewed the documents in their entirety, but rather, that selected sections of portions of the documents were evaluated as part of the overall inspection effort.",94,96,320,ML13298A103.txt
+0,U,"Inclusion of a document on this list does not imply NRC acceptance of the document or any part of it, unless this is stated in the body of the inspection report.",94,320,481,ML13298A103.txt
+0,U,4OA5.1 Other Activities Calculations NUMBER TITLE REVISION / DATE,94,481,546,ML13298A103.txt
+0,U,"Procedures NUMBER DCS-100 DCS-201 DCS-202 DCS-203 DCS-204 DCS-205 DCS-301 HSP-504 OPT-102A STA-422 STA-421 STA-707 DCS-110 DCS-301 TITLE Dry Fuel Storage Campaign Guidelines Transporting Loaded and Unloaded HI-STORM MPC Preparing for Loading MPC Handling and Fuel Loading Operations MPC Closure Operations Stack-up and Transfer of Loaded MPC Dry Cask Storage Equipment Malfunction, Loop, LOCA, and Contingencies guidance Procedure to Perform Closure Welds on the MPC and MPC Lid Mode 1 and 2 Shiftly Surveillances Processing Condition Reports Initiation of Condition Reports 10 CFR 50.59 and 10 CFR 72.48 Reviews HI-STORM In-Service Annual Inspection and Maintenance Dry Cask Storage (DCS) Equipment Malfunctions, LOOP, LOCA, and Contingencies Guidance REVISION / DATE Revision 4 Revision 5 Revision 3 Revision 6 Revision 5 Revision 6 Revision 4 Revision 22 Revision 37 Revision 31 Revision 18 Revision 19 Revision 2 Revision 4",96,0,927,ML13298A103.txt
+0,U,Design Basis Documents NUMBER TITLE 10 CFR 72.212 Evaluation Report Docket # 72-74 Certificate of Compliance 72-1014 HI-STORM 100 Cask System Holtec International Final Safety Analysis Report for the HI-STORM 100 Cask System REVISION / DATE Revision 5 Amendment 7 Revision 9,98,0,274,ML13298A103.txt
+0,U,-2-,100,0,3,ML13298A103.txt
+0,U,"Miscellaneous Documents NUMBER LDCR DC-13-001 LDCR DC-11-005 VDRT 4508107 VDRT 4289978 VDRT 4411053 VDRT 4624171 VDRT 4623991 VDRT 4640647 VDRT 4554248 VDRT 4698780 FDA-2009000859-23-01 NUC-212-4 NUC-212-4 NUC-212-4 NUC-212-5 TITLE 10 CFR 72.212 Evaluation Report Revision 10 CFR 72.121 Evaluation Report Revision 10 CFR 72.48 Screening Evaluation Database 10 CFR 72.48 Screening Evaluation Database 10 CFR 72.48 Screening Evaluation Database 10 CFR 72.48 Screening Evaluation Database MPC Port Cap Operations HI-STORM CoC Radiation Protection Program Dose Rates Limits for Comanche Peak Dose Versus Distance from HI-STORM 100S Version B for Comanche Peak Evaluation of Temporary Shielding for MPC at Comanche Peak Final Design Authorization Cask Acceptability Report, Cask #010 Cask Acceptability Report, Cask #011 Cask Acceptability Report, Cask #012 Comprehensive Assembly Specification Supplement (96 copies, one for each loaded fuel assembly) Electronic Dosimeter records for casks 010 and 011 UFO2 Dose Trend Chart UFO2 Cask and Dose Trending Data Task and Dose Breakout for UFO2 Cask Campaign 1 Task and Dose Breakout for UFO2 Cask Campaign 2 Radiological Survey Forms (several) GAM Map Locations (several) Data Sheet - Borotron� Borated PE GAM Badge Location Sheet (several) CPNPP GAM Results Report (several) Mirion Technologies �_ Global Dosimetry Solutoins Comanche Peak Environmental Operating Reports (several) Various Site Maps Evaluation of HMD Surveillance Report 12-RVS-18 Evaluation of HMD Surveillance Report 12-RVS-19 Evaluation of HMD Surveillance Report 12-RVS-20, 21 and 22 Evaluation of HMD Surveillance Report 13-RVS-09, 10, 11, and 12 Fuel Management During UFO1 Core Performance Engineering and Fuel Management Fuel Management During UFO2 REVISION / DATE Revision 0 Revision 0 Revision 0 Revision 1 Revision 0 Revision 0 Revision 2 Revision 5 Revision 5 Revision 2 Dated 08/02/2011 Revision 4 Revision 4 Revision 4 Revision 1",102,0,1952,ML13298A103.txt
+0,U,RPI-602-1 RPI-521-1,104,0,19,ML13298A103.txt
+0,U,Revision 10 Revision 6,106,0,22,ML13298A103.txt
+0,U,QAA-12-065 QAA-12-066 QAA-12-075 QAA-13-040 EVAL-2011-005 EVAL-2011-007 EVAL-2013-008,108,0,85,ML13298A103.txt
+0,U,Dated 08/19/2012 Dated 09/09/2012 Dated 12/27/2012 Dated 07/11/2013 Dated 05/29/2012 Dated 01/03/2012 Dated 07/07/2012,110,0,118,ML13298A103.txt
+0,U,-3-,112,0,3,ML13298A103.txt
+0,U,Work Orders WO 4677096 Condition Reports CR-2013-009593 CR-2013-009124 CR-2013-005044 CR-2013-002186 CR-2013-008187 CR-2012-005246 CR-2013-007597 CR-2012-000282 CR-2009-000859 CR-2012-004628 CR-2021-007306 CR-2013-005088 CR-2012-002019 CR-2013-008942 CR-2013-005905 CR-2012-000282 CR-2013-007609 CR-2013-006831 CR-2013-007876 CR-2012-002446 CR-2013-008802 CR-2013-006831 CR-2013-006952 CR-2013-009020 CR-2013-005326 CR-2012-003495 CR-2012-005044,114,0,446,ML13298A103.txt
+0,U,-4-,116,0,3,ML13298A103.txt
+0,U,LIST OF ACRONYMS ADAMS CAP CoC CPNPP CR CFR CY DCS DNMS F FSAR GAM GM IMC IP ISFSI kW mR/hr micro(�)R/hr MPC mrem MWd/MTU NMP NRC OSL QA QC REMP RP TLD TN U-235 UFO1 UFO2 Agencywide Documents Access and Management System Corrective Action Program Certificate of Compliance Comanche Peak Nuclear Power Plant Condition Report Code of Federal Regulations Calendar Year Dry Cask Storage Division of Nuclear Material Safety Fahrenheit Final Safety Analysis Report General Area Monitoring Geiger-Mueller Inspection Manual Chapter Inspection Procedure Independent Spent Fuel Storage Installation kilo-watt milliRoentgen per hour microRoentgen per hour Multi-Purpose Canister milliRoentgen equivalent man megawatt days/metric ton uranium Nine Mile Point U.S. Nuclear Regulatory Commission optically stimulated luminescent Quality Assurance Quality Control Radiological Environmental Monitoring Program radiation protection thermoluminescent dosimeter Transnuclear Uranium 235 Cask Loading Campaign #1 Cask Loading Campaign # 2,118,0,1019,ML13298A103.txt
+0,U,-5-,120,0,3,ML13298A103.txt
+0,U,ATTACHMENT 2: LOADED CASKS AT THE COMANCHE PEAK ISFSI,122,0,54,ML13298A103.txt
+0,U,LOADING ORDER 1 2 3 4 5 6 7 8 9 10 11 12 MPC SERIAL No.,123,0,55,ML13298A103.txt
+0,U,MPC-156 MPC-158 MPC-157 MPC-202 MPC-199 MPC-196 MPC-195 MPC-200 MPC-198 MPC-197 MPC-307 MPC-289 HI-STORM No.,123,55,163,ML13298A103.txt
+0,U,Serial No.,123,163,173,ML13298A103.txt
+0,U,465 Serial No.,123,173,187,ML13298A103.txt
+0,U,467 Serial No.,123,187,201,ML13298A103.txt
+0,U,553 Serial No.,123,201,215,ML13298A103.txt
+0,U,550 Serial No.,123,215,229,ML13298A103.txt
+0,U,549 Serial No.,123,229,243,ML13298A103.txt
+0,U,557 Serial No.,123,243,257,ML13298A103.txt
+0,U,556 Serial No.,123,257,271,ML13298A103.txt
+0,U,551 Serial No.,123,271,285,ML13298A103.txt
+0,U,552 Serial No.,123,285,299,ML13298A103.txt
+0,U,729 Serial No.,123,299,313,ML13298A103.txt
+0,U,730 Serial No.,123,313,327,ML13298A103.txt
+0,U,"731 DATE ON PAD 02/28/12 03/12/12 04/02/12 04/09/12 04/14/12 05/07/12 05/14/12 05/21/12 06/18/12 9/04/13 9/16/13 9/23/13 HEAT LOAD (Kw) 17.813 24.842 25.031 25.133 25.216 25.470 25.377 27.203 27.657 22.283 22.225 22.949 BURNUP MWd/MTU (max) 42,278 49,268 49,518 49,561 49,509 49,750 49,961 49,584 49,888 49,949 49,814 49,691 MAXIMUM FUEL ENRICHMENT % 4.50 4.82 4.82 4.82 4.82 4.82 4.82 4.82 4.80 4.74 4.82 4.82 PERSON-REM DOSE 0.332 0.359 0.315 0.195 0.223 0.116 0.120 0.098 0.549 0.186 0.119 0.170",123,327,825,ML13298A103.txt
+0,U,NOTES:,125,0,6,ML13298A103.txt
+0,U," Heat load (kW) is the sum of the heat load values for all spent fuel assemblies in the cask  Burn-up is the value for the spent fuel assembly with the highest individual discharge burn-up  Fuel enrichment is the spent fuel assembly with the highest individual ""initial"" enrichment percent of U-235",127,0,298,ML13298A103.txt
+0,U,"All casks were loaded and are currently maintained under Certificate of Compliance 1014, License Amendment 7 and the Final Safety Analysis Report, Revision 9",129,0,157,ML13298A103.txt
+0,U,Attachment 2,131,0,12,ML13298A103.txt

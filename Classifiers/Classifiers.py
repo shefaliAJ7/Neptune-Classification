@@ -42,8 +42,7 @@ class Train(object):
 
         # encode classes
         self.one_hot = MultiLabelBinarizer()
-        # import IPython
-        # IPython.embed()
+
         self.Y = self.one_hot.fit_transform(self.df['Y'])
 
         self.save_encoder()
@@ -141,9 +140,13 @@ class Train(object):
     # Function for handling class labels based on type of classifier used
     # and dropping all class labels except training class label which is renamed to 'Y'
     def class_label_handler(self):
+        # #For inter coder reliability
+        # self.df['Y'] = self.df[TRAINING_LABEL].apply(self.class_label_processing)
+        # self.df = self.df.drop(['label_SALLY', 'label_struck', 'label_Frenard'], axis=1)
+        # self.df = self.df.dropna()
+
+        # For Sally Dataset
         self.df['Y'] = self.df[TRAINING_LABEL].apply(self.class_label_processing)
-        self.df = self.df.drop(['label_SALLY', 'label_struck', 'label_Frenard'], axis=1)
-        self.df = self.df.dropna()
 
     # This handles the different ways each classifier requires the desired class labels
     @staticmethod
@@ -167,16 +170,16 @@ class Train(object):
     # This is used to add/drop or modify the data-frame depending on the classifier/ needs of user
     def training_data_handler(self):
         if MODEL_TYPE == 'SentenceClassifier':
+            self.df = self.df.dropna()
             pass
         elif MODEL_TYPE == 'MultiClassSentenceClassifier':
+            self.df = self.df.dropna()
             pass
         elif MODEL_TYPE == 'BinarySentenceClassifier':
             useful_sentences = self.df[self.df['Y'] == 'N']
             self.df = self.df[self.df['Y'] == 'U'][:len(useful_sentences)].append(useful_sentences)
             msk = np.random.rand(len(self.df)) < 0.5
             tmp = self.df[msk]
-            # import IPython
-            # IPython.embed()
             self.df = tmp.append(self.df[~msk])
 
     # Generates model structure depending on type of classification performed
@@ -193,9 +196,9 @@ class Train(object):
         model = Sequential()
         model.add(Embedding(self.vocabulary_size, 100, input_length=self.sentence_length, weights=[self.embedding_matrix],
                             trainable=True))
-        model.add(Dropout(0.2))
-        model.add(Conv1D(64, 5, activation='relu'))
-        model.add(MaxPooling1D(pool_size=4))
+        model.add(Dropout(0.4))
+        model.add(Conv1D(8, 5, activation='relu'))
+        # model.add(MaxPooling1D(pool_size=4))
         model.add(LSTM(self.lstm_size))
         model.add(Dense(self.number_of_classes, activation='sigmoid'))
         model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
@@ -219,12 +222,13 @@ class Train(object):
     def generate_binary_sentence_classifier_model(self):
         model = Sequential()
         model.add(Embedding(self.vocabulary_size, 100, input_length=self.sentence_length, weights=[self.embedding_matrix], trainable=True))
-        model.add(Conv1D(256,5, activation='relu'))
+        model.add(Dropout(0.2))
+        # model.add(Conv1D(64,5, activation='relu'))
         # model.add(MaxPooling1D(pool_size=4))
-        model.add(Conv1D(256,5, activation='relu'))
-        model.add(MaxPooling1D(pool_size=4))
-        model.add(Flatten())
-        # model.add(LSTM(self.lstm_size))
+        # model.add(Conv1D(256,5, activation='relu'))
+        # model.add(MaxPooling1D(pool_size=4))
+        # model.add(Flatten())
+        model.add(LSTM(self.lstm_size))
         model.add(Dense(self.number_of_classes,activation='sigmoid'))
         model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
         return model
@@ -280,8 +284,13 @@ class Predict(object):
 
     # Uses same class handler as training data. If you modify this function, make sure you do the same in the Train class
     def class_label_handler(self):
+        # #For inter coder reliability
+        # self.df['Y'] = self.df[TRAINING_LABEL].apply(Train.class_label_processing)
+        # self.df = self.df.drop(['label_SALLY', 'label_struck', 'label_Frenard'], axis=1)
+        # self.df = self.df.dropna()
+
+        # For Sally Dataset
         self.df['Y'] = self.df[TRAINING_LABEL].apply(Train.class_label_processing)
-        self.df = self.df.drop(['label_SALLY', 'label_struck', 'label_Frenard'], axis=1)
         self.df = self.df.dropna()
 
     # This returns the accuracy of the model with test data. Also saves the analysis in a resulting csv folder

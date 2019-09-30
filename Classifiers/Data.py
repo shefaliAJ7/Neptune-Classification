@@ -21,20 +21,20 @@ class CreateDataset(object):
     # Extracts list of csv file names in directory CSV_DATA_PATH
     def get_file_names():
         files = [f for f in glob.glob(CSV_DATA_PATH+"*.csv")]
-        file_list = []
-        for file in files:
-            if len(file.split('-')) == 1:
-                file_list.append(file)
-        return file_list
+        return files
 
     # Creates a pandas dataframe sentences from all csv documents and storing attributes corresponding to that sentence:
     def process_raw_to_hd(self):
         filenames = self.get_file_names()
         main_df = pd.DataFrame()
         for i in filenames:
+            print(i)
             df = pd.read_csv(i)
-            # print(df)
             df['text'] = df['text'].apply(str)
+            # import IPython
+            # IPython.embed()
+            # df['end_pos'] = df['end_pos'].apply(int)
+            df['line'] = df['line'].apply(int)
             main_df = pd.concat([main_df , df], ignore_index=True)
         if not os.path.exists(PROCESSED_DATA_PATH):
             os.mkdir(PROCESSED_DATA_PATH)
@@ -67,8 +67,6 @@ class CreateDataset(object):
         df = pd.read_hdf(PROCESSED_DATA_PATH + RAW_DATA,key='raw')
         df = df.dropna()
         df['text'] = df['text'].apply(self.clean_text)
-        # import IPython
-        # IPython.embed()
         df.to_hdf(PROCESSED_DATA_PATH + CLEAN_DATA, key='clean')
 
     # Splitting the previously cleaned dataframe into training and testing datasets depending on Config settings

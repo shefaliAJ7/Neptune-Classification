@@ -1,17 +1,17 @@
 import os
 # Retrain model
-RETRAIN = False
+RETRAIN = True
 
 # Hyper parameters
 SENTENCE_LENGTH = 20
 LSTM_SIZE = 20
 # Model Params
-VALIDATION_SPLIT = 0.1
-BATCH_SIZE = 512
-EPOCHS = 10
+VALIDATION_SPLIT = 0.2
+BATCH_SIZE = 16
+EPOCHS = 40
 VERBOSE = 1 # Display output during training
 # Number between 0 and 1
-TRAIN_TEST_SPLIT = 0.8
+TRAIN_TEST_SPLIT = 0.6
 PRED_CONFIDENCE = 0.5  # Confidence score for multi-class sentence classifier
 
 # Choose Classifier
@@ -20,7 +20,8 @@ MODEL_TYPE='BinarySentenceClassifier'
 # MODEL_TYPE='MultiClassSentenceClassifier'
 
 #Choose class label from data
-TRAINING_LABEL = 'label_SALLY'
+TRAINING_LABEL = 'class'
+# TRAINING_LABEL = 'label_SALLY'
 # TRAINING_LABEL = 'label_Frenard'
 # TRAINING_LABEL = 'label_struck'
 
@@ -30,7 +31,8 @@ PREDICTION_FILE = 'Result.csv'
 # Relative Path handling
 PROCESSED_DATA_DIR = "ProcessedData/"
 ANNOTATED_FILE_DIR = "CodingFiles/"
-CURRENT_DATA = "InterCoderReliability/"
+# CURRENT_DATA = "InterCoderReliability/"
+CURRENT_DATA = 'Sally/'
 
 CSV_DATA_PATH = ANNOTATED_FILE_DIR + CURRENT_DATA
 PROCESSED_DATA_PATH = PROCESSED_DATA_DIR + CURRENT_DATA
