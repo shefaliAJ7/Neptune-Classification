@@ -2,11 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11502608-6e12-4e48-a771-eb7f48ab1344" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterCoderReliability/Calculating_KappaScore.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../InterCoderReliability/Calculating_KappaScore.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterCoderReliability/MergedFiles/ML071350662.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterCoderReliability/MergedFiles/ML12027A131.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterCoderReliability/MergedFiles/ML13182A476.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterCoderReliability/MergedFiles/ML13298A103.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterCoderReliability/MergedFiles/ML14041A484.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterCoderReliability/MergedFiles/ML14087A338.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterCoderReliability/MergedFiles/wat_2000010.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterCoderReliability/Merging_Intercoder_Reliability_Files.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../InterCoderReliability/Merging_Intercoder_Reliability_Files.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MultiClassClassifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MultiClassClassifier.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML071350662.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML12027A131.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML13182A476.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML13298A103.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML14041A484.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/ML14087A338.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingFiles/InterCoderReliability/wat_2000010.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiClassClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultiClassClassifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProcessedData/InterCoderReliability/raw_data.h5" beforeDir="false" afterPath="$PROJECT_DIR$/ProcessedData/InterCoderReliability/raw_data.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiClassClassifier.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,6 +76,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.main">
+    <configuration name="Config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MultiClassClassifier" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="createDataset" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="MultiClassClassifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,9 +127,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -105,10 +145,12 @@
     <list>
       <item itemvalue="Python.createDataset" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.Config" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.Config" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +174,11 @@
       <workItem from="1568491976134" duration="188000" />
       <workItem from="1568492225237" duration="5000" />
       <workItem from="1568603169676" duration="3873000" />
+      <workItem from="1568656137580" duration="29818000" />
+      <workItem from="1569640939564" duration="1336000" />
+      <workItem from="1570480218504" duration="10059000" />
+      <workItem from="1572040877857" duration="8240000" />
+      <workItem from="1572307707180" duration="1050000" />
     </task>
     <servers />
   </component>
@@ -153,6 +200,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MultiClassClassifier$trainModel.coverage" NAME="trainModel Coverage Results" MODIFIED="1568331941201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MultiClassClassifier$main.coverage" NAME="main Coverage Results" MODIFIED="1568607047545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MultiClassClassifier$main.coverage" NAME="main Coverage Results" MODIFIED="1572308727241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

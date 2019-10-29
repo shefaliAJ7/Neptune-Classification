@@ -1,10 +1,12 @@
 import os
-PROCESSED_DATA_DIR = "ProcessedData/"
-ANNOTATED_FILE_DIR = "CodingFiles/"
-CURRENT_DATA = "InterCoderReliability/"
+from typing import List
 
-CSV_DATA_PATH = ANNOTATED_FILE_DIR + CURRENT_DATA
-PROCESSED_DATA_PATH = PROCESSED_DATA_DIR + CURRENT_DATA
+CURRENT_DATA = "resources/"
+
+CSV_DATA_PATH = CURRENT_DATA + 'raw_data_csvfiles/For_binary_classification/'
+PROCESSED_DATA_PATH = CURRENT_DATA + 'Modelling/'
+RESULTS_DATA_PATH = CURRENT_DATA + 'Results/'
+MODEL_TYPE = 'BinarySentenceClassifier'
 
 GLOVE_PATH = os.path.abspath(os.path.dirname(__file__))+'/../../glove.6B.100d.txt'
 
@@ -21,8 +23,14 @@ CLEAN_DATA='clean_data.h5'
 TRAIN_DATA='train_data.h5'
 TEST_DATA='test_data.h5'
 
-MODEL_NAME = 'multiclass_model.h5'
-# TRAINING_LABEL = 'label_SALLY'
-# TRAINING_LABEL = 'label_Frenard'
-# TRAINING_LABEL = 'label_struck'
-PREDICTION_FILE = 'Result.csv'
+MODEL_NAME = 'binaryclass_model.h5'
+AGREEMENT = 0
+#TRAINING_LABEL = ['label_struck','label_SALLY']
+#TRAINING_LABEL_DROP = ['label_SALLY','label_Frenard','label_struck']
+TRAINING_LABEL = ['label_SALLY']
+TRAINING_LABEL_DROP = ['label_SALLY']
+#TRAINING_LABEL = ['label_Frenard']
+#TRAINING_LABEL_DROP = ['label_Frenard']
+#TRAINING_LABEL = ['label_struck']
+#TRAINING_LABEL_DROP = ['label_struck']
+PREDICTION_FILE = 'Binary_Classifcation_Result(310)'
