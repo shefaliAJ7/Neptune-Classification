@@ -17,6 +17,7 @@ from keras.layers import Dense, Conv1D, Flatten, Embedding, Dropout, MaxPooling1
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MultiLabelBinarizer
 from keras.models import load_model
+from gensim.models.keyedvectors import KeyedVectors
 
 
 # This class handles all the training portion of classifiers using neural networks
@@ -111,7 +112,7 @@ class Train(object):
 
     def train_model(self,model_file=MODEL_NAME):
         if not self.ignore:
-            self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=10, verbose =1)
+            self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=60, verbose =1)
             self.model.save(PROCESSED_DATA_PATH + model_file)
             self.plot_history()
         return max(self.history.history['acc']), max(self.history.history['val_acc'])

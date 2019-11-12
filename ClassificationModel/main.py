@@ -9,7 +9,7 @@ import pandas as pd
 class MCC:
     def __init__(self):
         self.create_dataset = CreateDataset()
-        self.train = Train(force_retrain=False)
+        self.train = Train(force_retrain=True)
         self.predict = Predict()
         self.train_accuracy = None
         self.train_accuracy = None

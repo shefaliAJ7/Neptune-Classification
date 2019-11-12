@@ -7,15 +7,18 @@ from Config import *
 
 
 class CreateDataset(object):
+    total_data = None
+    count_usefull = 0
     def __init__(self):
+        self.total_data = 0
+        self.count_usefull = 0
         if not os.path.exists(PROCESSED_DATA_PATH + RAW_DATA):
             self.process_raw_to_hd()
         if not os.path.exists(PROCESSED_DATA_PATH + CLEAN_DATA):
             self.clean_data()
         if not os.path.exists(PROCESSED_DATA_PATH + TRAIN_DATA) or not os.path.exists(PROCESSED_DATA_PATH + TEST_DATA):
             self.split_train_test()
-        self.total_data
-        self.count_usefull
+
 
     @staticmethod
     def get_file_names():
@@ -97,7 +100,7 @@ class CreateDataset(object):
     @staticmethod
     def class_label_handler(class_label):
         if 'U' in class_label:
-            return np.Nan
+            return np.NaN
         else:
             return class_label.split(',')[0]
 
