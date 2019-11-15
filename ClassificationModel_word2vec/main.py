@@ -66,16 +66,16 @@ class MCC:
         list.append(self.create_dataset.total_data)
         self.final_result['#AllData'] = list
         print(self.final_result)
-        filename = RESULTS_DATA_PATH+"Final_Results.csv"
+        filename = RESULTS_DATA_PATH+"Final_Results_W2V.csv"
         if not os.path.isfile(filename):
             self.final_result.to_csv(filename, header=True)
         else:
             self.final_result.to_csv(filename, mode='a', header=False)
 
 
-if __name__ == '__main__':
-    #shutil.rmtree(PROCESSED_DATA_PATH)
-    mcc = MCC()
-    mcc.train_model()
-    mcc.predict_labels()
-    mcc.get_results()
+#if __name__ == '__main__':
+shutil.rmtree(PROCESSED_DATA_PATH)
+mcc = MCC()
+mcc.train_model()
+mcc.predict_labels()
+mcc.get_results()

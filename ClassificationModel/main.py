@@ -56,7 +56,7 @@ class MCC:
 
 
 if __name__ == '__main__':
-    #shutil.rmtree(PROCESSED_DATA_PATH)
+    shutil.rmtree(PROCESSED_DATA_PATH)
     mcc = MCC()
     mcc.train_model()
     mcc.predict_labels()

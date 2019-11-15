@@ -1,0 +1,575 @@
+text,line,start_pos,end_pos,file,label_Frenard
+NUCLEAR REGULATORY COMMISSION,0,0,29,ML17179A282.txt,U
+"REGION IV 1600 E. LAMAR BLVD ARLINGTON, TX 76011-4511",1,0,53,ML17179A282.txt,U
+UNITED STATES,3,0,13,ML17179A282.txt,U
+"June 27, 2017 Mr. Ken Higginbotham Vice President-Nuclear and CNO Nebraska Public Power District Cooper Nuclear Station 72676 648A Avenue P.O.",5,0,142,ML17179A282.txt,U
+"Box 98 Brownville, NE 68321 SUBJECT: COOPER NUCLEAR STATION Â­ NRC SPECIAL INSPECTION REPORT 05000298/2017009",5,142,250,ML17179A282.txt,U
+"Dear Mr. Higginbotham: On February 17, 2017, the U. S. Nuclear Regulatory Commission (NRC) completed its initial assessment of a residual heat removal (RHR) system configuration control problem that was discovered on February 5, 2017, at your Cooper Nuclear Station.",7,0,266,ML17179A282.txt,U
+"During the fall 2016 refueling outage, operations personnel failed to reposition the Division I RHR minimum flow isolation valves to the open position prior to reinstalling the valve sealing devices.",7,266,465,ML17179A282.txt,U
+"As a result, these minimum flow paths remained isolated until this condition was discovered on February 5, 2017.",7,465,577,ML17179A282.txt,U
+"Based on this initial assessment, the NRC sent a special inspection team to your site on March 13, 2017.",7,577,681,ML17179A282.txt,U
+"On May 17, 2017, the NRC completed its special inspection and discussed the results of this inspection with you and other members of your staff.",7,681,825,ML17179A282.txt,U
+The results of this inspection are documented in the enclosed report.,7,825,894,ML17179A282.txt,U
+NRC inspectors documented two findings of very low safety significance (Green) in this report.,7,894,988,ML17179A282.txt,U
+Both of these findings involved violations of NRC requirements.,7,988,1051,ML17179A282.txt,U
+The NRC is treating these violations as non-cited violations (NCVs) consistent with Section 2.3.2.a of the Enforcement Policy.,7,1051,1177,ML17179A282.txt,U
+"If you contest the violations or significance of these NCVs, you should provide a response within 30 days of the date of this inspection report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission, ATTN: Document Control Desk, Washington, DC 20555-0001; with copies to the Regional Administrator, Region IV; the Director, Office of Enforcement; and the NRC resident inspector at the Cooper Nuclear Station.",7,1177,1605,ML17179A282.txt,U
+"If you disagree with a cross-cutting aspect assignment in this report, you should provide a response within 30 days of the date of this inspection report, with the basis for your disagreement, to the U.S. Nuclear Regulatory Commission, ATTN: Document Control Desk, Washington, DC 20555-0001; with copies to the Regional Administrator, Region IV; and the NRC resident inspector at the Cooper Nuclear Station.",7,1605,2012,ML17179A282.txt,U
+K. Higginbotham,9,0,16,ML17179A282.txt,U
+2,11,0,1,ML17179A282.txt,U
+"This letter, its enclosure, and your response (if any) will be made available for public inspection and copying at http://www.nrc.gov/reading-rm/adams.html and at the NRC Public Document Room in accordance with 10 CFR 2.390, ""Public Inspections, Exemptions, Requests for Withholding.""",13,0,284,ML17179A282.txt,U
+"Sincerely, /RA/ Jason Kozal, Branch Chief Project Branch C Division of Reactor Projects Docket No.",13,284,382,ML17179A282.txt,U
+50-298 License No.,13,382,400,ML17179A282.txt,U
+DPR-46 Enclosure: Inspection Report 05000298/2017009 w/ Attachments: 1.,13,400,471,ML17179A282.txt,U
+Supplemental Information 2.,13,471,498,ML17179A282.txt,U
+Detailed Risk Evaluation 3.,13,498,525,ML17179A282.txt,U
+"Special Inspection Charter dated March 1, 2017 (ADAMS ML17060A687)",13,525,591,ML17179A282.txt,U
+K. Higginbotham,15,0,16,ML17179A282.txt,U
+3,17,0,1,ML17179A282.txt,U
+"COOPER NUCLEAR STATION Â­ NRC SPECIAL INSPECTION REPORT 05000298/2017009 Â­ DATED JUNE 27, 2017 DISTRIBUTION: KKennedy, RA SMorris, DRA TPruett, DRP AVegel, DRS JClark, DRS RLantz, DRP JBowen, RIV/OEDO KFuller, RC VDricks, ORA JWeil, OCA TWengert, NRR AMoreno, RIV/CAO BMaier, RSLO THipschman, IPAT EUribe, IPAT MHerrera, DRMA RIV ACES JKozal, DRP CYoung, DRP MStafford, DRP PVoss, DRP CHenderson, DRP AElam, DRP",19,0,410,ML17179A282.txt,U
+ADAMS ACCESSION NUMBER:  SUNSI Review ADAMS: By: MStafford/dll  Yes  No OFFICE RI:DRP/B TL:SIT NAME NHernandez RSmith /RA/ /RA/ SIGNATURE DATE 05/23/17 05/23/17,21,0,160,ML17179A282.txt,U
+ML17179A282,23,0,11,ML17179A282.txt,U
+Non-Publicly Available  Publicly Available BC:DRP/C JKozal /RA/ 6/27/17 OFFICIAL RECORD COPY  Non-Sensitive  Sensitive,24,0,119,ML17179A282.txt,U
+"U.S. NUCLEAR REGULATORY COMMISSION REGION IV Docket: License: Report: Licensee: Facility: Location: Dates: Team Leader: 05000298 DPR-46 05000298/2017009 Nebraska Public Power District Cooper Nuclear Station 72676 648A Ave Brownville, NE March 13 through May 17, 2017 Richard Smith Nuclear System Engineer Response Coordination Branch Nicholas Hernandez Resident Inspector, South Texas Project Jason Kozal Chief, Project Branch C Division of Reactor Projects",26,0,458,ML17179A282.txt,U
+Inspector: Approved By:,28,0,23,ML17179A282.txt,U
+Enclosure,30,0,9,ML17179A282.txt,U
+"SUMMARY IR 05000298/2017009; 03/13/2017 - 05/17/2017, Cooper Nuclear Station; Followup of Events and Notices of Enforcement Discretion.",32,0,136,ML17179A282.txt,U
+"The inspection activities described in this report were performed between March 13 and May 17, 2017, by the resident inspector at South Texas Project and one inspector from the NRC's Region IV office.",32,136,336,ML17179A282.txt,U
+Two findings of very low safety significance (Green) are documented in this report.,32,336,419,ML17179A282.txt,U
+These findings involved violations of NRC requirements.,32,419,474,ML17179A282.txt,U
+"The significance of inspection findings is indicated by their color (i.e., Green, greater than Green, White, Yellow, or Red), which is determined using Inspection Manual Chapter 0609, ""Significance Determination Process,"" dated April 29, 2015.",32,474,717,ML17179A282.txt,U
+"Their cross-cutting aspects are determined using Inspection Manual Chapter 0310, ""Aspects within the Cross-Cutting Areas,"" dated December 4, 2014.",32,717,863,ML17179A282.txt,U
+Violations of NRC requirements are dispositioned in accordance with the NRC Enforcement Policy.,32,863,958,ML17179A282.txt,U
+"The NRC's program for overseeing the safe operation of commercial nuclear power reactors is described in NUREG-1649, ""Reactor Oversight Process,"" dated July 2016.",32,958,1120,ML17179A282.txt,U
+Cornerstone: Mitigating Systems Â· Green.,32,1120,1160,ML17179A282.txt,U
+"The team reviewed a self-revealed, non-cited violation of Technical Specification 3.5.1, ""Emergency Core Cooling Systems Â­ Operating,"" for the licensee's failure to restore the Division I residual heat removal system (RHR) during clearance restoration, which resulted in exceeding the applicable technical specification action completion time.",32,1160,1503,ML17179A282.txt,U
+"Specifically, from October 7, 2016, to February 5, 2017, the licensee failed to restore Division I RHR minimum flow isolation valves for RHR pumps A and C to the open position prior to reinstalling the valve sealing devices following maintenance performed during Refueling Outage 29.",32,1503,1786,ML17179A282.txt,U
+The licensee's immediate corrective action was to restore the Division I RHR subsystem to operable status by sealing open the minimum flow isolation valves for RHR pumps A and C. The licensee entered this issue into their corrective action program as Condition Report CR-CNS-2017-00553.,32,1786,2072,ML17179A282.txt,U
+"The licensee's failure to properly restore the Division I RHR system during clearance restoration resulted in exceeding the applicable technical specification action completion time, in violation of Technical Specification 3.5.1, which was a performance deficiency.",32,2072,2337,ML17179A282.txt,"P, T"
+"The performance deficiency was more than minor, and therefore a finding, because it was associated with the human performance attribute of the Mitigating Systems Cornerstone and affected the cornerstone objective to ensure the availability, reliability, and capability of systems that respond to initiating events to prevent undesirable consequences.",32,2337,2687,ML17179A282.txt,H
+"Specifically, the failure to follow technical specification requirements to ensure the availability, reliability, and capability of the Division I RHR subsystem directly affected the cornerstone objective.",32,2687,2892,ML17179A282.txt,P
+"Using Inspection Manual Chapter 0609, Appendix A, ""The Significance Determination Process (SDP) for Findings At-Power,"" dated June 19, 2012, the inspectors determined that the finding required a detailed risk evaluation because it involved an actual loss of function of at least a single train for greater than its technical specification allowed outage time.",32,2892,3251,ML17179A282.txt,U
+"A detailed risk evaluation (Attachment 2) calculated an increase in core damage frequency of 4.7E-7 for the 89 days, 12 hours, and 49 minutes exposure period.",32,3251,3409,ML17179A282.txt,U
+"Therefore, this violation was of very low safety significance (Green).",32,3409,3479,ML17179A282.txt,U
+"The team determined the finding had a crosscutting aspect within the human performance area, challenge the unknown, because individuals failed to perform adequate job-site reviews to identify and resolve unexpected conditions.",32,3479,3705,ML17179A282.txt,"H, T"
+"Specifically, operations personnel restoring the Division I RHR subsystem did",32,3705,3782,ML17179A282.txt,"H, T"
+2,34,0,1,ML17179A282.txt,U
+not ensure that the minimum flow isolation valves were repositioned to the correct position of sealed open [H.11].,36,0,115,ML17179A282.txt,"T, P"
+(Section 4OA3) Â· Green.,36,115,138,ML17179A282.txt,U
+"The team reviewed a self-revealed, non-cited violation of Technical Specification 5.4.1.a, ""Procedures,"" for the licensee's failure to maintain Station Procedure 2.0.2, ""Conduct of Operations Procedure, Operator Logs and Reports,"" Revision 106, for conducting sealed valve audits.",36,138,418,ML17179A282.txt,U
+"Specifically, this procedure only checked that the seals were installed, and did not check that the valves were in the correct position.",36,418,554,ML17179A282.txt,P
+This resulted in an extended period of time that the Division I residual heat removal (RHR) system was unknowingly inoperable.,36,554,680,ML17179A282.txt,U
+The licensee's immediate corrective action was to revise Station Procedure 2.0.2 to include directions to check the position of sealed valves in addition to checking that the valve sealing devices were installed.,36,680,892,ML17179A282.txt,P
+The licensee entered this issue into their corrective action program as Condition Report CR-CNS-2017-00553.,36,892,999,ML17179A282.txt,U
+"Failure to maintain Station Procedure 2.0.2 for conducting sealed valve audits, in violation of Technical Specification 5.4.1.a, was a performance deficiency.",36,999,1157,ML17179A282.txt,P
+"This performance deficiency is more than minor, and therefore a finding, because it affected the configuration control attribute of the Mitigating Systems Cornerstone and adversely impacted the cornerstone objective to ensure the availability, reliability, and capability of systems that respond to initiating events to prevent undesirable consequences.",36,1157,1510,ML17179A282.txt,U
+"Specifically, the failure to correctly identify and correct out of position Division I RHR minimum flow isolation valves resulted in unnecessarily and unknowingly extending the inoperability time of the Division I RHR subsystem by 39-45 days.",36,1510,1752,ML17179A282.txt,T
+"Using Inspection Manual Chapter 0609, Attachment 04, ""Initial Characterization of Findings,"" and Inspection Manual Chapter 0609, Appendix A, ""The Significance Determination Process for Findings At-Power,"" the inspectors determined that the violation required a detailed risk evaluation because the finding represented a loss of safety function for greater than its technical specification allowed outage time.",36,1752,2161,ML17179A282.txt,U
+A senior reactor analyst performed the risk evaluation and determined that the violation was of very low safety significance (Green).,36,2161,2294,ML17179A282.txt,U
+"The team determined the finding had a cross-cutting aspect within the human performance area, resources, because leaders did not ensure that personnel, equipment, procedures, and other resources were available and adequate to support nuclear safety.",36,2294,2543,ML17179A282.txt,O
+"Specifically, the licensee had approved Station Procedure 2.0.2, ""Conduct of Operations Procedure, Operator Logs and Reports,"" Revision 106, for conducting sealed valve audits without including the fundamental direction to ensure that the sealed valves were in the correct position [H.1].",36,2543,2831,ML17179A282.txt,P
+(Section 4O3A),36,2831,2845,ML17179A282.txt,U
+3,38,0,1,ML17179A282.txt,U
+REPORT DETAILS 4.,40,0,18,ML17179A282.txt,U
+OTHER ACTIVITIES,40,18,34,ML17179A282.txt,U
+"4OA3 Followup of Events and Notices of Enforcement Discretion (71153) Review of Events Surrounding the Isolation of RHR, Division I, Minimum Flow Piping at Cooper Nuclear Station On October 7, 2016, when lifting a clearance order during an outage, operations personnel failed to reposition the Division I residual heat removal (RHR) minimum flow isolation valves (RHR-V-58 and RHR-V-60) for RHR pumps A and C to the open position prior to reinstalling the valve sealing devices.",42,0,478,ML17179A282.txt,U
+"As a result, these minimum flow paths remained isolated until this condition was discovered on February 5, 2017.",42,478,590,ML17179A282.txt,U
+"From November 23 to November 29, 2016, operations personnel conducted a sealed valve audit, which failed to identify that these valves were in the incorrect position.",42,590,756,ML17179A282.txt,T
+"During a subsequent sealed valve audit, conducted on February 5, 2017, operations personnel identified that these valves were in the incorrect position.",42,756,908,ML17179A282.txt,U
+The affected RHR pumps were operated approximately 10 times during the 4-month time period with the minimum flow paths isolated.,42,908,1036,ML17179A282.txt,U
+"Management Directive (MD) 8.3, ""NRC Incident Investigation Program,"" was used to evaluate the level of NRC response for this event.",42,1036,1167,ML17179A282.txt,U
+"In evaluating the criteria of MD 8.3, it was determined that the event met two of the deterministic criteria.",42,1167,1276,ML17179A282.txt,U
+This event potentially led to the loss of a safety function used to mitigate an actual event.,42,1276,1369,ML17179A282.txt,U
+"Specifically, it was determined that the Division II RHR was out of service for a total of approximately 71.5 hours during the time period that Division I RHR minimum flow paths were isolated.",42,1369,1561,ML17179A282.txt,U
+The condition of having the minimum flow isolation valves closed may have rendered one or more of the RHR system safety functions inoperable for Division I RHR when Division II RHR was unavailable.,42,1561,1758,ML17179A282.txt,U
+"Additionally, this event involved questions or concerns pertaining to licensee operational performance.",42,1758,1861,ML17179A282.txt,U
+"Specifically, this event raised questions regarding how operations personnel completed the system alignment and how they failed to identify the improperly positioned valves during a subsequent sealed valve audit.",42,1861,2073,ML17179A282.txt,T
+The preliminary estimated conditional core damage probability was determined to be 3.5 x 10-6.,42,2073,2167,ML17179A282.txt,U
+"Based on the deterministic criteria and risk insights related to the inadvertent isolation of the Division I RHR minimum flow paths, Region IV management determined that the appropriate level of NRC response was to conduct a special inspection.",42,2167,2411,ML17179A282.txt,U
+This special inspection was chartered to identify the circumstances surrounding this event and assess the adequacy of the licensee's actions to address the causes of the event.,42,2411,2587,ML17179A282.txt,U
+a.,42,2587,2589,ML17179A282.txt,U
+Inspection Scope The special inspection team performed data gathering and fact-finding to address the following items from the inspection charter (Attachment 3):,42,2589,2750,ML17179A282.txt,U
+4,44,0,1,ML17179A282.txt,U
+1,46,0,3,ML17179A282.txt,U
+Provide a recommendation to Region IV management as to whether the inspection should be upgraded to an augmented inspection team response.,46,3,141,ML17179A282.txt,U
+This recommendation should be provided by the end of the first day on site.,46,141,216,ML17179A282.txt,U
+An augmented inspection team was not warranted.,46,216,263,ML17179A282.txt,U
+The scope of expertise utilized in the special inspection was adequate to review this event.,46,263,355,ML17179A282.txt,U
+2,46,355,357,ML17179A282.txt,U
+"Develop a complete sequence of events related to the isolation of the Division I RHR minimum flow paths that was discovered on February 5, 2017.",46,357,501,ML17179A282.txt,U
+"The chronology should include plant mode changes; status of emergency core cooling systems (ECCS), as well as RHR shutdown cooling, RHR suppression pool cooling, and RHR containment spray systems; and operation of the affected Division I RHR pumps during the time period that the minimum flow isolation valve misalignment existed.",46,501,831,ML17179A282.txt,U
+The following is a chronology of events just prior to the incorrect positioning of the Division I RHR minimum flow manual isolation valves and correction of the errors by the licensee.,46,831,1015,ML17179A282.txt,U
+The technical specification aspects of this event will be covered in Item 7 below.,46,1015,1097,ML17179A282.txt,U
+"September 28, 2016, 6:20 p.m. Â­ Reactor vessel level was greater than 21 feet above vessel flange and fuel pool gates are removed.",46,1097,1227,ML17179A282.txt,U
+"Technical Specification (TS) 3.5.2, ""ECCS Â­ Shutdown,"" is not applicable while in Mode 5 (refueling) with these conditions; therefore, no low pressure emergency core cooling systems are required to be operable (the plant was in this condition from September 28, 2016, at 6:20 p.m. until October 20, 2016, at 7:13 a.m.).",46,1227,1546,ML17179A282.txt,U
+"September 29, 2016, at approximately 5:38 p.m. Â­ The Division I RHR subsystem was placed out of service to perform planned maintenance.",46,1546,1681,ML17179A282.txt,U
+This required that RHR minimum flow isolation valves RHR-58 and RHR-60 be danger tagged in the closed position.,46,1681,1792,ML17179A282.txt,U
+"September 30, 2016, 2:20 p.m. Â­ All four fuel pool cooling (FPC) pumps were in service with three heat exchangers, and the alternate decay heat removal (ADHR) system is in service (the ADHR system adds FPC C and D pumps and an additional heat exchanger).",46,1792,2046,ML17179A282.txt,U
+"October 7, 2016, 3:06 p.m. Â­ Reactor vessel was defueled (reactor is in a ""nomode"" condition).",46,2046,2140,ML17179A282.txt,U
+All reactor fuel was in the spent fuel pool.,46,2140,2184,ML17179A282.txt,U
+"October 7, 2016 Â­ The Division I RHR minimum flow isolation valves (RHR-58 and RHR-60) were authorized to have danger tags removed and sealed open.",46,2184,2331,ML17179A282.txt,U
+Danger tags were removed but valves were not opened but seals were installed on the valves.,46,2331,2422,ML17179A282.txt,U
+"Additionally, RHR maintenance work was still ongoing, therefore Division I RHR limiting condition for operation (LCO) was not exited until October 20, 2016.",46,2422,2578,ML17179A282.txt,U
+"October 17, 2016 Â­ RHR pumps A and C were started for Surveillance Procedure 6.1.RHR.101, ""RHR Test Mode Surveillance Operation,"" Revision 35.",46,2578,2720,ML17179A282.txt,U
+This surveillance was performed to support restoring the Division I RHR subsystem to an operable condition.,46,2720,2827,ML17179A282.txt,U
+The duration that each pump was run at less,46,2827,2870,ML17179A282.txt,U
+5,48,0,1,ML17179A282.txt,U
+"than the minimum flow, which is the smallest amount of flow required for pump protection (2731 gallons per minute (gpm)), was:   RHR pump A: 1 minute 50 seconds RHR pump C: 2 minutes 18 seconds.",50,0,195,ML17179A282.txt,U
+"October 18, 2016 Â­ RHR pump A was started during Surveillance Procedure 6.1DG.302, ""Undervoltage Logic Functional, Load Shedding, and Sequential Loading Test,"" Revision 86.",52,0,172,ML17179A282.txt,U
+RHR pump A ran at less than the minimum required flow for 53 seconds.,52,172,241,ML17179A282.txt,U
+"October 19, 2016, 2:35 p.m. Â­ The licensee entered Mode 5, Refueling Mode, and commenced fuel loading to the reactor vessel.",52,241,365,ML17179A282.txt,U
+"October 20, 2016, 3:19 a.m. Â­ The licensee declared Division I RHR operable for all modes.",52,365,455,ML17179A282.txt,U
+At that time the system was in the low pressure coolant injection (LPCI) lineup.,52,455,535,ML17179A282.txt,U
+"Due to the minimum flow valves remaining closed, which prevents a minimum flow path from being available, Division I RHR was actually inoperable.",52,535,680,ML17179A282.txt,U
+TS 3.5.2 was not applicable when in Mode 5 with cavity water level greater than 21 feet above the vessel flange and fuel pool gates removed.,52,680,820,ML17179A282.txt,U
+TS 3.9.7 is met due to the ADHR system being in operation.,52,820,878,ML17179A282.txt,U
+"October 20, 2016 Â­ RHR pump C was started during Surveillance Procedure 6.2DG.302.",52,878,960,ML17179A282.txt,U
+RHR pump C ran at less than minimum flow for 13 seconds.,52,960,1016,ML17179A282.txt,U
+"October 21, 2016, 1:14 a.m. Â­ The licensee declared Division II RHR inoperable for planned maintenance (core spray (CS) A, CS B operable).",52,1016,1154,ML17179A282.txt,U
+TS 3.5.2 was not applicable when in Mode 5 with cavity water level greater than 21 feet above the vessel flange and fuel pool gates removed.,52,1154,1294,ML17179A282.txt,U
+TS 3.9.7 was met due to the ADHR system being in operation.,52,1294,1353,ML17179A282.txt,U
+"October 21, 2016 Â­ RHR pumps A and C were started for Surveillance Procedure 6.RHR.308, ""RHR Pump and Valve Control Logic Reactor Vessel Pressure Less Than or Equal to 72 psig Functional Test,"" Revision 15.",52,1353,1559,ML17179A282.txt,U
+The duration of each pump run at less than the minimum flow was:   RHR pump A: 1 minute 52 seconds RHR pump C: 54 seconds.,52,1559,1681,ML17179A282.txt,U
+"October 27, 2016 Â­ RHR pumps A and C were started for Surveillance Procedure 6.RHR.301, ""RHR Initiation and Containment Spray Logic System Functional Test.""",54,0,156,ML17179A282.txt,U
+The duration of each pump run at less than the minimum flow was:   RHR pump A: 31 seconds RHR pump C: 34 seconds,54,156,268,ML17179A282.txt,U
+"October 28, 2016, 2:58 a.m. Â­ Licensee operations personnel aligned Division I RHR for shutdown cooling (SDC):",56,0,110,ML17179A282.txt,U
+6,58,0,1,ML17179A282.txt,U
+Â·,60,0,2,ML17179A282.txt,U
+"Minimum flow valve RHR-MO-16A (Division I minimum flow motor operated isolation valve) was danger tagged closed and deactivated from October 28, 2016, until November 6, 2016, with exception of one period from November 1, 2016, at 5:30 p.m. until November 2, 2016, at 11:44 p.m.",62,0,277,ML17179A282.txt,U
+This was to support a reactor vessel pressure test.,62,277,328,ML17179A282.txt,U
+The valve is closed and deactivated per station procedures to prevent a drain down event from the reactor vessel to the suppression pool.,62,328,465,ML17179A282.txt,U
+TS 3.5.2 was not applicable when in Mode 5 with reactor cavity water level greater than 21 feet above the vessel flange and fuel pool gates removed.,62,465,613,ML17179A282.txt,U
+"Per the TS Bases for TS 3.5.2, LPCI subsystem may be considered operable during alignment and operation for decay heat removal (i.e.",62,613,745,ML17179A282.txt,U
+"SDC), if capable of being manually realigned.",62,745,790,ML17179A282.txt,U
+Alignment and operation for decay heat removal includes when the required RHR pump is not operating or when the system is realigned from or to the RHR SDC mode.,62,790,950,ML17179A282.txt,U
+"If Division I RHR is required for LPCI mode, station procedures allow operations personnel to realign the subsystem from SDC mode to LPCI mode without opening or removing the danger tag from the RHR-MO-16A (Division I minimum flow motor operated isolation valve).",62,950,1213,ML17179A282.txt,U
+TS 3.9.7 was met due to the ADHR system in service.,62,1213,1264,ML17179A282.txt,U
+Â· Â·,64,0,3,ML17179A282.txt,U
+Â·,66,0,1,ML17179A282.txt,U
+"October 28, 2016, 8:51 a.m. Â­ Started Division I RHR in SDC mode.",68,0,65,ML17179A282.txt,U
+"October 28, 2016, 9:24 a.m. Â­ Secured Division I RHR from SDC.",68,65,127,ML17179A282.txt,U
+"October 29, 2016, 2:25 p.m. Â­ Started Division I RHR in SDC mode.",68,127,192,ML17179A282.txt,U
+"October 29, 2016, 9:40 p.m. Â­ Secured fuel pool cooling (FPC) pump C (one of two ADHR pumps).",68,192,285,ML17179A282.txt,U
+"October 29, 2016, 11:05 p.m. Â­ Secured FPC pump D (second ADHR pump secured, ADHR no longer in service).",68,285,389,ML17179A282.txt,U
+Normal FPC system remained in service.,68,389,427,ML17179A282.txt,U
+"October 30, 2016, 7:13 a.m. Â­ The licensee installed the fuel pool gates.",68,427,500,ML17179A282.txt,U
+"The status of ECCS pumps was as follows: the CS A subsystem was operable, Division I RHR subsystem was operable for the SDC mode of operation, and manual realignment to the LPCI mode was available per station procedures and TS bases for TS 3.5.2.",68,500,746,ML17179A282.txt,U
+TS 3.9.7 was met with Division I RHR in SDC operation.,68,746,800,ML17179A282.txt,U
+"October 30, 2016, 4:15 p.m. Â­ The licensee secured RHR pump A from SDC mode of operation.",68,800,889,ML17179A282.txt,U
+"October 30, 2016, 4:23 p.m. Â­ Operations personnel commenced reactor cavity drain down.",68,889,976,ML17179A282.txt,U
+"When reactor cavity level was below 21 ft above the reactor vessel flange, TS 3.9.8, ""RHR Â­ Low Water Level,"" was applicable and met due to having two operable RHR pumps in Division I for SDC and meeting the required actions for TS 3.9.8 Condition C by having a reactor recirculation water pump in operation and monitoring coolant temperature every hour.",68,976,1330,ML17179A282.txt,U
+7,70,0,1,ML17179A282.txt,U
+"October 30, 2016, 9:10 p.m. Â­ Reactor pressure vessel (RPV) level was lowered by operations personnel to at the flange of the vessel.",72,0,134,ML17179A282.txt,U
+"October 30, 2016, 9:40 p.m. Â­ The licensee started Division I RHR in SDC mode.",72,134,212,ML17179A282.txt,U
+"October 31, 2016, 6:30 a.m. Â­ RPV head was set in place.",72,212,268,ML17179A282.txt,U
+"The vessel head was installed, not tightened, with a breathable foreign material exclusion (FME) barrier on the head vent flange.",72,268,397,ML17179A282.txt,U
+"October 31, 2016, 10:23 p.m. Â­ The licensee declared Division II RHR operable.",72,397,475,ML17179A282.txt,U
+The current status of ECCS systems is as follows: CS A and Division II RHR are operable.,72,475,563,ML17179A282.txt,U
+"The Division I RHR minimum flow valves continue to be closed for SDC operations, and the Division I RHR subsystem remains available for LPCI mode with a manual realignment from SDC mode.",72,563,749,ML17179A282.txt,U
+TS 3.9.8 is met due to having two operable RHR pumps in Loop A and B for SDC.,72,749,826,ML17179A282.txt,U
+"November 1, 2016, 4:46 a.m. Â­ The RPV head is tensioned and the licensee entered Mode 4, Cold Shutdown.",72,826,929,ML17179A282.txt,U
+"TS 3.5.2 is now met with the following two operable low pressure ECCS subsystems available: Division II RHR and CS A. November 1, 2016, 11:36 a.m. Â­ The RPV head vent piping is installed piping installed with the RPV head vent valves open prior to installation, per procedure.",72,929,1205,ML17179A282.txt,U
+The RPV head vent path maintained during entire evolution.,72,1205,1263,ML17179A282.txt,U
+"November 1, 2016, 5:12 p.m. Â­ The licensee secured Division I RHR from the SDC mode of operation.",72,1263,1360,ML17179A282.txt,U
+"November 1, 2016, 5:30 p.m. Â­ The clearance on the RHR motor operated minimum flow valve, RHR-MO-16A, is temporarily removed to place RHR in the LPCI lineup for RPV pressure test.",72,1360,1539,ML17179A282.txt,U
+TS 3.5.2 is met with the following two operable low pressure ECCS subsystems available: CS A and Division II RHR subsystems.,72,1539,1663,ML17179A282.txt,U
+"November 1, 2016, 10:41 p.m. Â­ RPV head vent valves are closed for the RPV pressure test.",72,1663,1752,ML17179A282.txt,U
+"November 2, 2016, 11:44 p.m. Â­ The motor operated minimum flow valve, RHR-MO-16A, is closed and deactivated to return Division I RHR to a SDC lineup.",72,1752,1901,ML17179A282.txt,U
+TS 3.5.2 is met with CS A and Division II RHR subsystems operable.,72,1901,1967,ML17179A282.txt,U
+Division I RHR is available for manual realignment to LPCI mode.,72,1967,2031,ML17179A282.txt,U
+"November 3, 2016, 3:15 a.m. Â­ The licensee started Division I RHR in the SDC mode of operation.",72,2031,2126,ML17179A282.txt,U
+"November 3, 2016, 6:20 a.m. Â­ Reactor coolant temperature is less than 212 degrees Fahrenheit and RPV head vents are opened, restoring the plant to Mode 4 from the RPV pressure test.",72,2126,2308,ML17179A282.txt,U
+"November 3, 2016, 9:40 p.m. Â­ Operations staff declared CS B subsystem operable.",72,2308,2388,ML17179A282.txt,U
+"TS 3.5.2 is met with CS A, CS B, and RHR Loop B operable.",72,2388,2445,ML17179A282.txt,U
+Division I RHR is available for manual realignment to LPCI mode.,72,2445,2509,ML17179A282.txt,U
+8,74,0,1,ML17179A282.txt,U
+"November 5, 2016, 3:24 p.m. Â­ The licensee secured Division I RHR from SDC.",76,0,76,ML17179A282.txt,U
+"November 5, 2016, 5:22 p.m. Â­ The licensee started Division I RHR in SDC mode.",76,76,154,ML17179A282.txt,U
+"November 5, 2016, 9:53 p.m. Â­ Operations staff declared the service water system and RHR service water B operable in order to support RHR TS requirements for Modes 1, 2, 3.",76,154,326,ML17179A282.txt,U
+"November 6, 2016, 4:56 p.m. Â­ The licensee secured Division I RHR from SDC for reactor startup.",76,326,421,ML17179A282.txt,U
+"Division I RHR is now inoperable due to the closed minimum flow valves, RHR-58 and RHR-60, for TS 3.5.1, ""ECCS Â­ Operating"".",76,421,545,ML17179A282.txt,U
+"This condition will last until February 5, 2017, at 8:02 a.m. November 6, 2016, 7:13 p.m. Â­ Licensee enters Mode 2, Reactor Startup.",76,545,677,ML17179A282.txt,U
+"November 7, 2016 Â­ RHR pump A was started in suppression pool cooling (SPC) mode for 150 psig startup testing of high pressure coolant injection (HPCI) and reactor core isolation cooling (RCIC) systems.",76,677,879,ML17179A282.txt,U
+The duration that the pump ran at less than the minimum flow was 1 minute and 58 seconds.,76,879,968,ML17179A282.txt,U
+"November 8, 2016 Â­ RHR pump A was started in SPC mode for 1000 psig startup testing of the RCIC system.",76,968,1071,ML17179A282.txt,U
+The duration that the pump ran at less than the minimum flow was 1 minute and 4 seconds.,76,1071,1159,ML17179A282.txt,U
+"November 8, 2016 Â­ RHR pump A was started in SPC mode for 1000 psig startup testing of the HPCI system, the automatic depressurization system (ADS), and the RCIC system.",76,1159,1328,ML17179A282.txt,U
+The duration that the pump ran at less than the minimum flow was 1 minute and 7 seconds.,76,1328,1416,ML17179A282.txt,U
+"November 26, 2016 Â­ RHR pump A was started in SPC mode for torus water transfer.",76,1416,1496,ML17179A282.txt,U
+The duration that the pump ran at less than the minimum flow was 1 minute and 6 seconds.,76,1496,1584,ML17179A282.txt,U
+"December 1, 2016 Â­ RHR pumps A and C were started for Surveillance Procedure 6.1.RHR.101, ""RHR Test Mode Surveillance Operation,"" Revision 35.",76,1584,1726,ML17179A282.txt,U
+The duration that each pump ran at less than the minimum flow was: Â· Â· RHR pump A: 1 minute 36 seconds RHR pump C: 1 minute 38 seconds.,76,1726,1861,ML17179A282.txt,U
+"December 10, 2016 Â­ RHR pump A was started in SPC mode for torus water transfer.",78,0,80,ML17179A282.txt,U
+The duration that the pump ran at less than the minimum flow was 1 minute and 36 seconds.,78,80,169,ML17179A282.txt,U
+"December 24, 2016 Â­ RHR pump A was started in SPC mode for torus water transfer.",78,169,249,ML17179A282.txt,U
+The duration that the pump ran at less than the minimum flow was 1 minute and 24 seconds.,78,249,338,ML17179A282.txt,U
+"January 7, 2017 Â­ RHR pump A was started in SPC mode for torus water transfer.",78,338,416,ML17179A282.txt,U
+The duration that the pump ran at less than the minimum flow was 54 seconds.,78,416,492,ML17179A282.txt,U
+9,80,0,1,ML17179A282.txt,U
+"February 5, 2017, 8:02 a.m. Â­ RHR-V-58 and RHR-V-60 minimum flow manual isolation valves for the Division I RHR pumps were opened after being discovered in the closed positions.",82,0,178,ML17179A282.txt,U
+"TS 3.5.1, ""ECCS Â­ Operating,"" is met for the required low pressure ECCS subsystems being operable.",82,178,276,ML17179A282.txt,U
+3. Review the licensee's root cause analysis and extent of condition review efforts and determine if the evaluation is being conducted at a level of detail commensurate with the significance of the problem.,82,276,482,ML17179A282.txt,U
+"The Division I RHR system minimum flow valve misalignment issue was entered into the licensee's corrective action program as Condition Report CR-CNS-2017-00553, which was characterized as a Category A condition report.",82,482,700,ML17179A282.txt,U
+"This characterization requires a root cause evaluation (RCE), which the licensee had not completed by the end of the onsite week of the special inspection.",82,700,855,ML17179A282.txt,U
+"The team noted that the licensee correctly concluded that the Division I RHR unavailability event discussed in Condition Report CR-CNS-2017-00553 resulted in an unrecognized entry into TS Sections: 3.5.1, ""ECCS Â­ Operating,"" Condition A, ""Restore low pressure ECCS injection/spray subsystem(s) to operable status within seven days;"" 3.6.1.9, ""Residual Heat Removal (RHR) Containment Spray,"" Condition A, ""Restore RHR containment spray subsystem to operable status within seven days;"" and 3.6.2.3, ""Residual Heat Removal (RHR) Suppression Pool Cooling,"" Condition A, ""Restore RHR suppression pool cooling subsystem to operable status within seven days.""",82,855,1507,ML17179A282.txt,U
+The licensee's immediate corrective actions were to open the two minimum flow manual isolation valves to restore the system to an operable condition and exit the above listed TSs.,82,1507,1686,ML17179A282.txt,U
+"The licensee continues to finalize their RCE, but they did perform an extent of condition review for this event.",82,1686,1798,ML17179A282.txt,U
+The extent of condition review actions conducted by the licensee to date are as follows: Â· Â· Â· The minimum flow valves on the opposite loop of RHR were immediately verified open.,82,1798,1976,ML17179A282.txt,U
+All ECCS and RCIC system component lineups were checked.,82,1976,2032,ML17179A282.txt,U
+The licensee did not identify any incorrectly configured components during their review.,82,2032,2120,ML17179A282.txt,U
+The licensee extended a check of all clearance order release activities performed during the refueling outage by the two individuals involved with the activities that resulted in incorrectly configured Division I RHR minimum flow manual isolation valves.,82,2120,2374,ML17179A282.txt,U
+The licensee did not identify any incorrectly configured components during their review.,82,2374,2462,ML17179A282.txt,U
+The licensee conducted a sealed valve log audit.,82,2462,2510,ML17179A282.txt,U
+"The audit scope was expanded to include verifying the position of the sealed valves, in addition to checking the integrity of the seals.",82,2510,2646,ML17179A282.txt,U
+The licensee did not identify any incorrectly configured components during their audit.,82,2646,2733,ML17179A282.txt,U
+"The licensee conducted component lineups of numerous systems at the plant, including safety-related systems such as the emergency diesel generators and nonsafety-related systems such as the circulation water",82,2733,2940,ML17179A282.txt,U
+Â·,84,0,1,ML17179A282.txt,U
+Â·,86,0,1,ML17179A282.txt,U
+10,88,0,2,ML17179A282.txt,U
+system.,90,0,8,ML17179A282.txt,U
+The licensee did not identify any incorrectly configured components during their review.,90,8,96,ML17179A282.txt,U
+The inspectors interviewed the licensee's RCE team and determined that the licensee's preliminary conclusion of the root cause was the station's lack of commitment to a strong configuration control program.,90,96,302,ML17179A282.txt,U
+"The RCE team was still in the process of determining the root cause, contributing causes, and corrective actions to prevent recurrence.",90,302,437,ML17179A282.txt,U
+The team's assessment was that the station's evaluation is being conducted at a level of detail commensurate with the significance of the problem.,90,437,583,ML17179A282.txt,U
+4,90,583,585,ML17179A282.txt,U
+Determine the probable cause(s) for the misalignment of the Division I RHR minimum flow isolation valves.,90,585,690,ML17179A282.txt,U
+"Overall, the licensee's unfinished RCE for the isolation of Division I RHR minimum flow piping concluded that the direct cause of the event was that the first nonlicensed operator performing the clearance restoration on October 7, 2016, failed to open the shut valves (RHR-58 and RHR-60) prior to applying the sealing devices to the valves, and then the independent verifier failed to identify that the valves were sealed shut, vice sealed open.",90,690,1135,ML17179A282.txt,H
+The team also concluded that this was likely the direct cause of the event.,90,1135,1210,ML17179A282.txt,U
+"The licensee has implemented some corrective actions that included a station wide ""Red Memo"" about the event.",90,1210,1319,ML17179A282.txt,U
+"The operations department held an all hands meeting to understand what had happened, to ensure the various roles and responsibilities of operations personnel were understood, to stress the importance of operations personnel to maintain a questioning attitude, to maintain an awareness of equipment status while performing rounds or other activities in the plant, and to challenge each other during day to day activities.",90,1319,1739,ML17179A282.txt,U
+"The licensee had an opportunity to identify this error during a sealed valve audit the week of November 23 - 29, 2016, but failed to identify the valves were out of position.",90,1739,1913,ML17179A282.txt,"T, O"
+"Because of this the licensee revised the sealed valve audit procedure not only to check that the sealing devices are installed, but to check valve positions as well.",90,1913,2078,ML17179A282.txt,P
+"The licensee had not completed the RCE; therefore, no corrective actions that would preclude repetition had been developed at the time of the special inspection.",90,2078,2239,ML17179A282.txt,U
+5. Review the licensee's operability evaluation to determine the current operability status of the affected Division I RHR pumps.,90,2239,2368,ML17179A282.txt,U
+"On October 7, 2016, when lifting a clearance order during an outage, operations personnel failed to reposition the Division I residual heat removal (RHR) minimum flow isolation valves (RHR-V-58 and RHR-V-60) for RHR pumps A and C to the open position prior to reinstalling the valve sealing devices.",90,2368,2667,ML17179A282.txt,U
+"As a result, these minimum flow paths remained isolated until this condition was discovered on February 5, 2017. Cooper Nuclear Station entered TS 3.5.1, Condition A, required Action A.1: restore LPCI subsystem to operable status within 7 days; TS 3.6.1.9, Condition A, required Action A.1: restore containment spray system to operable status within 7 days; and TS 3.6.2.3, Condition A, required Action A.1: restore SPC subsystem to operable status within 7 days.",90,2667,3130,ML17179A282.txt,U
+"The licensee reopened the minimum flow manual isolation valves, made an immediate operability determination that a reasonable assurance of operability existed, and exited the TS actions listed above.",90,3130,3329,ML17179A282.txt,U
+This immediate operability call was based on a review of performance data obtained during quarterly,90,3329,3428,ML17179A282.txt,U
+11,92,0,2,ML17179A282.txt,U
+surveillance testing done from March 2016 through December 2016.,94,0,65,ML17179A282.txt,U
+"The licensee requested engineering personnel to perform a more detailed review, and additionally, on February 6, 2017, the licensee performed Surveillance Procedure 6.1.RHR.101,""RHR Test Mode Surveillance Operation (IST) (DIV I),"" Revision 35, a 2-year inservice test (IST) for the Division I RHR system.",94,65,369,ML17179A282.txt,U
+"The licensee determined that the pumps had been operated 15 times during the time period that the minimum flow valves were isolated, and the longest time any pump was continuously operated in this condition was 2 minutes and 18 seconds.",94,369,605,ML17179A282.txt,U
+"They also performed a detailed analysis of the 2-year comprehensive surveillance data, comparing test results from October 2007 through February 6, 2017.",94,605,758,ML17179A282.txt,U
+The licensee's evaluation of operability concluded that no degradation had occurred to the Division I RHR pumps.,94,758,870,ML17179A282.txt,U
+This conclusion was based on the following: Â· The minimal amount of time the pumps were operated with flow less than the prescribed minimum flow of 2731 gpm was a total operating time of 21 minutes and 28 seconds.,94,870,1083,ML17179A282.txt,U
+The licensee's review of vendor's guidance and operating experience considering the applicable thermal and hydraulic mechanisms.,94,1083,1211,ML17179A282.txt,U
+"The fact that the operational characteristics of pump differential pressure and vibrations for the RHR pumps had not changed, indicating degradation had not occurred.",94,1211,1377,ML17179A282.txt,U
+All surveillance parameters reviewed were within specification limits.,94,1377,1447,ML17179A282.txt,U
+Â· Â·,96,0,3,ML17179A282.txt,U
+"The team reviewed the operability determination evaluation and interviewed the site resident inspectors who monitored the February 6, 2017, test.",98,0,145,ML17179A282.txt,U
+"Through a review of the data and the information provided by the site residents, the team determined that the licensee's conclusion that the Division I RHR pumps were operable was reasonable.",98,145,336,ML17179A282.txt,U
+6. Review the licensee's operability evaluation to determine whether the condition of having the Division I RHR minimum flow paths isolated rendered any of the safety functions (e.g.,98,336,518,ML17179A282.txt,U
+"low pressure coolant injection (LPCI), RHR containment spray, RHR suppression pool cooling) associated with Division I RHR inoperable, and whether a loss of safety function occurred due to concurrent unavailability of Division II RHR.",98,518,752,ML17179A282.txt,U
+"The team reviewed the licensee's operability evaluation and determined that when the Division I RHR minimum flow paths were discovered isolated, the licensee correctly entered TS 3.5.1, Condition A, required Action A.1: restore low pressure coolant injection subsystem to operable status within 7 days; TS 3.6.1.9, Condition A, required Action A.1: restore containment spray system to operable status within 7 days; and TS 3.6.2.3, Condition A, required Action A.1: restore SPC subsystem to operable status within 7 days.",98,752,1273,ML17179A282.txt,U
+"Therefore, the licensee had declared those safety functions associated with the Division I RHR subsystem to be inoperable at the time of discovery of the system configuration problem.",98,1273,1456,ML17179A282.txt,U
+"Additionally, the team reviewed other licensee documents and operating logs pertaining to the event and recognized that the licensee had determined that for",98,1456,1612,ML17179A282.txt,U
+12,100,0,2,ML17179A282.txt,U
+"approximately 90.62 hours during the time period that the Division I RHR minimum flow lines were isolated, both trains of RHR were inoperable for the safety functions of LPCI, containment spray, and SPC.",102,0,204,ML17179A282.txt,U
+"If the licensee had known the actual status of the Division I RHR subsystem alignment during this time, they would not have allowed the Division II RHR subsystem to be made inoperable.",102,204,388,ML17179A282.txt,O
+"However, since the licensee was not aware of the inoperable status of the Division I RHR subsystem, the licensee allowed Division II RHR to be taken to an inoperable status, resulting in total loss of safety functions for the RHR system.",102,388,625,ML17179A282.txt,O
+The team reviewed a licensee preliminary engineering calculation that had determined how long the RHR pumps could run with no minimum flow protection without causing substantial damage to the pumps and rending them inoperable for performing their safety functions.,102,625,889,ML17179A282.txt,U
+The licensee's calculation determined that they could run the Division I RHR pumps for approximately 32 minutes before an inoperable condition would occur due to pump damage.,102,889,1063,ML17179A282.txt,U
+The licensee contracted a consulting firm to perform a more detailed analysis to determine the actual time the pumps could operate in this condition before failure.,102,1063,1227,ML17179A282.txt,U
+The consulting firm's calculation determined that they could run the Division I RHR pumps for approximately 1 hour before an inoperable condition would occur due to pump damage.,102,1227,1404,ML17179A282.txt,U
+The team reviewed this consulting firm's calculation and determined it to be reasonable.,102,1404,1492,ML17179A282.txt,U
+7,102,1492,1494,ML17179A282.txt,U
+"Determine whether any technical specification requirements associated with the RHR system were not met, including TSs 3.5.1, 3.5.2, 3.6.1.9, 3.6.2.3, 3.9.7, and 3.9.8.",102,1494,1661,ML17179A282.txt,U
+"The team developed a chronology of events in Item 2 above, and from that, determined technical specifications implications for TSs 3.5.1, 3.5.2, 3.6.1.9, 3.6.2.3, 3.9.7 and 3.9.8.",102,1661,1840,ML17179A282.txt,U
+"Â· TS 3.5.1, ""ECCS Â­ Operating"": Following entry to Mode 2 on November 6, 2016, at 7:13 p.m. until February 5, 2017, at 8:02 a.m., the Division I RHR subsystem was inoperable and did not meet TS 3.5.1, a total time of 89 days, 12 hours, and 49 minutes.",102,1840,2091,ML17179A282.txt,U
+"TS 3.5.2, ""ECCS Â­ Shutdown"": This TS was met during the time period of interest due to the ability to manually realign the Division I RHR subsystem to the LPCI mode, as allowed by TS 3.5.2 basis, using available station procedures.",102,2091,2322,ML17179A282.txt,U
+"TS 3.6.1.9, ""Residual Heat Removal (RHR) Containment Spray"": Following entry to Mode 2 on November 6, 2016, at 7:13 p.m. until February 5, 2017, at 8:02 a.m., the Division I RHR subsystem was inoperable and did not meet TS 3.6.1.9, a total time of 89 days, 12 hours, and 49 minutes.",102,2322,2604,ML17179A282.txt,U
+"TS 3.6.2.3, ""Residual Heat Removal (RHR) Suppression Pool Cooling"": Following entry to Mode 2 on November 6, 2016, at 7:13 p.m. until February 5, 2017, at 8:02 a.m., the Division I RHR subsystem was inoperable and did not meet TS 3.6.2.3, a total time of 89 days, 12 hours, and 49 minutes.",102,2604,2893,ML17179A282.txt,U
+Â·,104,0,1,ML17179A282.txt,U
+Â·,106,0,1,ML17179A282.txt,U
+Â·,108,0,1,ML17179A282.txt,U
+13,110,0,2,ML17179A282.txt,U
+Â·,112,0,2,ML17179A282.txt,U
+"TS 3.9.7, ""Residual Heat Removal Â­ High Water Level"" and TS 3.9.8, ""Residual Heat Removal Â­ Low Water Level"": These TSs were always met during the entire exposure period.",114,0,170,ML17179A282.txt,U
+"The team considered the periods of inadvertent simultaneous inoperability of both divisions of the RHR system as stated in Item 6 above, other maintenance and testing activities that resulted in the inoperability of core spray pumps A and B, and Division I and Division II emergency diesel generators.",116,0,301,ML17179A282.txt,U
+The team determined that there were times in which the station should have entered LCO 3.0.3.,116,301,394,ML17179A282.txt,U
+This LCO establishes the actions that must be implemented when an LCO is not met and an associated action is not provided for the existing condition.,116,394,543,ML17179A282.txt,U
+"In this case, times where both divisions of the RHR system were inoperable, times where one division of both the RHR and core spray systems were inoperable, and times where one division of the RHR system and an emergency diesel generator being inoperable are conditions not allowed by the associated TS LCOs.",116,543,851,ML17179A282.txt,U
+"The licensee should have entered LCO 3.0.3, which would have required a unit shutdown the same day, if the condition continued to exist for more than 7 consecutive hours.",116,851,1021,ML17179A282.txt,"O, P"
+Conditions such as these existed for a total of 150.85 hours during the time the Division I RHR minimum flow lines were isolated.,116,1021,1150,ML17179A282.txt,U
+"Furthermore, the team reviewed LCO 3.0.4, which states, in part, when an LCO is not met and associated actions to be entered do not permit continued operation in the applicable mode for an unlimited period of time, entry into a mode or other specified condition in the applicability shall only be made ""after the performance of a risk assessment addressing inoperable systems and components, consideration of the results, determination of the acceptability of entering the mode or other specified condition in the applicability, and establishment of risk management actions, if appropriate"".",116,1150,1741,ML17179A282.txt,U
+"The licensee entered Mode 2 on November 6, 2016, when they were unaware of the inoperability of the Division I RHR subsystem.",116,1741,1866,ML17179A282.txt,"O, P"
+They were prohibited by TS 3.0.4 from entering Mode 2 since a risk assessment had not been performed and associated actions of applicable LCOs did not permit continued operation in the mode for an unlimited period of time.,116,1866,2088,ML17179A282.txt,"O, P"
+8,116,2088,2090,ML17179A282.txt,U
+Evaluate the licensee's actions to comply with reporting requirements associated with this event.,116,2090,2187,ML17179A282.txt,U
+"The team reviewed plant conditions from October 7, 2016, to February 5, 2017, the chronology of events from Item 2 above, Condition Report CR-CNS-2017-00553, technical specifications that should have been entered but were not, the reporting requirements of 10 CFR 50.73(a)(2)(i)(B) for conditions prohibited by technical specifications, and 10 CFR 50.73(a)(2)(v)(B) for loss of a safety function.",116,2187,2583,ML17179A282.txt,"O, P"
+"The team concluded that the licensee's planned submittal of a licensee event report no later than April 6, 2017, complies with regulatory requirements.",116,2583,2734,ML17179A282.txt,U
+9,116,2734,2736,ML17179A282.txt,U
+Determine whether there were any deficiencies in operator training that contributed to the RHR minimum flow configuration control problem.,116,2736,2874,ML17179A282.txt,U
+"The team reviewed initial operator training materials and continuing training materials for valve operations and the residual heat removal system, including lesson plans, simulator scenarios, and loop flow trainer scenarios.",116,2874,3098,ML17179A282.txt,U
+"The team also conducted interviews with licensed operators, nonlicensed operators, and instructors.",116,3098,3197,ML17179A282.txt,U
+The team,116,3197,3205,ML17179A282.txt,U
+14,118,0,2,ML17179A282.txt,U
+observed a training session in the site's loop flow trainer.,120,0,61,ML17179A282.txt,U
+The team also observed that the site conducted as-found valve position verification scenarios in the loop flow trainer.,120,61,180,ML17179A282.txt,U
+Inspectors concluded that operator training was adequate and followed a systematic approach to training.,120,180,284,ML17179A282.txt,U
+10,120,284,287,ML17179A282.txt,U
+"Evaluate the licensee's compliance with, and adequacy of, procedural guidance for performing system alignments, and for performing equipment tag-outs, as it pertains to the cause(s) of the event.",120,287,482,ML17179A282.txt,U
+Determine whether the licensee's processes for plant configuration control were appropriate.,120,482,574,ML17179A282.txt,U
+"The team reviewed licensee procedures for system alignments, tag-outs, configuration control, and condition reports written over the previous 2 years addressing issues pertaining to these applicable procedures, and conducted interviews with licensed and nonlicensed operations personnel.",120,574,861,ML17179A282.txt,U
+"The team conducted field observations of the following activities: Â· Â· Â· Â· The Control Room issuing tag-outs The Control Room issuing a switch line-up for maintenance restoration Operations personnel clearing tags on electrical components and valves Operations personnel repositioning valves, using multiple valve position indications to determine initial and final position of the valves, and verifying expected system response",120,861,1289,ML17179A282.txt,U
+The team determined that the licensee is complying with site procedures and has adequate guidance in place with the following exceptions.,122,0,137,ML17179A282.txt,U
+"The team reviewed a self-revealing violation for an inadequate procedure discussed in Section 4OA3 of this report, and two additional minor violations for failure to follow site procedures.",122,137,326,ML17179A282.txt,P
+"While conducting interviews, a nonlicensed operator disclosed that he had discovered two service water valves (SW-V-105 and SW-V-124) not properly sealed in accordance with Procedure 2.0.2, ""Conduct of Operations Procedure, Operator Logs and Reports,"" Revision 110.",122,326,591,ML17179A282.txt,P
+Step 4.2.2 requires that valve seals be installed in such a manner as to prevent valve operation without breaking the seal.,122,591,714,ML17179A282.txt,U
+"Contrary to the above, these two valves had a chain passing through the handwheel, but the lead wire seal was installed such that it did not prevent operation of the valve without breaking the seal (i.e.",122,714,917,ML17179A282.txt,"H, P"
+there was enough slack in the chain to allow operation of the valve).,122,917,986,ML17179A282.txt,"H, P"
+The operator verified that the valves were in the correct positions and corrected the sealing devices.,122,986,1088,ML17179A282.txt,U
+The licensee entered this issue into their corrective action program as Condition Report CR-CNS-2017-01366.,122,1088,1195,ML17179A282.txt,U
+Failure to properly seal the valves constituted a violation of minor significance that is not subject to enforcement action in accordance with Section 2 of the Enforcement Policy.,122,1195,1374,ML17179A282.txt,"H, P"
+This violation was identified by the licensee and is of minor significance because there was no safety impact to the service water system and because no other instances of valve sealing devices being installed incorrectly were identified.,122,1374,1612,ML17179A282.txt,U
+15,124,0,2,ML17179A282.txt,U
+"Additionally, during the interview with same nonlicensed operator, the team questioned whether the operator had initiated a condition report for this identified adverse condition, and he stated that he had not.",126,0,211,ML17179A282.txt,"H, P"
+"The licensee investigated this issue and determined that this event occurred either February 20 or 21, 2017, and that since then a sealed valve audit had been performed in which these valves were found in their correct position and sealed correctly per procedure.",126,211,474,ML17179A282.txt,U
+"Additionally, the nonlicensed operator stated that he had contacted the control room about what he had identified in the field, but no control room supervisory personnel from that day could remember talking to the nonlicensed operator about this issue, and a condition report was never initiated for this adverse condition.",126,474,797,ML17179A282.txt,U
+"The purpose of the special inspection team being on site was to perform follow up from the improper positioning of Division I RHR minimum flow manual isolation valves that were discovered to be sealed in the incorrect position on February 5, 2017.",126,797,1044,ML17179A282.txt,U
+This event underscored the importance of initiating a condition report for such a configuration control condition.,126,1044,1158,ML17179A282.txt,U
+"Additionally, the nonlicensed operator acted alone to ensure these valves were properly sealed and positionchecked without independent verification per station procedure requirements.",126,1158,1341,ML17179A282.txt,"H, P"
+The licensee entered this issue into their corrective action program as Condition Report CR-CNS-2017-01366.,126,1341,1448,ML17179A282.txt,U
+"10 CFR Part 50, Appendix B, Criterion V, ""Instruction, Procedures, & Drawings,"" states, in part, that activities affecting quality shall be accomplished in accordance with documented instructions, procedures, or drawings of a type appropriate to the circumstances.",126,1448,1712,ML17179A282.txt,U
+"Licensee Procedure 0-CNS-LI-102, ""Corrective Action Process,"" Revision 6, an Appendix B quality-related procedure, provides instructions for implementing the corrective action program.",126,1712,1896,ML17179A282.txt,U
+"Step 5.3.6 states, in part, ""Any individual...who discovers an adverse condition is expected...The condition is promptly documented on a condition report (no later than the end of shift).""",126,1896,2084,ML17179A282.txt,U
+"Contrary to the above, on February 20 or 21, 2017, an individual who discovered an adverse condition did not promptly document the condition on a condition report.",126,2084,2247,ML17179A282.txt,"H, P"
+"Specifically, a nonlicensed operator failed to initiate a condition report when he had identified two safety-related service water valves that were not properly sealed in place by a chain and a wire seal in accordance with requirements of station procedures.",126,2247,2505,ML17179A282.txt,"H, P"
+The nonlicensed operator corrected the condition by reinstalling the chain and sealing device to comply with station procedure requirements.,126,2505,2645,ML17179A282.txt,U
+"Not initiating a condition report for service water valves that were improperly sealed could have prevented the discovery of other possible configuration problems associated with the valves, such as being placed in the incorrect position.",126,2645,2883,ML17179A282.txt,"H, P"
+The licensee determined that after the date of this event a sealed valve audit had been performed by operations which determined these valves were in their correct position and properly sealed per station procedures.,126,2883,3099,ML17179A282.txt,U
+Failure to write a condition report constituted a violation of minor significance that is not subject to enforcement action in accordance with Section 2 of the Enforcement Policy.,126,3099,3278,ML17179A282.txt,U
+This violation was identified by the NRC and is of minor significance because there was no safety impact to the service water system and because no other instances of valve sealing devices being installed incorrectly were identified.,126,3278,3511,ML17179A282.txt,U
+16,128,0,2,ML17179A282.txt,U
+11,130,0,4,ML17179A282.txt,U
+"Determine whether applicable internal or external operating experience involving similar configuration management issues existed, and assess the effectiveness of any action(s) taken by the licensee in response to any such operating experience.",130,4,247,ML17179A282.txt,U
+The team reviewed the licensee's operating experience program.,130,247,309,ML17179A282.txt,U
+"Specifically, the team reviewed the licensee's process for receiving operating experience; the use of industry and site databases for collecting and identifying operating experience; and the process of identifying operating experience applicable to the site, disseminating the information to the appropriate departments, and incorporating the information into procedures and training.",130,309,693,ML17179A282.txt,U
+The team interviewed the site operating experience coordinator.,130,693,756,ML17179A282.txt,U
+No deficiencies were identified.,130,756,788,ML17179A282.txt,U
+"The team determined that configuration control operating experience examples did exist, and that the site had taken appropriate action to incorporate multiple examples into training and procedures.",130,788,985,ML17179A282.txt,U
+12,130,985,988,ML17179A282.txt,U
+Collect data necessary to support completion of the significance determination process for any associated finding(s).,130,988,1105,ML17179A282.txt,U
+"In particular, evaluate the ability of operators to align a flowpath for the affected RHR pumps in design basis accident scenarios before pump damage would occur, including factors such as procedure availability, procedure quality, training, complexity, stress, and available time.",130,1105,1386,ML17179A282.txt,U
+Findings were developed and documented below.,130,1386,1431,ML17179A282.txt,U
+b.,130,1431,1433,ML17179A282.txt,U
+Findings,130,1433,1441,ML17179A282.txt,U
+(1) Exceeding the Technical Specification Allowed Out of Service Time of the Division I RHR System Introduction.,132,0,112,ML17179A282.txt,U
+"The team reviewed a self-revealed, Green, non-cited violation of Technical Specification (TS) 3.5.1, ""Emergency Core Cooling Systems (ECCS) Â­ Operating,"" for the licensee's failure to restore the Division I residual heat removal (RHR) system during clearance restoration, which resulted in exceeding the applicable technical specification action completion time.",132,112,474,ML17179A282.txt,O
+"Specifically, from October 7, 2016, to February 5, 2017, the licensee failed to restore Division I RHR minimum flow isolation valves for RHR pumps A and C to the open position prior to reinstalling the valve sealing devices following maintenance performed during Refueling Outage (RE) 29.",132,474,762,ML17179A282.txt,O
+Description.,132,762,774,ML17179A282.txt,U
+"On October 7, 2016, when removing a clearance order during RE 29, operations personnel failed to reposition the Division I RHR minimum flow isolation valves (RHR-V-58 and RHR-V-60) for RHR pumps A and C to the open position prior to reinstalling the valve sealing devices.",132,774,1046,ML17179A282.txt,T
+"As a result, these minimum flow paths remained isolated until this condition was discovered during the February 5, 2017, sealed valve audit.",132,1046,1186,ML17179A282.txt,U
+"Additionally, from November 23 to November 29, 2016, operations personnel conducted a sealed valve audit, which failed to identify that these valves were in the incorrect position.",132,1186,1366,ML17179A282.txt,T
+The licensee entered this issue into their corrective action program as Condition Report CR-CNS-2017-00553.,132,1366,1473,ML17179A282.txt,U
+17,134,0,2,ML17179A282.txt,U
+"The licensee concluded upon discovery that the unavailability of the Division I RHR subsystem resulted in entry into technical specification actions: 3.5.1, ""ECCS Â­ Operating,"" Condition A, ""Restore low pressure ECCS injection/spray subsystem(s) to operable status within 7 days;"" 3.6.1.9, ""Residual Heat Removal (RHR) Containment Spray,"" Condition A, ""Restore RHR containment spray subsystem to operable status within 7 days;"" and 3.6.2.3, ""Residual Heat Removal (RHR) Suppression Pool Cooling,"" Condition A, ""Restore RHR suppression pool cooling subsystem to operable status within 7 days.""",136,0,593,ML17179A282.txt,U
+"The licensee reopened the minimum flow manual isolation valves, made an immediate operability determination that a reasonable assurance of operability of the Division I RHR system existed, and exited the TS actions listed above.",136,593,821,ML17179A282.txt,U
+This immediate operability call was based on a review of performance data obtained during quarterly surveillance testing done from March 2016 through December 2016.,136,821,985,ML17179A282.txt,U
+The licensee requested engineering personnel to perform a more detailed review.,136,985,1064,ML17179A282.txt,U
+"Additionally, on February 6, 2017, the licensee performed Surveillance Procedure 6.1.RHR.101, ""RHR Test Mode Surveillance Operation (IST) (DIV 1),"" Revision 35, a 2-year inservice test (IST) for the Division I RHR system.",136,1064,1285,ML17179A282.txt,U
+This test yielded acceptable performance results for the Division I RHR system.,136,1285,1364,ML17179A282.txt,U
+"The licensee determined that the affected pumps had been operated 15 times during the time the minimum flow valves were isolated, and that the longest time any pump was continuously operated in this condition was 2 minutes and 18 seconds.",136,1364,1602,ML17179A282.txt,U
+"They also performed a detailed analysis of the 2-year comprehensive surveillance data, comparing test results from October 2007 through February 6, 2017.",136,1602,1755,ML17179A282.txt,U
+The licensee's evaluation of operability concluded that no degradation had occurred to the Division I RHR pumps.,136,1755,1867,ML17179A282.txt,U
+"The team reviewed the operability determination evaluation and interviewed the site resident inspectors who monitored the February 6, 2017, test.",136,1867,2012,ML17179A282.txt,U
+"Through a review of the data and the information provided by the site residents, the team determined that the licensee's conclusion of operability was reasonable.",136,2012,2174,ML17179A282.txt,U
+"Also, the team reviewed the licensee's extent of condition evaluation for this event and determined that it was appropriate for the safety significance of the event.",136,2174,2339,ML17179A282.txt,U
+"Additionally, the team reviewed LCO 3.0.4, which prohibits entry into a mode of applicability of an LCO when that LCO is not met, unless the performance of a risk assessment is completed or actions to be entered permit continued operation in the mode for an unlimited period of time.",136,2339,2622,ML17179A282.txt,U
+"The licensee entered Mode 2 on November 6, 2016, when they were unaware of the inoperability of the Division I RHR system.",136,2622,2744,ML17179A282.txt,"O,P"
+They were prohibited by LCO 3.0.4 from entering Mode 2 in this condition since a risk assessment had not been performed.,136,2744,2864,ML17179A282.txt,P
+Analysis.,136,2864,2873,ML17179A282.txt,U
+"The licensee's failure to properly restore the Division I RHR system during clearance restoration resulted in exceeding the applicable technical specification action completion time, is a violation of TS 3.5.1, which was a performance deficiency.",136,2873,3119,ML17179A282.txt,"O, P"
+"The performance deficiency was more than minor, and therefore a finding, because it was associated with the human performance attribute of the Mitigating Systems Cornerstone and affected the cornerstone objective to ensure the availability, reliability, and capability of systems that respond to initiating events to prevent undesirable consequences.",136,3119,3469,ML17179A282.txt,U
+"Specifically, the failure to follow technical specification requirements to ensure the availability, reliability, and capability of the Division I RHR system directly affected the cornerstone objective.",136,3469,3671,ML17179A282.txt,P
+"Using Inspection Manual Chapter 0609, Appendix A, ""The Significance Determination Process (SDP) for Findings At-Power,"" dated June 19, 2012, 18",136,3671,3814,ML17179A282.txt,U
+the inspectors determined that the finding required a detailed risk evaluation because it involved an actual loss of function of at least a single train for greater than its technical specification allowed outage time.,138,0,219,ML17179A282.txt,U
+"A detailed risk evaluation (Attachment 2) calculated an increase in core damage frequency of 4.7E-7 for the 89 days, 12 hours, and 49 minutes exposure period.",138,219,377,ML17179A282.txt,U
+"Therefore, this violation was of very low safety significance (Green).",138,377,447,ML17179A282.txt,U
+"The team determined the finding had a cross-cutting aspect within the human performance area, challenge the unknown, because individuals failed to perform adequate job-site reviews to identify and resolve unexpected conditions.",138,447,674,ML17179A282.txt,H
+"Specifically, operations personnel restoring the Division I RHR system did not ensure that the minimum flow isolation valves were left in the correct position of sealed open [H.11].",138,674,855,ML17179A282.txt,H
+Enforcement.,138,855,867,ML17179A282.txt,U
+"TS 3.5.1, ""ECCS Â­ Operating,"" requires, in part, that each ECCS injection/spray subsystem shall be operable in Modes 1, 2, and 3.",138,867,996,ML17179A282.txt,U
+"TS 3.5.1, Condition A, Required Action A.1, requires that one inoperable low pressure ECCS injection/spray subsystem be restored to an operable status within 7 days.",138,996,1161,ML17179A282.txt,U
+"Condition B, Required Actions B.1 and B.2, require that if the required action and associated completion time of Condition A is not met, the unit shall be in Mode 3 within 12 hours and Mode 4 within 36 hours.",138,1161,1369,ML17179A282.txt,U
+"Contrary to the above, from November 13, 2016, to February 5, 2017, the Division I RHR system was not restored to an operable status within 7 days, and the unit was not placed in Mode 3 within 12 hours and Mode 4 within 36 hours.",138,1369,1598,ML17179A282.txt,"O, P"
+"Specifically, Division I RHR minimum flow isolation valves (RHR-V-58 and RHR-V-60) for pumps A and C were not restored to the correct position of open prior to reinstalling the valve sealing devices, causing the system to be inoperable.",138,1598,1834,ML17179A282.txt,O
+"As immediate corrective actions, the licensee restored the Division I RHR subsystem to an operable status by sealing open these minimum flow valves, and assessed operability of pumps A and C. Because this finding was determined to be of very low safety significance (Green) and has been entered into the licensee's corrective action program as Condition Report CR-CNS-2017-00553, this violation is being treated as a non-cited violation consistent with Section 2.3.2.a of the NRC Enforcement Policy.",138,1834,2333,ML17179A282.txt,U
+"(NCV 050000298/2017009-01, ""Exceeding the Technical Specification Allowed Out of Service Time of the Division I RHR System"") (2) Failure to Implement an Adequate Procedure for Equipment Control Introduction.",138,2333,2540,ML17179A282.txt,"O, P"
+"The team reviewed a self-revealed, Green, non-cited violation of Technical Specification 5.4.1.a, ""Procedures,"" for the licensee's failure to maintain Station Procedure 2.0.2, ""Conduct of Operations Procedure, Operator Logs and Reports,"" Revision 106, for conducting sealed valve audits.",138,2540,2827,ML17179A282.txt,P
+"Specifically, this procedure only checked that the seals were installed, and did not check that the valves where in the correct position.",138,2827,2964,ML17179A282.txt,P
+This resulted in an extended period of time that the Division I residual heat removal (RHR) system was unknowingly inoperable.,138,2964,3090,ML17179A282.txt,P
+Description.,138,3090,3102,ML17179A282.txt,U
+"On October 7, 2016, when lifting a clearance order during an outage, operations personnel failed to reposition the Division I RHR minimum flow isolation valves (RHR-V-58 and RHR-V-60) for RHR pumps A and C to the open position prior to reinstalling the valve sealing devices.",138,3102,3377,ML17179A282.txt,T
+"As a result, these minimum flow paths remained isolated until this condition was discovered on February 5, 2017.",138,3377,3489,ML17179A282.txt,U
+19,140,0,2,ML17179A282.txt,U
+"Station Procedure 2.0.2, ""Conduct of Operations Procedure, Operator Logs and Reports,"" Revision 106, Step 4.4 required that each quarter the sealed valves shall be verified to have a seal properly installed, but did not require that the position of the valves also be checked.",142,0,277,ML17179A282.txt,U
+"From November 23, 2016, to November 29, 2016, the licensee conducted this sealed valve audit in accordance with Step 4.4 of Procedure 2.0.2, and failed to identify the Division I RHR minimum flow isolation valves were in the incorrect position.",142,277,521,ML17179A282.txt,P
+"The following quarter, on February 5, 2017, the licensee again conducted the sealed valve audit and found that the Division I RHR minimum flow isolation valves were in the incorrect position.",142,521,712,ML17179A282.txt,P
+"This procedure inadequacy, to only check that the seals were installed vice also checking valve positions, unnecessarily extended the length of time that the Division I RHR system was unknowingly inoperable.",142,712,919,ML17179A282.txt,P
+"The licensee restored the Division I minimum flow isolation valves to the open position, verified the Division II minimum flow isolation valves were also in the correct position, and revised Procedure 2.0.2 to include direction to check the position of sealed valves in addition to the installation status of the valve sealing devices.",142,919,1254,ML17179A282.txt,U
+"While the licensee did revise the procedure, the licensee initially viewed a strict adherence to the language in the procedure to only check that valve seals were installed as acceptable.",142,1254,1441,ML17179A282.txt,T
+This was due to the licensee's reliance on other processes such as valve lineups and clearance restoration to ensure valves/equipment would be placed in the correct position.,142,1441,1615,ML17179A282.txt,U
+The licensee entered this into their corrective action program as Condition Report CR-CNS-2017-00553.,142,1615,1716,ML17179A282.txt,U
+Analysis.,142,1716,1725,ML17179A282.txt,U
+"Failure to maintain Station Procedure 2.0.2 for conducting sealed valve audits, in violation of Technical Specification 5.4.1.a, was a performance deficiency.",142,1725,1883,ML17179A282.txt,P
+"This performance deficiency is more than minor, and therefore a finding, because it affected the configuration control attribute of the Mitigating Systems Cornerstone and adversely impacted the cornerstone objective to ensure the availability, reliability, and capability of systems that respond to initiating events to prevent undesirable consequences.",142,1883,2236,ML17179A282.txt,U
+"Specifically, the failure to correctly identify and correct out of position Division I RHR minimum flow isolation valves resulted in unnecessarily and unknowingly extending the inoperability time of the Division I RHR system by 39-45 days.",142,2236,2475,ML17179A282.txt,T
+"Using Inspection Manual Chapter 0609, Attachment 04, ""Initial Characterization of Findings,"" and Inspection Manual Chapter 0609, Appendix A, ""The Significance Determination Process for Findings At-Power,"" the inspectors determined that the violation required a detailed risk evaluation because the finding represented a loss of safety function for greater than its technical specification allowed outage time.",142,2475,2884,ML17179A282.txt,U
+A senior reactor analyst used the same detail risk evaluation from the violation above and determined that the violation was of very low safety significance (Green).,142,2884,3049,ML17179A282.txt,U
+"This finding had a cross-cutting aspect within the human performance area, resources, because leaders did not ensure that personnel, equipment, procedures, and other resources were available and adequate to support nuclear safety.",142,3049,3279,ML17179A282.txt,"O, P"
+"Specifically, the licensee had approved Procedure 2.0.2, ""Conduct of Operations Procedure, Operator Logs and Reports,"" Revision 106, for conducting sealed valve audits without including the fundamental direction to ensure that the sealed valves were sealed in the correct position [H.1].",142,3279,3566,ML17179A282.txt,"O, P"
+Enforcement.,142,3566,3578,ML17179A282.txt,U
+"Technical Specification 5.4.1.a, requires, in part, that procedures shall be established, implemented, and maintained covering the applicable procedures recommended in Appendix A to Regulatory Guide 1.33, ""Quality Assurance Program Requirements,"" Revision 2, dated February 1978.",142,3578,3857,ML17179A282.txt,U
+"Regulatory Guide 1.33, Appendix A, 20",142,3857,3894,ML17179A282.txt,U
+"Section 1.c, requires procedures for ""Equipment Control"" including configuration control activities such as locking and tagging.",144,0,129,ML17179A282.txt,U
+"Contrary to the above, prior to February 24, 2017, the licensee failed to maintain procedures for equipment control.",144,129,245,ML17179A282.txt,P
+"Specifically, Procedure 2.0.2, ""Conduct of Operations Procedure, Operator Logs and Reports,"" Revision 106, did not require that the position of the valves be checked.",144,245,411,ML17179A282.txt,P
+This resulted in an extended period of time that the Division I RHR system was unknowingly inoperable.,144,411,513,ML17179A282.txt,P
+The licensee restored compliance by revising the procedure to include direction to check the position of sealed valves in addition to the installation status of the valve sealing devices.,144,513,700,ML17179A282.txt,U
+"Because this violation was of very low safety significance (Green) and has been entered into the licensee's corrective action program as Condition Report CR-CNS-2017-00553, this violation is being treated as a non-cited violation (NCV), consistent with Section 2.3.2.a of the NRC Enforcement Policy.",144,700,999,ML17179A282.txt,U
+"(NCV 05000298/2017009-02, ""Failure to Implement an Adequate Procedure for Equipment Control"") 4OA6 Meetings, Including Exit Exit Meeting Summary On May 17, 2017, the inspectors presented the inspection results by telephone to Mr. Ken Higginbotham, Vice President-Nuclear and Chief Nuclear Officer, and other members of the licensee's staff.",144,999,1339,ML17179A282.txt,P
+The licensee acknowledged the issues presented.,144,1339,1386,ML17179A282.txt,U
+The inspectors asked whether any of the material examined during the inspection should be considered proprietary.,144,1386,1499,ML17179A282.txt,U
+No proprietary information was identified.,144,1499,1541,ML17179A282.txt,U
+21,146,0,2,ML17179A282.txt,U
+"SUPPLEMENTAL INFORMATION KEY POINTS OF CONTACT Licensee Personnel D. Buman, Director, Nuclear Safety and Assurance L. Dewhirst, Manager, Corrective Action and Assessment K. Dia, Director, Engineering T. Forland, Engineer, Licensing D. Frankland, Assistant Operation Manager, Training G. Gardner, Engineering Design Manager D. Goodman, Manager, Operations B. Haaelbring, Assistant Operation Manager, Shift K. Higginbotham, Vice President-Nuclear and Chief Nuclear Officer R. Kouba, Control Room Supervisor S. Nelson, Risk and Fire Programs Supervisor P. Pope, Chief Executive Officer, NPPD J. Shaw, Licensing Manager M. Tackett, Outage Manager C. Walters, System Engineer M. Wilmers, Design Engineer NRC Personnel P Voss, Senior Resident Inspector LIST OF ITEMS OPENED, CLOSED AND DISCUSSED Opened and Closed 05000298/2017009-01 NCV 05000298/2017009-02 NCV Exceeding the Technical Specification Allowed Out of Service Time of the Division I RHR System (Section 4OA3) Failure to Implement an Adequate Procedure for Equipment Control (Section 4OA3) LIST OF DOCUMENTS REVIEWED Section 4OA3: Special Inspection Drawings Number 2006 SH 4 2036 SH 1 2040 Sheet 1 791E261 Title Control Building Service Water System Reactor Building Service Water System Residual Heat Removal System Residual Heat Removal SYS (Elementary Diagram) Revision 59 A3 N82 23",148,0,1343,ML17179A282.txt,U
+Attachment 1,150,0,12,ML17179A282.txt,U
+Calculations Number 17-004 17-004 ER 2017-019 Title RHR Pump Temperature Response While Dead Headed RHR Pump Temperature Response While Dead Headed RHR Pump Â­ Head Evaluation Revision 0 0C1 0,152,0,192,ML17179A282.txt,U
+"Miscellaneous Documents Number Title ACAD Basic Curriculum: Instrumentation & Control, Chapter 6 ACD015-06-06 Valve Actuators and Position Indicators Text ACAD Basic Curriculum: Instrumentation & Control, Chapter 6 Valve Actuators and Position Indicators Classroom Presentation ACAD Basic Curriculum: Mechanical Science, Chapter 1 ACD015-04-01 Valves Classroom Presentation ACAD Basic Curriculum: Mechanical Science, Chapter 1 ACD015-04-01 Valves Text Clearance Order: RHR-1-RE29 RHRA Maintenance CNS Operations Logs for Sunday October 30, 2016 Cooper Nuclear Station Training, Configuration Management/SKL0080302 Classroom Presentation Cooper Nuclear Station Training, Configuration Management/SKL0080302 Student Text Cooper Nuclear Station Training, Watchstanding Principles/SKL008 Classroom Presentation Cooper Nuclear Station Training, Watchstanding Principles/SKL008 Student Text Executive Summary of the Event Extent of Condition Evaluation Extent of Condition Valve Lineups Extent of Condition Verification Human Factors Related to the RHR Min Flow Isolation (InDepth) Human Factors Relating to RHR Min Flow Isolation (Time of Discovery) (Basic) 15 15 31 31 Revision/Date 5",154,0,1180,ML17179A282.txt,U
+5,156,0,1,ML17179A282.txt,U
+4A 4A,158,0,5,ML17179A282.txt,U
+A1-2,160,0,4,ML17179A282.txt,U
+"Miscellaneous Documents Number Title Industry Benchmarking Of Sealed Valves Procedure/Audit (Licensee's White Paper) Lesson Plan SKL008-01, Watchstanding Principles Licensee's Analysis of LCO 3.0.3 Entries from Startup Based on Narrative Logs Meeting Attendance Â­ Operations All Hands Meeting Operations Department All Hands Meeting Operations Configuration Management and Watchstanding Principles Â­ Dynamic Learning Activity Operator Log Entries Addressing LCO Technical Specifications for 3.5.1 Â­ ECCS Operation and 3.8.1 Â­ Electrical Operating from 11/07/16 to 2/06/17 Operations of RHR Pumps in Division I Â­ From October 7, 2016 through February 6, 2017 (Supported by Computer Traces of All Pump Starts and RHR Division I Flow Information) Pre-Outage Fundamentals: Safety and Human Performance Computer Based Training Prompt Investigation and Notification for CR-CNS-2017-00553/558 Reader Transaction History for NLOs Performing Clearance Restoration for RHRA-1-RE29 RHRA Maintenance RED MEMO Â­ RHR Min Flow Valves Out of Position (CNS) Reportability Summary Response to NRC Bulletin No.",162,0,1092,ML17179A282.txt,U
+"88-04 Spreadsheet: All CRs with Trend Code P109 (System/Component Lineups) from 1/1/2015 -2/24/2107 Spreadsheet: CRs with Procedure 2.0.2 in the Description From 1/1/2015 to 2/24/2017 Spreadsheet: CRs with RHR Pump and Motor Issues for Division I from 10/6/2016 to 2/24/2017 March 8, 1991 October 7, 2016 February 9, 2017 February 15, 2017 February 15, 2017 0 30 Revision/Date",162,1092,1468,ML17179A282.txt,U
+A1-3,164,0,4,ML17179A282.txt,U
+"Miscellaneous Documents Number Title Spreadsheet: CRs with ""Sealed Valve"" in Condition Description from 1/1/2015 -2/24/2107 Spreadsheet: For a List of All Work Orders Performed on the RHR System During RE29 Spreadsheet: Trend Code P109 Â­ Misposition from 1/1/2015 -2/24/2107 2.2A B3.5.2 Flow Loop System Component Checklist (Valve Line for Observations) Emergency Core Cooling Systems (ECCS) And Reactor Core Isolation Cooling (RCIC) System - B 3.5.2 ECCS Â­ Shutdown (Bases) Emergency Core Cooling Systems (ECCS) And Reactor Core Isolation Cooling (RCIC) System Â­ ECCS Operating (Amendment 233) Emergency Core Cooling Systems (ECCS) And Reactor Core Isolation Cooling (RCIC) System Â­ ECCS Shutdown (Amendment 178) Residual Heat Removal (RHR) Containment Spray (Amendment 253) Residual Heat Removal (RHR) Suppression Pool Cooling (Amendment 253) AC Sources Â­ Operating (Amendment 233) Residual Heat Removal (RHR) - High Water Level (Amendment 178) Residual Heat Removal (RHR) - Low Water Level (Amendment 178) Administrative Controls 248 March 15, 2017 October 21, 2015 Revision/Date",166,0,1083,ML17179A282.txt,U
+BTS3.9.8 TS 3.5.1,168,0,17,ML17179A282.txt,U
+Residual Heat Removal (RHR) - Low Water Level (Bases) 0,170,0,55,ML17179A282.txt,U
+TS 3.5.2,172,0,8,ML17179A282.txt,U
+TS 3.6.1.9 TS 3.6.2.3 TS 3.8.1 TS 3.9.7 TS 3.9.8 TS 5.4 Procedures Number 0.31 0.9 0.9.3 0-CNS-OE-100,174,0,101,ML17179A282.txt,U
+Title Administrative Procedure Â­ Equipment Status Control Administrative Procedure Â­ Tagout Administrative Procedure Â­ Clearance Order Users Group,176,0,146,ML17179A282.txt,U
+Revision/Date 81 89 4,178,0,21,ML17179A282.txt,U
+Administrative Procedure - Operating Experience Program 4,180,0,57,ML17179A282.txt,U
+A1-4,182,0,4,ML17179A282.txt,U
+"Procedures Number 0-EN-LI-102 0-EN-LI-118 0-EN-LI-119 2.0.2 2.0.2 2.0.3 2.0.2 2.0.2 2.1.5 2.2.69.3 2.2A.CS.DIV1 2.2FLS - DLA#3 2.3 2.3.1 2.4SDC 5.3AC480 5.3EMPWR 5.8 5.8 5.8 Title Corrective Action Process Root Cause Evaluation Process Apparent Cause Evaluation Process Conduct of Operations Procedure Â­ Operations Logs and Reports Conduct of Operations Procedure Â­ Operations Logs and Reports Conduct of Operations Procedure Â­ Operations Logs and Reports Operation Logs and Reports Â­ Locked and Seal Valves Audit, Performed Prior to Exiting the Outage Reactor Scram RHR Suppression Pool Cooling And Containment Spray System Operating Procedure Core Spray Panel C Â­ Annunciator C-4 General Alarm Procedure Abnormal Procedure - Shutdown Cooling Abnormal 480 VAC Bus Failure (Emergency Procedure) Emergency Power During Modes 1, 2 OR 3 (Emergency Procedure) Emergency Operating Procedure Attachment 1 Â­ 3A (Primary Containment Control) Revision/Date 006 18C5 16C5 108 109",184,0,970,ML17179A282.txt,U
+"Conduct of Operations Procedure Â­ Conduct of Operations 93 110 November 10, 2016 73 47 4 31 63 15 52 65 17",186,0,106,ML17179A282.txt,U
+Flow Loop Operating Procedure Â­ Place Loop B In-Service 0,188,0,57,ML17179A282.txt,U
+Emergency Operating Procedure Attachment 1 Â­ 7A (RPV 19 Level Control [Failure-to-Scram]) Emergency Operating Procedure Attachment 1 Â­ 6A (Emergency RPV Depressurization [Failure to Scram] and Reactor Power [Failure to Scram]) 19,190,0,229,ML17179A282.txt,U
+5.8 5.8,192,0,7,ML17179A282.txt,U
+Emergency Operating Procedure Attachment 1 Â­ 1A (RPV 20 Control) Emergency Operating Procedure Attachment 1 Â­ 6B (PRV 20 Pressure [Failure to Scram] and Reactor Power {Failure to Scram]),194,0,186,ML17179A282.txt,U
+A1-5,196,0,4,ML17179A282.txt,U
+Procedures Number EN-OP-115-05 EN-PL-155 EN-PL-155 Title Operation of Components Change Management Checklist Â­ Verification Requirements For Locked/Sealed Valves Entergy Nuclear Change Management Revision/Date 0 4 4C0,198,0,218,ML17179A282.txt,U
+Condition Reports (CRs) CR-CNS-2015-01164 CR-CNS-2015-03292 CR-CNS-2015-06090 CR-CNS-2016-01128 CR-CNS-2016-03813 CR-CNS-2016-06356 CR-CNS-2017-00558 CR-CNS-2017-00630 CR-CNS-2017-01254 CR-CNS-2017-01395 CR-CNS-2017-01435 Work Orders 97-01569 4432106 5068885 800000009566 800000009570 CR-CNS-2015-02030 CR-CNS-2015-03942 CR-CNS-2015-07337 CR-CNS-2016-03081 CR-CNS-2016-03950 CR-CNS-2016-07663 CR-CNS-2017-00586 CR-CNS-2017-00723 CR-CNS-2017-01358 CR-CNS-2017-01432 CR-CNS-2017-01995 CR-CNS-2015-02535 CR-CNS-2015-04023 CR-CNS-2016-00191 CR-CNS-2016-03111 CR-CNS-2016-04815 CR-CNS-2017-00122 CR-CNS-2017-00598 CR-CNS-2017-00745 CR-CNS-2017-01365 CR-CNS-2017-01433 CR-CNS-2015-03040 CR-CNS-2015-05615 CR-CNS-2016-01088 CR-CNS-2016-03523 CR-CNS-2016-04815 CR-CNS-2017-00553 CR-CNS-2017-00599 CR-CNS-2017-00902 CR-CNS-2017-01366 CR-CNS-2017-01434,200,0,842,ML17179A282.txt,U
+A1-6,202,0,4,ML17179A282.txt,U
+Cooper Nuclear Station Residual Heat Removal Minimum Flow Lines Isolation Detailed Risk Evaluation The detailed risk evaluation estimated that the issue was of very low safety significance (Green).,204,0,198,ML17179A282.txt,U
+"In this evaluation, the analyst assumed the exposure time to be 89 days, 12 hours, and 49 minutes, which encompasses the time from which the licensee exited shutdown cooling on the residual heat removal system while starting the plant up from their refueling outage to the time the valves were returned to their normal position.",204,198,526,ML17179A282.txt,U
+Exposure time during the outage was not considered because the motor operated valve in the minimum flow line is intentionally shut at that time for the shutdown cooling line-up.,204,526,703,ML17179A282.txt,U
+"The analyst also assumed that operators would align an alternate flow path with a failure probability of 2.0E-3, which was derived using a SPAR-H analysis.",204,703,858,ML17179A282.txt,U
+The SPAR-H analysis was determined to have no diagnosis applicable and be an action-only analysis since operators would be unaware of the isolated minimum flow line.,204,858,1023,ML17179A282.txt,U
+"Also, in the SPAR-H analysis, stress was judged to be the only performance driver and was assigned as ""high"" because in the postulated scenarios, many alarms and actions would be occurring.",204,1023,1212,ML17179A282.txt,U
+"The basic event for this action was added to the model with ""AND"" logic to the failure events to account for the operators' ability to align a flow path for the residual heat removal pumps with their flow line isolated before the pumps would be damaged and subsequently unavailable.",204,1212,1494,ML17179A282.txt,U
+This basic event was applied similarly to all minimum flow lines since the action is embedded in the plant procedures and was placed under fault trees for both trains of residual heat removal and suppression pool cooling.,204,1494,1715,ML17179A282.txt,U
+A different SPAR-H basic event with a failure probability of 2.0E-1 was applied to the low pressure coolant injection mode fault trees because less time was available.,204,1715,1882,ML17179A282.txt,U
+The manual valves that were closed were considered to be part of a common cause group which also included the same valves in the other residual heat removal trains.,204,1882,2046,ML17179A282.txt,U
+"To create the common cause failure event, the analyst consulted with Idaho National Laboratory (INL) for common cause parameters.",204,2046,2175,ML17179A282.txt,U
+Basic events for each train's minimum flow line check valve failing closed were used as the individual common cause component events.,204,2175,2308,ML17179A282.txt,U
+The common mode failure event was then placed under the fault trees for both trains of residual heat removal and suppression pool cooling.,204,2308,2446,ML17179A282.txt,U
+"The analyst used Cooper SPAR model Revision 8.50, run on SAPHIRE Version 8.1.5, with the previously described modifications to the model.",204,2446,2583,ML17179A282.txt,U
+Truncation was set at 1E-12.,204,2583,2611,ML17179A282.txt,U
+"Applying the assumptions and model modifications, the increase in core damage frequency was estimated to be 3.2E-7/year due to internal events.",204,2611,2754,ML17179A282.txt,U
+"Dominant sequences were losses of electrical buses 1F and 1G, which were mitigated by the reactor core isolation cooling and high pressure coolant injection systems.",204,2754,2919,ML17179A282.txt,U
+"The analyst estimated the increase in core damage frequency due to external events to be 1.6E-7/year, derived of fire, tornado, and seismic events.",204,2919,3066,ML17179A282.txt,U
+The analyst ran numerous fire cases informed by the results of the internal events from the Cooper SPAR model and the licensee's fire probabilistic risk assessment (PRA) information.,204,3066,3248,ML17179A282.txt,U
+"For each of these postulated fire scenarios, the increase in core damage frequency was estimated by calculating the effects of the fire with and without the performance deficiency present.",204,3248,3436,ML17179A282.txt,U
+Fire ignition frequencies from the licensee's NFPA 805 risk informed fire protection model were used in combination with conditional core damage probabilities derived using the Cooper SPAR model informed from the licensee's damaged equipment for the different fire scenarios.,204,3436,3711,ML17179A282.txt,U
+The results were applied over,204,3711,3740,ML17179A282.txt,U
+Attachment 2,206,0,12,ML17179A282.txt,U
+the 91-day exposure time.,208,0,26,ML17179A282.txt,U
+The analyst combined all fire scenarios to estimate the increase in core damage frequency from fires to be 1.5E-7/year.,208,26,145,ML17179A282.txt,U
+"For tornados, the analyst estimated the frequency of a category EF2 or greater tornado occurring onsite to be 2.20E-4/year using the data developed by the Office of Nuclear Reactor Research utilizing the methodology from, ""Review of Methods for Estimation of High Wind and Tornado Hazard Frequencies,"" dated December 2012.",208,145,467,ML17179A282.txt,U
+The analyst assumed that these high wind events would cause an unrecoverable loss of site power.,208,467,563,ML17179A282.txt,U
+This yielded a conditional core damage probability of 4.1E-6 that when applied to the tornado/high wind initiating event frequency yielded an estimate in the increase of core damage frequency of 9.0E-10/year.,208,563,771,ML17179A282.txt,U
+"For earthquakes, the analyst obtained the frequency of a seismically induced loss of offsite power of 1.33E-4/year using Volume 2, ""External Events,"" of the RASP Handbook.",208,771,942,ML17179A282.txt,U
+The analyst conservatively assumed that an earthquake would cause an unrecoverable loss of site power.,208,942,1044,ML17179A282.txt,U
+This yielded a conditional core damage probability of 4.1E-6 that when applied to the seismically induced loss of offsite power frequency yielded an estimate in the increase of core damage frequency of 5.4E-10/year.,208,1044,1259,ML17179A282.txt,U
+"Combining internal and external events, the analyst estimated the total increase in core damage frequency to be 4.7E-7/year, or of very low safety significance (Green).",208,1259,1427,ML17179A282.txt,U
+The analyst reviewed the dominant sequences contributing to core damage to evaluate their impact on large early release frequency (LERF).,208,1427,1564,ML17179A282.txt,U
+"Manual Chapter 0609, Appendix H, ""Containment Integrity Significance Determination Process,"" describes that long term accident sequences that involve failure of containment heat removal and ultimately progress to containment failure are assumed not to contribute to LERF.",208,1564,1835,ML17179A282.txt,U
+The licensee provided information from their Level 2 PRA model which the analyst reviewed to ascertain which sequences involved long term accident sequences.,208,1835,1992,ML17179A282.txt,U
+"The analyst also performed a sequence review of a similar boiling water reactor plant, Peach Bottom, and then compared their identical sequences and applied the LERF factors of those sequences to the Cooper sequences.",208,1992,2209,ML17179A282.txt,U
+"From these applications, the analyst estimated the increase in LERF to be 1.4E-8/year, or of very low safety significance (Green).",208,2209,2339,ML17179A282.txt,U
+A2-2,210,0,4,ML17179A282.txt,U
+NUCLEAR REGULATORY COMMISSION,212,0,30,ML17179A282.txt,U
+REGION IV 1600 E. LAMAR BLVD.,213,0,29,ML17179A282.txt,U
+"ARLINGTON, TX 76011-4511",213,29,53,ML17179A282.txt,U
+UNITED STATES,215,0,13,ML17179A282.txt,U
+MEMORANDUM TO:,217,0,14,ML17179A282.txt,U
+"ML17060A687 Richard Smith Nuclear Systems Engineer, Response Coordination Branch Office of the Regional Administrator Troy Pruett, Director /RA Ryan Lantz for/ Division of Reactor Projects SPECIAL INSPECTION CHARTER TO EVALUATE THE ISOLATION OF DIVISION I RHR MINIMUM FLOW PIPING AT COOPER NUCLEAR STATION",219,0,305,ML17179A282.txt,U
+1-Mar-17,221,0,13,ML17179A282.txt,U
+FROM: SUBJECT:,223,0,14,ML17179A282.txt,U
+"In response to the inadvertent isolation of Division I residual heat removal (RHR) minimum flow piping, a Special Inspection will be performed.",225,0,143,ML17179A282.txt,U
+This event led to the potential loss of a safety function for the RHR system and revealed weaknesses in the operator fundamentals area associated with configuration control.,225,143,316,ML17179A282.txt,U
+You are hereby designated as the Special Inspection team leader.,225,316,380,ML17179A282.txt,U
+"The following member is assigned to your team: Â· A. Nick Hernandez, Resident Inspector, South Texas Project Basis On October 7, 2016, when lifting a clearance order during an outage, operators failed to reposition the residual heat removal (RHR) Division I minimum flow isolation valves (RHR-V-58 and RHR-V-60) for RHR pumps A and C to the open position prior to reinstalling the valve sealing devices.",225,380,782,ML17179A282.txt,T
+"As a result, these minimum flow paths remained isolated until this condition was discovered on February 5, 2017.",225,782,894,ML17179A282.txt,U
+"From November 23 to November 29, 2016, operators conducted a sealed valve audit, which failed to identify that these valves were in the incorrect position.",225,894,1049,ML17179A282.txt,H
+"During a subsequent sealed valve audit conducted on February 5, 2017, operators identified that these valves were in the incorrect position.",225,1049,1189,ML17179A282.txt,U
+The affected RHR pumps were operated approximately ten times during the four-month time period with the minimum flow paths isolated.,225,1189,1321,ML17179A282.txt,U
+"Management Directive 8.3, ""NRC Incident Investigation Program,"" was used to evaluate the level of NRC response for this event.",225,1321,1447,ML17179A282.txt,U
+"In evaluating the criteria of MD 8.3, it was determined that the event met two of the deterministic criteria.",225,1447,1556,ML17179A282.txt,U
+This event potentially led to the loss of a safety function used to mitigate an actual event.,225,1556,1649,ML17179A282.txt,U
+"Specifically, it was determined that the Division II RHR was out of service for a total of approximately 71.5 hours during the time period that Division I RHR minimum flow paths were isolated.",225,1649,1841,ML17179A282.txt,U
+The condition of having the minimum flow isolation valves closed may have rendered one or more of the RHR system safety functions inoperable for Division I RHR when Division II RHR was unavailable.,225,1841,2038,ML17179A282.txt,U
+"Additionally, this event involved questions or concerns pertaining to licensee operational performance.",225,2038,2141,ML17179A282.txt,O
+"Specifically, this event raised questions regarding Attachment 3",225,2141,2205,ML17179A282.txt,U
+R. Smith,227,0,9,ML17179A282.txt,U
+2,229,0,1,ML17179A282.txt,U
+how operators completed the system alignment and how they missed identifying the improperly positioned valves during a subsequent sealed valve audit.,231,0,149,ML17179A282.txt,T
+The preliminary Estimated Conditional Core Damage Probability was determined to be 3.5 x 10-6.,231,149,243,ML17179A282.txt,U
+"Based on the deterministic criteria and risk insights related to the inadvertent isolation of the Division I RHR minimum flow paths, Region IV management determined that the appropriate level of NRC response was to conduct a Special Inspection.",231,243,487,ML17179A282.txt,U
+This Special Inspection is chartered to identify the circumstances surrounding this event and assess the adequacy of the licensee's actions to address the causes of the event.,231,487,662,ML17179A282.txt,U
+B.,231,662,664,ML17179A282.txt,U
+Scope The inspection is expected to perform data gathering and fact-finding in order to address the following: 1.,231,664,777,ML17179A282.txt,U
+Provide a recommendation to Region IV management as to whether the inspection should be upgraded to an augmented inspection team response.,231,777,915,ML17179A282.txt,U
+This recommendation should be provided by the end of the first day on site.,231,915,990,ML17179A282.txt,U
+"Develop a complete sequence of events related to the isolation of the Division I RHR minimum flow paths that was discovered on February 5, 2017.",231,990,1134,ML17179A282.txt,U
+"The chronology should include plant mode changes; status of emergency core cooling systems (ECCS), as well as RHR shutdown cooling, RHR suppression pool cooling, and RHR containment spray systems; and operation of the affected Division I RHR pumps during the time period that the minimum flow isolation valve misalignment existed.",231,1134,1464,ML17179A282.txt,U
+Review the licensee's root cause analysis and extent of condition review efforts and determine if the evaluation is being conducted at a level of detail commensurate with the significance of the problem.,231,1464,1667,ML17179A282.txt,U
+Determine the probable cause(s) for the misalignment of the Division I RHR minimum flow isolation valves.,231,1667,1772,ML17179A282.txt,U
+Review the licensee's operability evaluation to determine the current operability status of the affected Division I RHR pumps.,231,1772,1898,ML17179A282.txt,U
+Review the licensee's operability evaluation to determine whether the condition of having the Division I RHR minimum flow paths isolated rendered any of the safety functions (e.g.,231,1898,2077,ML17179A282.txt,U
+"low pressure coolant injection (LPCI), RHR containment spray, RHR suppression pool cooling) associated with Division I RHR inoperable, and whether a loss of safety function occurred due to concurrent unavailability of Division II RHR.",231,2077,2311,ML17179A282.txt,U
+"Determine whether any technical specification (TS) requirements associated with the RHR system were not met, including TS 3.5.1, 3.5.2, 3.6.1.9, 3.6.2.3, 3.9.7, and 3.9.8.",231,2311,2482,ML17179A282.txt,U
+A3-2,231,2482,2486,ML17179A282.txt,U
+2,233,0,2,ML17179A282.txt,U
+3,235,0,2,ML17179A282.txt,U
+4,237,0,2,ML17179A282.txt,U
+5,237,2,4,ML17179A282.txt,U
+6,237,4,6,ML17179A282.txt,U
+7,239,0,2,ML17179A282.txt,U
+R. Smith 8.,241,0,12,ML17179A282.txt,U
+9,241,12,14,ML17179A282.txt,U
+10,241,14,17,ML17179A282.txt,U
+3 Evaluate the licensee's actions to comply with reporting requirements associated with this event.,243,0,99,ML17179A282.txt,U
+Determine whether there were any deficiencies in operator training that contributed to the RHR minimum flow configuration control problem.,243,99,237,ML17179A282.txt,U
+"Evaluate the licensee's compliance with, and adequacy of, procedural guidance for performing system alignments, and for performing equipment tag-outs, as it pertains to the cause(s) of the event.",243,237,432,ML17179A282.txt,U
+Determine whether the licensee's processes for plant configuration control were appropriate.,243,432,524,ML17179A282.txt,U
+"Determine whether applicable internal or external operating experience involving similar configuration management issues existed, and assess the effectiveness of any action(s) taken by the licensee in response to any such operating experience.",243,524,767,ML17179A282.txt,U
+Collect data necessary to support completion of the significance determination process for any associated finding(s).,243,767,884,ML17179A282.txt,U
+"In particular, evaluate the ability of operators to align a flowpath for the affected RHR pumps in design basis accident scenarios before pump damage would occur, including factors such as procedure availability, procedure quality, training, complexity, stress, and available time.",243,884,1165,ML17179A282.txt,U
+11,245,0,3,ML17179A282.txt,U
+12,247,0,3,ML17179A282.txt,U
+C.,249,0,2,ML17179A282.txt,U
+"Guidance Inspection Procedure 93812, ""Special Inspection,"" provides additional guidance to be used by the Special Inspection Team.",251,0,130,ML17179A282.txt,U
+Your duties will be as described in Inspection Procedure 93812.,251,130,193,ML17179A282.txt,U
+The inspection should emphasize fact-finding in its review of the circumstances surrounding the event.,251,193,295,ML17179A282.txt,U
+It is not the responsibility of the team to examine the regulatory process.,251,295,370,ML17179A282.txt,U
+Safety concerns identified that are not directly related to the event should be reported to the Region IV office for appropriate action.,251,370,506,ML17179A282.txt,U
+"You will formally begin the Special Inspection with an entrance meeting to be conducted no later than March 13, 2017.",251,506,623,ML17179A282.txt,U
+You should provide a daily briefing to Region IV management during the course of your inspections and prior to your exit meeting.,251,623,752,ML17179A282.txt,U
+A report documenting the results of the inspection should be issued within 45 days of the completion of the inspection.,251,752,871,ML17179A282.txt,U
+This Charter may be modified should you develop significant new information that warrants additional review.,251,871,979,ML17179A282.txt,U
+CONTACT:,253,0,8,ML17179A282.txt,U
+"Greg G. Warnick, Chief, DRP Branch C 817-200-1144",255,0,49,ML17179A282.txt,U
+A3-3,257,0,4,ML17179A282.txt,U

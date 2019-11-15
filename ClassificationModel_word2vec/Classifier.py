@@ -113,7 +113,7 @@ class Train(object):
 
     def train_model(self,model_file=MODEL_NAME):
         if not self.ignore:
-            self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=60, verbose =1)
+            self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=80, verbose =1)
             self.model.save(PROCESSED_DATA_PATH + model_file)
             self.plot_history()
         return max(self.history.history['acc']), max(self.history.history['val_acc'])
@@ -196,10 +196,10 @@ class Train(object):
     # Generates model for SentenceClassifier
     def generate_sentence_classifier_model(self):
         model = Sequential()
-        model.add(Embedding(self.vocabulary_size, 100, input_length=self.sentence_length, weights=[self.embedding_matrix],
+        model.add(Embedding(self.vocabulary_size, 300, input_length=self.sentence_length, weights=[self.embedding_matrix],
                       trainable=True))
-        model.add(Dropout(0.4))
-        model.add(Conv1D(8, 5, activation='relu'))
+        model.add(Dropout(0.2))
+        model.add(Conv1D(64, 5, activation='relu'))
         # model.add(MaxPooling1D(pool_size=4))
         model.add(LSTM(self.lstm_size))
         model.add(Dense(self.number_of_classes, activation='sigmoid'))
