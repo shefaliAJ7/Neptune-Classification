@@ -2,6 +2,7 @@ from Config import *
 import pandas as pd
 import pickle
 import numpy as np
+from gensim.models import KeyedVectors
 # import re
 # from nltk.stem import WordNetLemmatizer
 # from nltk.stem import PorterStemmer
@@ -87,24 +88,21 @@ class Train(object):
 
     # embedding matrix
     def create_embedding_matrix(self):
-        word2vec_model = KeyedVectors.load_word2vec_format(GLOVE_PATH, binary=True)
+        model_ug_cbow = KeyedVectors.load('w2v_model_ug_cbow.word2vec')
+        model_ug_sg = KeyedVectors.load('w2v_model_ug_sg.word2vec')
+        embeddings_index = {}
+        for w in model_ug_cbow.wv.vocab.keys():
+            embeddings_index[w] = np.append(model_ug_cbow.wv[w], model_ug_sg.wv[w])
+        print('Found %s word vectors.' % len(embeddings_index))
+        embedding_matrix = np.zeros((self.vocabulary_size, 200))
+        for word, i in self.tokenizer.word_index.items():
+            if i > self.vocabulary_size - 1:
+                continue
+            embedding_vector = embeddings_index.get(word)
+            if embedding_vector is not None:
+                embedding_matrix[i] = embedding_vector
 
-        embedding_matrix = np.zeros((self.vocabulary_size, 300))
-        for word, index in self.tokenizer.word_index.items():
-            if index > self.vocabulary_size - 1:
-                break
-            else:
-                embedding_vector = self.get_vector(word, word2vec_model)
-                if embedding_vector is not None:
-                    embedding_matrix[index] = embedding_vector
         return embedding_matrix
-
-    #Get vector
-    def get_vector(self, word, word2vec_model):
-        if word in word2vec_model:
-            return word2vec_model[word]
-        else:
-            return None
 
     # pad sentences
     def pad_sentences(self):
@@ -113,7 +111,7 @@ class Train(object):
 
     def train_model(self,model_file=MODEL_NAME):
         if not self.ignore:
-            self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=80, verbose =1)
+            self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=20, verbose =1)
             self.model.save(PROCESSED_DATA_PATH + model_file)
             self.plot_history()
         return max(self.history.history['acc']), max(self.history.history['val_acc'])
@@ -196,7 +194,7 @@ class Train(object):
     # Generates model for SentenceClassifier
     def generate_sentence_classifier_model(self):
         model = Sequential()
-        model.add(Embedding(self.vocabulary_size, 300, input_length=self.sentence_length, weights=[self.embedding_matrix],
+        model.add(Embedding(self.vocabulary_size, 200, input_length=self.sentence_length, weights=[self.embedding_matrix],
                       trainable=True))
         model.add(Dropout(0.2))
         model.add(Conv1D(64, 5, activation='relu'))
@@ -223,7 +221,7 @@ class Train(object):
     # Generates model for BinarySentenceClassifier
     def generate_binary_sentence_classifier_model(self):
         model = Sequential()
-        model.add(Embedding(self.vocabulary_size, 300, input_length=self.sentence_length, weights=[self.embedding_matrix],trainable=True))
+        model.add(Embedding(self.vocabulary_size, 200, input_length=self.sentence_length, weights=[self.embedding_matrix],trainable=True))
         model.add(Dropout(0.2))
         # model.add(Conv1D(64,5, activation='relu'))
         # model.add(MaxPooling1D(pool_size=4))

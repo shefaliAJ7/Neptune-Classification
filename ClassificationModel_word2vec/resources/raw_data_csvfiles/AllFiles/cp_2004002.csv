@@ -1,0 +1,366 @@
+label,text,line,start_pos,end_pos,file
+U,21-Apr-04,0,0,14,cp_2004002.txt
+U,"Mr. M. R. Blevins, Senior Vice President and Principal Nuclear Officer TXU Energy ATTN: Regulatory Affairs Comanche Peak Steam Electric Station P.O.",2,0,148,cp_2004002.txt
+U,"Box 1002 Glen Rose, Texas 76043 SUBJECT: COMANCHE PEAK STEAM ELECTRIC STATION - NRC INTEGRATED INSPECTION REPORT 05000445/2004002 AND 05000446/2004002 Dear Mr. Blevins: On March 24, 2004, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at your Comanche Peak Steam Electric Station, Units 1 and 2, facility.",2,148,475,cp_2004002.txt
+U,"The enclosed integrated inspection report documents the inspection findings which were discussed on March 30, 2004, with Mr. J. J. Kelley and other members of your staff.",2,475,645,cp_2004002.txt
+U,This inspection examined activities conducted under your licenses as they related to safety and compliance with the Commission's rules and regulations and with the conditions of your licenses.,2,645,837,cp_2004002.txt
+U,"Within these areas, the inspection consisted of selected examination of procedures and representative records, observations of activities, and interviews with personnel.",2,837,1006,cp_2004002.txt
+U,"Based on the results of this inspection, no findings of significance were identified.",2,1006,1091,cp_2004002.txt
+U,"In accordance with 10 CFR 2.390 of the NRC's ""Rules of Practice,"" a copy of this letter and its enclosure will be made available electronically for public inspection in the NRC Public Document Room or from the Publicly Available Records (PARS) component of NRC's document system (ADAMS).",2,1091,1378,cp_2004002.txt
+U,ADAMS is accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html (the Public Electronic Reading Room).,2,1378,1501,cp_2004002.txt
+U,"Should you have any questions concerning this inspection, we will be pleased to discuss them with you.",2,1501,1603,cp_2004002.txt
+U,"Sincerely, /RA/ William D. Johnson, Chief Project Branch A Division of Reactor Projects",2,1603,1690,cp_2004002.txt
+U,TXU Electric Dockets: 50-445 50-446 Licenses: NPF-87 NPF-89,4,0,60,cp_2004002.txt
+U,-2-,6,0,3,cp_2004002.txt
+U,Enclosure: NRC Inspection Report 05000445/2004002 and 05000446/2004002 w/attachment: Supplemental Information cc w/enclosure: Fred W. Madden Regulatory Affairs Manager TXU Generation Company LP P.O.,8,0,198,cp_2004002.txt
+U,"Box 1002 Glen Rose, TX 76043 George L. Edgar, Esq.",8,198,248,cp_2004002.txt
+U,"Morgan Lewis 1111 Pennsylvania Avenue, NW Washington, DC 20004 Terry Parks, Chief Inspector Texas Department of Licensing and Regulation Boiler Program P.O.",8,248,404,cp_2004002.txt
+U,"Box 12157 Austin, TX 78711 The Honorable Walter Maynard Somervell County Judge P.O.",8,404,487,cp_2004002.txt
+U,"Box 851 Glen Rose, TX 76043 Richard A. Ratliff, Chief Bureau of Radiation Control Texas Department of Health 1100 West 49th Street Austin, TX 78756-3189 Environmental and Natural Resources Policy Director Office of the Governor P.O.",8,487,719,cp_2004002.txt
+U,"Box 12428 Austin, TX 78711-3189",8,719,750,cp_2004002.txt
+U,TXU Electric Brian Almon Public Utility Commission William B. Travis Building P.O.,10,0,83,cp_2004002.txt
+U,"Box 13326 1701 North Congress Avenue Austin, TX 78711-3326",10,83,141,cp_2004002.txt
+U,-3-,12,0,3,cp_2004002.txt
+U,"Susan M. Jablonski Office of Permitting, Remediation and Registration Texas Commission on Environmental Quality MC-122 P.O.",14,0,123,cp_2004002.txt
+U,"Box 13087 Austin, TX 78711-3087 Technological Services Branch Chief FEMA Region VI 800 North Loop 288 Federal Regional Center Denton, TX 76209-3698",14,123,270,cp_2004002.txt
+U,TXU Electric,16,0,13,cp_2004002.txt
+U,-4-,18,0,3,cp_2004002.txt
+U,"Electronic distribution by RIV: Regional Administrator (BSM1) DRP Director (ATH) DRS Director (DDC) Senior Resident Inspector (DBA) Branch Chief, DRP/A (WDJ) Senior Project Engineer, DRP/A (TRF) Staff Chief, DRP/TSS (PHH) RITS Coordinator (KEG) Rebecca Tadesse, OEDO RIV Coordinator (RXT) CP Site Secretary (ESS) Dale Thatcher (DFT) W. A. Maier, RSLO (WAM) NRR/DIPM/EPB/EPHP (EWW) NRR/DIPM/EPB/EPHP (REM2) E-mail Section 4OA5 (1.)",20,0,430,cp_2004002.txt
+U,of IR to NRR/DE/EMCB (ALH1 and MXM2),20,430,466,cp_2004002.txt
+U,ADAMS: W Yes * No Initials: _WDJ___ W Publicly Available * Non-Publicly Available * Sensitive W Non-Sensitive R:\_CPSES\2004\CP2004-02RP-DBA.wpd RIV:RI:DRP/A SRI:DRP/A SRI:DRP/A AASanchez JCruz DBAllen T-WDJ E-WDJ T-WDJ 4/12/04 4/12/04 4/12/04 C:DRS/PSB C:DRP/A MPShannon WDJohnson /RA/ /RA/ 4/21/04 4/21/04 OFFICIAL RECORD COPY,22,0,328,cp_2004002.txt
+U,C:DRS/PEB LJSmith /ra/ 4/20/04,24,0,30,cp_2004002.txt
+U,C:DRS/EB CSMarschall JITapia For 4/20/04,26,0,40,cp_2004002.txt
+U,C:DRS/OB ATGody /RA/ 4/21/04,28,0,28,cp_2004002.txt
+U,T=Telephone,30,0,11,cp_2004002.txt
+U,E=E-mail,32,0,8,cp_2004002.txt
+U,F=Fax,34,0,5,cp_2004002.txt
+U,"ENCLOSURE U.S. NUCLEAR REGULATORY COMMISSION REGION IV Dockets: Licenses: Report: Licensee: Facility: Location: Dates: Inspectors: 50-445, 50-446 NPF-87, NPF-89 05000445/2004002 and 05000446/2004002 TXU Generation Company LP Comanche Peak Steam Electric Station, Units 1 and 2 FM-56, Glen Rose, Texas January 1 through March 24, 2004 D. B. Allen, Senior Resident Inspector A.",36,0,376,cp_2004002.txt
+U,"A. Sanchez, Resident Inspector J. Cruz, Senior Resident Inspector P. A. Goldberg, Reactor Inspector, Plant Engineering Branch Gerald Waig, Nuclear Systems Engineer Division of Incident Response Operations Office of Nuclear Security and Incident Response Veronica Klein, Nuclear Safety Intern Office of Nuclear Reactor Regulation Approved by: Attachment: W. D. Johnson, Chief, Project Branch A Division of Reactor Projects Supplemental Information",36,376,822,cp_2004002.txt
+U,Accompanying Personnel:,38,0,23,cp_2004002.txt
+U,Enclosure,40,0,9,cp_2004002.txt
+U,"SUMMARY OF FINDINGS Comanche Peak Steam Electric Station, Units 1 and 2 NRC Inspection Report 05000445/2004002, 05000446/2004002 IR 05000445/2004002, 05000446/2004002; 01/01/2004-03/24/2004; Comanche Peak Steam Electric Station, Units 1 & 2; Integrated Resident Report.",42,0,270,cp_2004002.txt
+U,This report covered a 3-month period of inspection by resident inspectors and a Regional inspector.,42,270,369,cp_2004002.txt
+U,No findings of significance were identified.,42,369,413,cp_2004002.txt
+U,"The NRC's program for overseeing the safe operation of commercial nuclear power reactors is described in NUREG-1649, ""Reactor Oversight Process,"" Revision 3, dated July 2000.",42,413,587,cp_2004002.txt
+U,A. NRC-Identified and Self-Revealing Findings None B. Licensee Identified Violations None,42,587,676,cp_2004002.txt
+U,Enclosure,44,0,9,cp_2004002.txt
+U,REPORT DETAILS Summary of Plant Status Comanche Peak Steam Electric Station (CPSES) Unit 1 began the period at essentially 100 percent power.,46,0,142,cp_2004002.txt
+U,"On February 11, power was reduced to approximately 85 percent to repair the turbine control system.",46,142,241,cp_2004002.txt
+U,The unit returned to full power and operated at essentially full power for the remainder of the report period.,46,241,351,cp_2004002.txt
+U,Comanche Peak Steam Electric Station Unit 2 operated at essentially 100 percent power for the entire report period.,46,351,466,cp_2004002.txt
+U,1,46,466,468,cp_2004002.txt
+U,"REACTOR SAFETY Cornerstones: Initiating Events, Mitigating Systems, and Barrier Integrity 1R01 Adverse Weather Protection (71111.01) a.",46,468,603,cp_2004002.txt
+U,"Inspection Scope The inspectors reviewed Station Administrative Procedure (STA) STA-634, ""Extreme Temperature Equipment Protection Program,"" Revision 3, and Abnormal Conditions Procedure (ABN) ABN-912, ""Cold Weather Preparations/Heat Tracing and Freeze Protection System Malfunction,"" Revision 6, to determine if these procedures were adequate to ensure that safety-related equipment would remain operable during freezing weather.",46,603,1033,cp_2004002.txt
+U,"On January 29, 2004, the inspectors reviewed the control room log of activities associated with the ABN-912 preparations.",46,1033,1154,cp_2004002.txt
+U,The inspectors performed partial walkdowns of the following two systems and areas in each unit to verify that the freeze protection measures in ABN-912 had been implemented prior to the onset of freezing conditions.,46,1154,1369,cp_2004002.txt
+U,åá åá b.,46,1369,1375,cp_2004002.txt
+U,"Units 1 and 2 electrical area supply fans, exhaust fans, and interlocked dampers Units 1 and 2 emergency diesel generator rooms",46,1375,1502,cp_2004002.txt
+U,Findings No findings of significance were identified.,48,0,53,cp_2004002.txt
+U,1R04 Equipment Alignment (71111.04) .1 a.,50,0,41,cp_2004002.txt
+U,Partial System Walkdown Inspection Scope The inspectors conducted partial walkdowns of the following three risk-significant systems to verify that they were in their proper standby alignment as defined by system operating procedures and system drawings.,50,41,294,cp_2004002.txt
+U,"During the walkdowns, inspectors Enclosure",50,294,336,cp_2004002.txt
+U,-2examined system components for materiel conditions that could degrade system performance.,52,0,92,cp_2004002.txt
+U,"In addition, the inspectors evaluated the effectiveness of the licensee's problem identification and resolution program in resolving issues which could increase event initiation frequency or impact mitigating system availability.",52,92,321,cp_2004002.txt
+U,"åá Unit 2 Train B motor-driven auxiliary feedwater system in accordance with System Operating Procedure (SOP) SOP-304B, ""Auxiliary Feedwater System,"" Revision 9, while the Train A motor-driven auxiliary feedwater pump was inoperable due to scheduled surveillance testing on January 15, 2004 Unit 1 Train A containment spray system in accordance with SOP-204A, ""Containment Spray System,"" Revision 13, and Operations Testing Procedure (OPT) OPT-205A, ""Containment Spray System,"" Revision 13, while the Train B containment spray system was inoperable due to scheduled maintenance on January 28, 2004 Unit 1 Train B residual heat removal system in accordance with OPT-203A, ""Residual Heat Removal System,"" Revision 14, prior to commencing surveillance testing of Train A residual heat removal system on March 11, 2004",52,321,1134,cp_2004002.txt
+U,åá,54,0,1,cp_2004002.txt
+U,åá,56,0,1,cp_2004002.txt
+U,b.,58,0,2,cp_2004002.txt
+U,Findings No findings of significance were identified.,60,0,53,cp_2004002.txt
+U,.2 a.,62,0,5,cp_2004002.txt
+U,"Detailed Semiannual Walkdown Inspection Scope The inspectors conducted a detailed semiannual inspection of the Unit 1 Train B emergency diesel generator using SOP-609A, ""Diesel Generator System,"" Revision 15, and system drawings to ascertain if the system and its operating procedures were in accordance with the design and licensing bases of the system.",64,0,354,cp_2004002.txt
+U,"Outstanding maintenance work requests, and design issues were reviewed to determine if any impacted the system's ability to operate as designed.",64,354,498,cp_2004002.txt
+U,"The system engineer was interviewed concerning the diesel generator's maintenance history, current and long range plans to modify and update all diesel generator control systems, and system health reports.",64,498,703,cp_2004002.txt
+U,"A walkdown of the mechanical and electrical subsystems was performed independently as well as with the system engineer on March 2-4, 2004. b.",64,703,844,cp_2004002.txt
+U,Findings No findings of significance were identified.,64,844,897,cp_2004002.txt
+U,Enclosure,66,0,9,cp_2004002.txt
+U,-31R05 Fire Protection (71111.05) .1 a.,68,0,40,cp_2004002.txt
+U,"Fire Area Tours Inspection Scope The inspectors assessed the licensee's control of transient combustible materials, the materiel condition and lineup of fire detection and suppression systems, and the materiel condition of manual fire equipment and passive fire barriers during tours of the following six risk-significant areas.",68,40,368,cp_2004002.txt
+U,"The licensee's fire preplans and Fire Hazards Analysis Report were used to identify important plant equipment, fire loading, detection and suppression equipment locations, and planned actions to respond to a fire in each of the plant areas selected.",68,368,617,cp_2004002.txt
+U,Compensatory measures for degraded equipment were evaluated for effectiveness.,68,617,695,cp_2004002.txt
+U,"åá Fire Zone 1SB004 - Unit 1 safeguards building corridor 790 foot elevation on February 3, 2004 Fire Zone 1SK017A,B,C - Unit 1 main steam and feedwater penetration areas on February 18, 2004 Fire Zone 2SK017A,B,C - Unit 2 main steam and feedwater penetration areas on February 24, 2004 Fire Zone 1SB015 - Unit 1 safeguards building main corridor and containment access corridor 831 foot elevation on February 26, 2004 Fire Zone AA21F - Auxiliary building 852 foot elevation on February 27, 2004 Fire Zone 2SB015 - Unit 2 safeguards building main corridor and containment access corridor 831 foot elevation on March 5, 2004",68,695,1317,cp_2004002.txt
+U,åá,70,0,1,cp_2004002.txt
+U,åá,72,0,1,cp_2004002.txt
+U,åá,74,0,1,cp_2004002.txt
+U,åá åá,76,0,3,cp_2004002.txt
+U,b.,78,0,2,cp_2004002.txt
+U,Findings No findings of significance were identified.,80,0,53,cp_2004002.txt
+U,.2 a.,82,0,5,cp_2004002.txt
+U,"Annual Fire Drill Inspection Scope The inspectors observed the plant fire brigade during a fire drill on February 2, 2004, to assess its ability to fight fires.",84,0,160,cp_2004002.txt
+U,"The fire drill consisted of a fire in the Unit 2 nonsafetyrelated switchgear area, which is also the primary staging area for the fire brigade's equipment.",84,160,315,cp_2004002.txt
+U,The drill tested the firefighters' ability to use the equipment stored in the secondary equipment staging area.,84,315,426,cp_2004002.txt
+U,Observations focused on the following aspects of the drill:,84,426,485,cp_2004002.txt
+U,Enclosure,86,0,9,cp_2004002.txt
+U,"-4åá åá åá Protective clothing/turnout gear is properly donned Self-contained breather apparatus equipment is properly worn and used Fire hose lines are capable of reaching all necessary fire hazard locations, the hose lines are laid out without flow constrictions, the hose is simulated being charged with water, and the nozzle is pattern (flow stream) tested prior to entering the fire area of concern.",88,0,402,cp_2004002.txt
+U,"The fire area of concern is entered in a controlled manner (e.g., fire brigade members stay low to the floor and feel the door for heat prior to entry into the fire area of concern).",88,402,584,cp_2004002.txt
+U,Sufficient firefighting equipment is brought to the scene by the fire brigade to properly perform their firefighting duties.,88,584,708,cp_2004002.txt
+U,"The fire brigade leader's firefighting directions are thorough, clear, and effective.",88,708,793,cp_2004002.txt
+U,Radio communications with the plant operators and between fire brigade members are efficient and effective.,88,793,900,cp_2004002.txt
+U,Members of the fire brigade check for fire victims and propagation into other plant areas.,88,900,990,cp_2004002.txt
+U,Effective smoke removal operations were simulated.,88,990,1040,cp_2004002.txt
+U,The firefighting pre-plan strategies were utilized.,88,1040,1091,cp_2004002.txt
+U,The licensee pre-planned drill scenario was followed and the drill objectives acceptance criteria were met.,88,1091,1198,cp_2004002.txt
+U,åá,90,0,1,cp_2004002.txt
+U,åá,92,0,1,cp_2004002.txt
+U,åá åá,94,0,3,cp_2004002.txt
+U,åá,96,0,1,cp_2004002.txt
+U,åá åá åá,98,0,5,cp_2004002.txt
+U,b.,100,0,2,cp_2004002.txt
+U,Findings No findings of significance were identified.,102,0,53,cp_2004002.txt
+U,1R06 Flood Protection Measures (71111.06) a.,104,0,44,cp_2004002.txt
+U,Inspection Scope The inspectors conducted an inspection of flood protection measures at Comanche Peak.,104,44,146,cp_2004002.txt
+U,This included a review of flood analysis documentation and calculations to determine areas in the plant susceptible to flooding from internal sources.,104,146,296,cp_2004002.txt
+U,"Based on that review and a review of the probabilistic risk assessment, a walkdown of the Units 1 and 2 turbine buildings, 778' elevation, was performed on February 24, 2004, to assess the adequacy of flood protection measures regarding the postulated failure of a main condenser circulating water expansion joint.",104,296,610,cp_2004002.txt
+U,The walkdown included determining whether mitigating systems defined in the flood analysis were in place and functional.,104,610,730,cp_2004002.txt
+U,Enclosure,104,730,739,cp_2004002.txt
+U,"-5A walkdown of the electrical control building, 778' elevation, Rooms X-113, X-115C, and X-115D, was performed on March 16, 2004, to assess the adequacy of flood protection measures regarding the postulated high energy line break in Room X-113 and associated sprinkler system actuation.",106,0,288,cp_2004002.txt
+U,The walkdown included determining whether mitigating systems defined in the flood analysis were in place and functional.,106,288,408,cp_2004002.txt
+U,b.,106,408,410,cp_2004002.txt
+U,Findings No findings of significance were identified.,106,410,463,cp_2004002.txt
+U,1R11 Licensed Operator Requalification (71111.11) a.,106,463,515,cp_2004002.txt
+U,"Inspection Scope The inspectors observed a licensed operator evaluation session in the control room simulator and attended the critique on February 5, 2004.",106,515,671,cp_2004002.txt
+U,"The scenario included: a failure of a steam generator level transmitter, a trip of one train of station service water, the closure of a main steam isolation valve, a loss of offsite power, and a failure of one of the emergency diesel generators upon the loss of offsite power.",106,671,947,cp_2004002.txt
+U,"Simulator observations included formality and clarity of communications, group dynamics, the conduct of operations, procedure usage, command and control, and activities associated with the emergency plan.",106,947,1151,cp_2004002.txt
+U,"The inspectors also attended and reviewed a classroom session concerning the emergency diesel generator system on February 4, 2004. b.",106,1151,1285,cp_2004002.txt
+U,Findings No findings of significance were identified.,106,1285,1338,cp_2004002.txt
+U,1R12 Maintenance Rule Implementation (71111.12) .1 a.,106,1338,1391,cp_2004002.txt
+U,"Routine Maintenance Effectiveness Inspection Inspection Scope The inspectors independently verified that CPSES personnel properly implemented 10 CFR 50.65, ""Requirements for Monitoring the Effectiveness of Maintenance at Nuclear Power Plants,"" for two equipment performance problems: åá The 345 kV East bus exceeded the unavailable performance criteria and was placed into the a(1) category of 10 CFR 50.65.",106,1391,1797,cp_2004002.txt
+U,This was placed into the corrective action program as Smart Form (SMF) SMF-2003-000105-00.,106,1797,1887,cp_2004002.txt
+U,"The emergent replacement of the hydraulic pressure switch and the limit switch for Unit 2 Feedwater Isolation Valve 2-HV-2134, in which the unavailable",106,1887,2038,cp_2004002.txt
+U,åá,108,0,1,cp_2004002.txt
+U,Enclosure,110,0,9,cp_2004002.txt
+U,-6performance criterion was exceeded.,112,0,38,cp_2004002.txt
+U,The Unit 2 feedwater system was placed into the a(1) category of 10 CFR 50.65.,112,38,116,cp_2004002.txt
+U,This was placed into the corrective action program as SMF-2003-003529-00.,112,116,189,cp_2004002.txt
+U,The inspectors also independently verified that the corrective actions and responses were appropriate and adequate.,112,189,304,cp_2004002.txt
+U,"The inspectors reviewed whether the structures, systems, or components (SSCs) were properly characterized in the scope of the Maintenance Rule Program and whether the SSC failure or performance problem was properly characterized.",112,304,533,cp_2004002.txt
+U,The inspectors assessed the appropriateness of the performance criteria established for the SSCs where applicable.,112,533,647,cp_2004002.txt
+U,b.,112,647,649,cp_2004002.txt
+U,Findings No findings of significance were identified.,112,649,702,cp_2004002.txt
+U,.2 a.,112,702,707,cp_2004002.txt
+U,Periodic Evaluation Reviews Inspection Scope The inspectors reviewed the Comanche Peak report documenting the performance of the last maintenance rule periodic effectiveness evaluation to confirm that it was performed in accordance with 10 CFR 50.65(a)(3).,112,707,963,cp_2004002.txt
+U,"The licensee's periodic evaluation covered the period from June 16, 2001, through March 21, 2003.",112,963,1060,cp_2004002.txt
+U,The inspectors reviewed the handling of risk significant SSCs with degraded performance or degraded condition to assess the effectiveness of the licensee's evaluation and the resulting corrective actions.,112,1060,1264,cp_2004002.txt
+U,"Inspection Procedure 71111.12, ""Maintenance Effectiveness,"" requires 3-5 risk significant examples.",112,1264,1363,cp_2004002.txt
+U,"The inspectors reviewed 6 examples: emergency diesel generators, emergency diesel generator fuel oil system, emergency diesel generator room heating, ventilation, and air conditioning (HVAC) system, auxiliary feedwater system, service water system, and 6.9kV Class 1E AC power system.",112,1363,1647,cp_2004002.txt
+U,"Additionally, the performance of nonrisk-significant functions were monitored using plant level criteria.",112,1647,1752,cp_2004002.txt
+U,"The inspectors evaluated the use of performance history and industry experience to adjust the preventive maintenance requirements, to adjust (a)(1) goals and to adjust the (a)(2) performance criteria.",112,1752,1952,cp_2004002.txt
+U,"The inspectors assessed the licensee's adjustment of the scope of the maintenance rule, the licensee's adjustment of the definition of maintenance rule functional failures, the licensee's adjustment of definitions of available/unavailable hours and required hours, and the licensee's review and adjustment of condition-monitoring parameters and action levels.",112,1952,2311,cp_2004002.txt
+U,Enclosure,114,0,9,cp_2004002.txt
+U,-7The inspectors also reviewed the conclusions reached by licensee personnel with regard to the balance of reliability and unavailability for specific maintenance rule functions.,116,0,179,cp_2004002.txt
+U,This review was conducted by examining the licensee's evaluation of all risk significant functions that had exceeded performance criteria during the evaluation period.,116,179,346,cp_2004002.txt
+U,b.,116,346,348,cp_2004002.txt
+U,Findings No findings of significance were identified.,116,348,401,cp_2004002.txt
+U,.3 a.,116,401,406,cp_2004002.txt
+U,Identification and Resolution of Problems Inspection Scope The inspectors evaluated the use of the corrective action system within the maintenance rule program for issues associated with risk significant systems.,116,406,618,cp_2004002.txt
+U,"The review was accomplished by the examination of a sample of corrective action documents, maintenance work items, and other documents listed in the attachment.",116,618,778,cp_2004002.txt
+U,"The purpose of the review was to establish that the corrective action program was entered at the appropriate threshold for the purpose of: åá Implementation of the corrective action process when a performance criterion was exceeded Correction of performance-related issues or conditions identified during the periodic evaluation Correction of generic issues or conditions identified during programmatic assessments, audits, or surveillances",116,778,1217,cp_2004002.txt
+U,åá,118,0,1,cp_2004002.txt
+U,åá,120,0,1,cp_2004002.txt
+U,The purpose of the review was to determine that the identification of problems and implementation of corrective actions were acceptable.,122,0,136,cp_2004002.txt
+U,b.,122,136,138,cp_2004002.txt
+U,Findings No findings of significance were identified.,122,138,191,cp_2004002.txt
+U,1R13 Maintenance Risk Assessments and Emergent Work Evaluation (71111.13) a.,122,191,267,cp_2004002.txt
+U,Inspection Scope The inspectors reviewed five selected activities regarding risk evaluations and overall plant configuration control.,122,267,400,cp_2004002.txt
+U,"The inspectors discussed emergent work issues with work control personnel and reviewed the potential risk impact of these activities to verify that the work was adequately planned, controlled, and executed.",122,400,606,cp_2004002.txt
+U,The activities reviewed were associated with:,122,606,651,cp_2004002.txt
+U,Enclosure,124,0,9,cp_2004002.txt
+U,"-8åá Emergent work on the Emergency Diesel Generator 2-01 keep warm pump during the Train B workweek of January 19, 2004 Emergent work to adjust limit switch on a Train A valve, Centrifugal Charging Pump 1-01 Alternate Miniflow Isolation Valve 1-8511A, during the Train B workweek of February 2, 2004, to correct a lack of permissive input to open Residual Heat Removal Pump 1-02 to Safety Injection Pumps Suction Valve 1-8804B Emergent expansion of work in the 345 kV switchyard on Breaker 7980 concurrent with scheduled work and testing of Emergency Diesel Generator 1-01 on February 4-7, 2004 Emergent work to repair jacket water leaks on Emergency Diesel Generator 1-01 concurrent with scheduled work in the switchyard and scheduled testing of Motor-Driven Auxiliary Feedwater Pump 1-01 on February 5, 2004 Emergent Emergency Diesel Generator 1-02 inoperability due to unexpected quantity of water found in the crankcase vacuum blower vent line on February 19, 2004",126,0,969,cp_2004002.txt
+U,åá,128,0,1,cp_2004002.txt
+U,åá,130,0,1,cp_2004002.txt
+U,åá,132,0,1,cp_2004002.txt
+U,åá,134,0,1,cp_2004002.txt
+U,b.,136,0,2,cp_2004002.txt
+U,Findings No findings of significance were identified.,138,0,53,cp_2004002.txt
+U,1R15 Operability Evaluations (71111.15) a.,140,0,42,cp_2004002.txt
+U,Inspection Scope The inspectors selected six operability evaluations conducted by CPSES personnel involving risk-significant systems or components.,140,42,189,cp_2004002.txt
+U,"The inspectors evaluated the technical adequacy of the licensee's operability determination, determined whether appropriate compensatory measures were implemented, and determined whether or not other pre-existing conditions were considered, as applicable.",140,189,444,cp_2004002.txt
+U,"Additionally, the inspectors evaluated the adequacy of the CPSES problem identification and resolution program as it applied to operability evaluations.",140,444,596,cp_2004002.txt
+U,"Specific operability evaluations reviewed are listed below: åá Evaluation EVAL-2002-002859-01, evaluate operability of pumps cooled by station service water (centrifugal charging pumps, safety injection pumps, and containment spray pumps) with increased postaccident safe shutdown impoundment temperature following the 1.4 percent power uprate, reviewed on March 8, 2004 Quick Technical Evaluation QTE-2003-003159-01-01, evaluate operability of solid state protection system and containment spray function supplied by",140,596,1112,cp_2004002.txt
+U,åá,142,0,1,cp_2004002.txt
+U,Enclosure,144,0,9,cp_2004002.txt
+U,"-9Containment Pressure Channel 1-P-0934 with Contact 2-10 of test Relay K456 found open during restoration from surveillance test OPT-447A, reviewed on March 9, 2004 åá Evaluation EVAL-2004-000243-01-00, evaluate operability of Emergency Diesel Generator 2-01 with exhaust manifold assembly support bracket bottom bolt found broken, reviewed on March 10, 2004 Quick Technical Evaluation QTE-2004-000268-01-01, evaluate operability of Safety Injection Accumulator 2-04 Sample Valve 2-HV-4174 as a containment isolation valve with known leakage of 120 drops per minute, reviewed on March 10, 2004 Evaluation EVAL-2004-000310-01-00, evaluate operability of Train B sequencer while performing undervoltage relay calibration check with the unit at power, reviewed on March 10, 2004 Evaluation EVAL-2004-000621-01-00, evaluate operability of Emergency Diesel Generator 1-02 with approximately 2 gallons of water found in the crankcase vent line drain, reviewed on March 10, 2004",146,0,972,cp_2004002.txt
+U,åá,148,0,1,cp_2004002.txt
+U,åá,150,0,1,cp_2004002.txt
+U,åá,152,0,1,cp_2004002.txt
+U,b.,154,0,2,cp_2004002.txt
+U,Findings No findings of significance were identified.,156,0,53,cp_2004002.txt
+U,1R16 Operator Workarounds (71111.16) a.,158,0,39,cp_2004002.txt
+U,"Inspection Scope During the week of March 15, 2004, the inspectors reviewed the cumulative effects of identified operator workarounds for potential of system misoperation, reliability, and availability.",158,39,241,cp_2004002.txt
+U,The inspectors evaluated the cumulative effects on multiple mitigating systems and the ability of the operators to respond in a correct and timely manner to plant transients and events.,158,241,426,cp_2004002.txt
+U,"In addition, compensatory actions for equipment problems, shift orders, and caution tags were reviewed to determine that CPSES personnel were identifying operator workarounds at an appropriate threshold and that the equipment problems were identified in the corrective action program.",158,426,710,cp_2004002.txt
+U,b.,158,710,712,cp_2004002.txt
+U,Findings No findings of significance were identified.,158,712,765,cp_2004002.txt
+U,Enclosure,160,0,9,cp_2004002.txt
+U,-101R19 Postmaintenance Testing (71111.19) a.,162,0,46,cp_2004002.txt
+U,"Inspection Scope The inspectors witnessed or reviewed the results of the postmaintenance tests for the following four maintenance activities: åá Unit 1 Residual Heat Removal Pump 1-01 motor and valve inspection and maintenance in accordance with OPT 203A, ""Residual Heat Removal System,"" Revision 14, on January 15, 2004 Unit 2 Emergency Diesel Generators 2-01 and 2-02 following starting air receiver check valve disassembly and inspection in accordance with OPT-517B, ""DG Starting Air Receiver Check Valve Test,"" Revision 6, on January 21, 2004 Preventive maintenance on Unit 1 containment personnel airlock and Operability Test OPT-802A, ""Appendix J Leak Rate Test of Personnel Airlock Door Seals,"" Revision 3, on January 22, 2004 Unit 2 Train B containment spray pump surveillance in accordance with OPT-205B, ""Containment Spray System,"" Revision 11, following replacement of the inboard mechanical seal of Containment Spray Pump 2-04, performed on March 16, 2004",162,46,1012,cp_2004002.txt
+U,åá,164,0,1,cp_2004002.txt
+U,åá,166,0,1,cp_2004002.txt
+U,åá,168,0,1,cp_2004002.txt
+U,"In each case, the associated work orders and test procedures were reviewed in accordance with the inspection procedure to determine the scope of the maintenance activity and determine if the testing was adequate to verify equipment operability.",170,0,244,cp_2004002.txt
+U,b.,170,244,246,cp_2004002.txt
+U,Findings No findings of significance were identified.,170,246,299,cp_2004002.txt
+U,1R22 Surveillance Testing (71111.22) a.,170,299,338,cp_2004002.txt
+U,"Inspection Scope The inspectors evaluated the adequacy of periodic testing of important nuclear plant equipment, including aspects such as preconditioning, the impact of testing during plant operations, and the adequacy of acceptance criteria.",170,338,581,cp_2004002.txt
+U,"Other aspects evaluated included test frequency and test equipment accuracy, range, and calibration; procedure adherence; record keeping; the restoration of standby equipment; test failure evaluations; and the effectiveness of the licensee's problem identification and correction program.",170,581,869,cp_2004002.txt
+U,"The following six surveillance test activities were observed and reviewed by the inspectors: åá Unit 2 Motor-Driven Auxiliary Feedwater Pump 2-01, in accordance with OPT-206B, ""AFW System,"" Revision 15, on January 15, 2004 Enclosure",170,869,1100,cp_2004002.txt
+U,"-11åá Unit 1 Centrifugal Charging Pump 1-02, in accordance with OPT-201A, ""Charging System,"" Revision 13, on January 19, 2004 Unit 2 Residual Heat Removal Pump 2-02, in accordance with OPT-203B, ""Residual Heat Removal System,"" Revision 10, on February 19, 2004 Unit 1 Train B solid state protection system, in accordance with OPT-448A, ""Mode 1,3 and 4 Train B SSPS Actuation Logic Test,"" Revision 6, on February 23, 2004 Unit 2 Train A containment spray system, in accordance with OPT-205B, ""Containment Spray System,"" Revision 11, on March 2, 2003 Testing of Unit 1 Main Steam Safety Valves 1MS-0022, 1MS-0025, 1MS-0058, 1MS-0061, 1MS-0062, 1MS-0096, 1MS-00131, and 1MS-00133 in accordance with Maintenance Section - Mechanical procedure MSM-S0-8702, ""Main Steam Safety Valve Testing,"" Revision 3, on March 24, 2003",172,0,816,cp_2004002.txt
+U,åá,174,0,1,cp_2004002.txt
+U,åá,176,0,1,cp_2004002.txt
+U,åá,178,0,1,cp_2004002.txt
+U,åá,180,0,1,cp_2004002.txt
+U,b.,182,0,2,cp_2004002.txt
+U,Findings No findings of significance were identified.,184,0,53,cp_2004002.txt
+U,1R23 Temporary Plant Modifications (71111.23) a.,186,0,48,cp_2004002.txt
+U,Inspection Scope The inspectors reviewed the following temporary modification and associated documentation.,186,48,155,cp_2004002.txt
+U,The temporary modification was verified to be installed and administratively controlled in accordance with plant documentation and procedures.,186,155,297,cp_2004002.txt
+U,åá Installation of a new version (trial) pre-amplifier card in the N16 Radiation Detector 1-RE-2327A circuit for Main Steam Line 1-03 steam generator leak rate monitor detection system.,186,297,481,cp_2004002.txt
+U,"The card was installed in accordance with Maintenance Department Administrative Procedure MDA-111, ""Maintenance Department Troubleshooting Activities,"" Revision 3.",186,481,644,cp_2004002.txt
+U,"The review as completed on March 24, 2004.",186,644,686,cp_2004002.txt
+U,b.,188,0,2,cp_2004002.txt
+U,Findings No findings of significance were identified.,190,0,53,cp_2004002.txt
+U,Cornerstone: Emergency Preparedness,190,53,88,cp_2004002.txt
+U,Enclosure,192,0,9,cp_2004002.txt
+U,-121EP6 Drill Evaluation (71114.06) a.,194,0,39,cp_2004002.txt
+U,"Inspection Scope The inspectors observed the emergency exercise conducted on February 12, 2004, with the Blue Team.",194,39,154,cp_2004002.txt
+U,"Observations were conducted in the simulator control room and the emergency operations facility and included opportunities for emergency classification, offsite notification, and protective action recommendations during the scenario.",194,154,387,cp_2004002.txt
+U,"This evaluation included reviewing the scenario drill objectives, observing licensee performance in emergency facilities, observing the licensee's critique, reviewing the Smart Forms generated for the exercise, and discussing the observations and the licensee's findings with the emergency preparedness manager.",194,387,698,cp_2004002.txt
+U,b.,194,698,700,cp_2004002.txt
+U,Findings No findings of significance were identified.,194,700,753,cp_2004002.txt
+U,4,194,753,755,cp_2004002.txt
+U,OTHER ACTIVITIES,194,755,771,cp_2004002.txt
+U,4OA1 Performance Indicator Verification (71151) Initiating Events a.,196,0,68,cp_2004002.txt
+U,"Inspection Scope The inspectors reviewed a sample of performance indicator data submitted by the licensee regarding the initiating events cornerstone to verify that the licensee's data was reported in accordance with the requirements of Nuclear Energy Institute NEI 99-02, ""Regulatory Assessment Performance Indicator Guideline,"" Revision 2.",196,68,409,cp_2004002.txt
+U,"The sample included data taken from control room operator logs, the SMF database, the December 2003 Plant Performance Report, and licensee event reports for January through December 2003, for both Units 1 and 2 for the following performance indicators: åá åá åá Unplanned scrams per 7,000 critical hours Unplanned scrams with loss of normal heat removal Unplanned power changes per 7,000 critical hours",196,409,808,cp_2004002.txt
+U,"During plant tours, inspectors periodically determined if access to high radiation areas was properly controlled and if potentially unmonitored release pathways were present.",198,0,174,cp_2004002.txt
+U,b.,198,174,176,cp_2004002.txt
+U,Findings No findings of significance were identified.,198,176,229,cp_2004002.txt
+U,Enclosure,200,0,9,cp_2004002.txt
+U,-134OA2 Problem Identification and Resolution (71152) a.,202,0,57,cp_2004002.txt
+P,Inspection Scope The inspectors performed a detailed review of the licensee's identification and resolution of a condition documented in SMF-2003-002902-00 where the system operating procedure did not give adequate guidance to allow the cross-connection of the X-01 and X-02 station service water traveling screen wash systems in the manual mode.,202,57,403,cp_2004002.txt
+U,"The inspectors interviewed operations personnel, the system engineer, the operations support manager, and a member of his staff.",202,403,531,cp_2004002.txt
+U,"The inspectors also reviewed several SMFs (condition reports), various procedures associated with the issue, system and logic drawings, vendor design drawings, vendor pump curves, work orders, and clearances.",202,531,739,cp_2004002.txt
+U,b.,202,739,741,cp_2004002.txt
+O,"Findings and Observations No findings of significance were identified; however, the inspectors identified that the licensee failed to properly identify the root cause and took inadequate corrective action, which resulted in the development of an inadequate procedure.",202,741,1008,cp_2004002.txt
+O,The licensee failed to perform the proper engineering design reviews and misinterpreted the design basis document for the station service water screen wash system.,202,1008,1171,cp_2004002.txt
+U,"During the week of September 28 through October 4, 2003, the Station Service Water Screen Wash Pump X-02 was being rebuilt.",202,1171,1294,cp_2004002.txt
+U,"During this time, operators used SOP501A, ""Station Service Water System,"" Revision 13, to cross-connect Pump X-01 to wash Traveling Screens X-02.",202,1294,1439,cp_2004002.txt
+U,"After 2 days of successful operation, Screen Wash Pump X-01 tripped several times when the operators tried to cross-connect Pump X-01 to Traveling Screens X-02.",202,1439,1599,cp_2004002.txt
+U,"Operations recognized that the procedure valved out the discharge pressure switch, which provided a pump run permissive, and assumed that the only reason that the procedure had worked the past couple of days was because the discharge pressure switch was not functioning properly.",202,1599,1878,cp_2004002.txt
+U,SMF-2003-002902-00 was generated to document this issue.,202,1878,1934,cp_2004002.txt
+U,"Resolution came quickly in the form of a procedure change to SOP-501A, implemented on October 8, 2003.",202,1934,2036,cp_2004002.txt
+U,This procedure change allowed for one screen wash pump to spray both sets of traveling screens simultaneously.,202,2036,2146,cp_2004002.txt
+U,The inspectors questioned whether one screen wash pump could adequately clean both sets of traveling screens.,202,2146,2255,cp_2004002.txt
+U,"The system engineer discovered that one screen wash pump would not be able to supply the 80 psig specified by the traveling screen vendor, and adequate screen wash would not be achieved.",202,2255,2441,cp_2004002.txt
+D,The inspectors also inquired as to the cause of the discharge pressure switch failure.,202,2441,2527,cp_2004002.txt
+U,The system engineer stated that the pressure switch was found to be functioning properly.,202,2527,2616,cp_2004002.txt
+U,"The system engineer discovered that the pressure switch was intended to be bypassed in the manual mode, and the root cause of the Screen Wash Pump X-01 trip was a ""sneak circuit"" that placed the discharge pressure switch back into the control logic every 4 hours for a 25-minute period.",202,2616,2902,cp_2004002.txt
+U,"The ""sneak circuit"" is only present in the Enclosure",202,2902,2954,cp_2004002.txt
+U,-14manual mode when the automatic screen wash system is actuated via the timer.,204,0,80,cp_2004002.txt
+U,"SMF2004-000938-00 was initiated to modify SOP-501A for a one-pump, one-traveling screen operation, and to initiate a request to modify the control circuit to prevent the ""sneak circuit"" from occurring in the manual mode of operation.",204,80,313,cp_2004002.txt
+U,"The inspectors stated to the licensee a concern that, because the screen wash system was not safety-related, it did not receive the attention and effort commensurate with its importance to safety.",204,313,509,cp_2004002.txt
+U,Further review by the licensee revealed an interlock that prevented traveling screen rotation if 80 psig discharge pressure is not achieved and that this interlock was disabled in the manual mode.,204,509,705,cp_2004002.txt
+U,The potential would then exist for the traveling screens to dump their contents directly into the station service water intake bay because of inadequate pressure to clean them.,204,705,881,cp_2004002.txt
+U,This could challenge the operation of the safety-related station service water pumps for both units.,204,881,981,cp_2004002.txt
+U,The licensee subsequently issued SMF-2004-001058-00 to summarize and address all aspects associated with the screen wash system and its current situation.,204,981,1135,cp_2004002.txt
+U,The licensee is currently pursuing appropriate action to resolve this issue.,204,1135,1211,cp_2004002.txt
+O,"The inspectors determined that the licensee failed to correctly identify the ""sneak circuit"" as the cause of the Screen Wash Pump X-01 trips, and took inadequate corrective actions, which generated an inadequate procedure.",204,1211,1433,cp_2004002.txt
+O,The inspectors also determined that the licensee failed to conduct adequate engineering reviews and misinterpreted the design basis document for the station service water screen wash system.,204,1433,1623,cp_2004002.txt
+U,"Because there were no safety consequences and the station service water screen wash system was not safety-related and therefore not within the scope of 10 CFR Part 50, Appendix B, no violations of regulatory requirements or findings were identified.",204,1623,1872,cp_2004002.txt
+U,4OA5 Other Activities 1.,204,1872,1896,cp_2004002.txt
+U,"Reactor Pressure Vessel Head and Vessel Head Penetration Nozzles (NRC Bulletin 2002-02) (Temporary Instruction 2515/150, Revision 1) This Temporary Instruction (TI) provided guidelines to verify compliance with licensee commitments to NRC Bulletin 2002-02, ""Reactor Pressure Vessel Head and Vessel Penetration Nozzle Inspection Programs.""",204,1896,2234,cp_2004002.txt
+U,"According to the licensee's response to NRC Bulletin 2002-02 and the fact that the TI has placed Comanche Peak in the low susceptibility category for primary stress corrosion cracking, a bare metal examination was completed on the Comanche Peak Unit 2 Reactor Pressure Vessel (RPV) upper head and nozzle penetrations during the 2RF07 refueling outage, Fall 2003. a.",204,2234,2599,cp_2004002.txt
+U,Inspection Scope The inspectors performed this performance-based evaluation and assessment to ensure that the NRC had an independent review of the condition of the RPV upper head and the nozzle penetrations.,204,2599,2806,cp_2004002.txt
+U,The inspectors assessed the effectiveness of the licensee examinations of the RPV upper head.,204,2806,2899,cp_2004002.txt
+U,"Specifically, the inspectors: åá Met with licensee representatives to review inspection plans Enclosure",204,2899,3001,cp_2004002.txt
+U,"-15åá åá Attended prejob briefs Directly inspected and assessed the condition of the RPV upper head and the vessel head penetration nozzles via a video camera delivered by the Strategic Teaming and Resource Sharing Alliance (STARS) magnetic crawler (robot) Reviewed a large representative sample of the visual inspection via video tapes of the recorded robotic inspections Assessed the physical difficulties in performing the inspection, which included any debris, dirt, boron, and other viewing impediments Interviewed the examiner and equipment operators Assessed the licensee's ability to distinguish small boron deposits on the RPV upper head Evaluated the quality and resolution of the examination equipment Verified that the licensee documented deficiencies in their corrective action program Assessed the overall effectiveness of the process used to perform the bare metal visual inspection",206,0,896,cp_2004002.txt
+U,åá,208,0,1,cp_2004002.txt
+U,åá,210,0,1,cp_2004002.txt
+U,åá åá,212,0,3,cp_2004002.txt
+U,åá åá,214,0,3,cp_2004002.txt
+U,åá,216,0,1,cp_2004002.txt
+U,"The inspectors also reviewed the following documents during this inspection: åá NRC Bulletin 2002-01, ""Reactor Pressure Vessel Head Degradation and Reactor Coolant Pressure Boundary Integrity,"" dated March 18, 2002 Comanche Peak Steam Electric Station Response to Bulletin 2002-01, ""Reactor Pressure Vessel Head Degradation and Reactor Coolant Pressure Boundary Integrity,"" TXX-02067, dated April 2, 2002 NRC Bulletin 2002-02, ""Reactor Pressure Vessel Head and Vessel Head Penetration Nozzle Inspection Programs,"" dated August 9, 2002 Comanche Peak Steam Electric Station 30-Day Response to Bulletin 2002-02, ""Reactor Pressure Vessel Head and Vessel Head Penetration Nozzle Inspection Programs,"" TXX-02162, dated September 11, 2002 Comanche Peak Steam Electric Station Units 1 and 2, ""Reactor Vessel Head Visual Examination Plan,"" Revision 1",218,0,840,cp_2004002.txt
+U,åá,220,0,1,cp_2004002.txt
+U,åá,222,0,1,cp_2004002.txt
+U,åá,224,0,1,cp_2004002.txt
+U,åá,226,0,1,cp_2004002.txt
+U,Enclosure,228,0,9,cp_2004002.txt
+U,-16b.,230,0,6,cp_2004002.txt
+U,Findings No findings of significance were identified.,230,6,59,cp_2004002.txt
+U,The inspectors concluded that the licensee did meet the applicable commitments in that they performed an inspection of the Unit 2 RPV upper head and 100 percent of the circumference of all vessel head nozzle penetrations and that the inspection was performed by a VT-2 Level III certified examiner.,230,59,357,cp_2004002.txt
+U,"The clarity and resolution of the examination equipment, combined with the training, qualification, and procedures, ensured that the examiners could detect small boron deposits.",230,357,534,cp_2004002.txt
+U,"The inspectors have provided the following details of the inspection as required by TI 2515/150, ""Reactor Pressure Vessel Head and Vessel Head Penetration Nozzles (NRC BULLETIN 2002-02),"" Revision 1, dated January 24, 2003.",230,534,757,cp_2004002.txt
+U,.1 Examination The licensee's examiner was certified in accordance with CPSES procedures to meet the ASME Section XI for VT-2 Level II or III.,230,757,899,cp_2004002.txt
+U,"The examination was conducted in accordance with the ""Reactor Vessel Head Visual Examination Plan,"" Revision 1, approved on October 11, 2003.",230,899,1040,cp_2004002.txt
+U,The bare metal visual inspection was conducted by a tethered magnetic crawler robot.,230,1040,1124,cp_2004002.txt
+U,"This magnetic crawler was a modified version of the magnetic crawler used during the first Unit 2 reactor vessel head inspections during Refueling Outage 2RF06, spring 2002.",230,1124,1297,cp_2004002.txt
+U,These modifications included reducing the overall height of the crawler and the addition of an air nozzle.,230,1297,1403,cp_2004002.txt
+U,"The reduced height allowed for complete inspection with the magnetic crawler, including peripheral penetration tubes, and relegated the articulated video probe to a contingency role.",230,1403,1585,cp_2004002.txt
+U,"The air nozzle was connected to a compressed gas bottle, which allowed for light cleaning of the inspection area and determination of characteristics of any debris encountered.",230,1585,1761,cp_2004002.txt
+U,"Due to the fact that the equipment operators had performed this inspection twice before, they were familiar with the equipment operation and control.",230,1761,1910,cp_2004002.txt
+U,The magnetic crawler robot was named the STARS crawler.,230,1910,1965,cp_2004002.txt
+U,"STARS stands for the Strategic Teaming and Resource Sharing Alliance, and is comprised of six nuclear power plants in Region IV who purchased this crawler for these types of inspections.",230,1965,2151,cp_2004002.txt
+U,The crawler is to be shared among the STARS plants.,230,2151,2202,cp_2004002.txt
+U,"The STARS crawler is capable of operating on the reactor vessel head itself and can provide a very close-up view of the RPV head and vessel head penetration (VHP) nozzles with either of its two cameras, mounted in the front and rear of the crawler.",230,2202,2450,cp_2004002.txt
+U,"The resolution of the cameras aboard the STARS crawler was verified at a distance of about 3 inches (conditions similar to actual inspection conditions) with a neutral gray test card, a Jaeger Character Resolution Card, and a color chart.",230,2450,2688,cp_2004002.txt
+U,"The required resolution of a character height of 0.158 inches, per the inspection plan, was demonstrated.",230,2688,2793,cp_2004002.txt
+U,The examination of the RPV head and VHP nozzles was performed in accordance with the approved examination plan.,230,2793,2904,cp_2004002.txt
+U,There were four licensee personnel performing the exam.,230,2904,2959,cp_2004002.txt
+U,One individual was driving the STARS crawler according to the RPV upper head diagram provided in the examination plan.,230,2959,3077,cp_2004002.txt
+U,Another individual verified crawler position Enclosure,230,3077,3131,cp_2004002.txt
+U,-17with an independent upper head diagram and narrated the video tape.,232,0,71,cp_2004002.txt
+U,"The third individual was the qualified VT-2, Level III, examiner who performed the exam and assisted in verifying magnetic crawler position.",232,71,211,cp_2004002.txt
+U,"The last individual was the quality control inspector, qualified as a VT-2, Level II, examiner.",232,211,306,cp_2004002.txt
+U,The licensee used pictures taken during the previous inspection in Refueling Outage 2RF06 to make comparisons and help determine whether or not any changes had occurred since the last inspection.,232,306,501,cp_2004002.txt
+U,"This was done on the spot, at the time of the inspection, via a notebook that contained pictures of each VHP nozzle and each of the four quadrant views for that VHP nozzle.",232,501,673,cp_2004002.txt
+U,Any discrepancies were documented on the recorded video and new pictures were captured to replace unclear or changed conditions.,232,673,801,cp_2004002.txt
+U,"The inspectors verified that the Reactor Vessel Head Visual Examination Plan provided: (1) description of the bare metal visual inspection technique, the administration of this inspection, and the expectation of 100 percent inspection coverage; (2) explicit descriptions of the types of boric acid indications that might be identified; (3) types of indications that shall be investigated further, including boric acid buildup, wastage of carbon steel, and evidence of primary water leakage; (4) criteria for cleaning the upper head and general area; and (5) acceptance criteria for the inspection.",232,801,1398,cp_2004002.txt
+U,"The inspectors concluded that the inspection plan, combined with the training, had provided adequate guidance for the licensee examiner to identify, disposition, and resolve deficiencies.",232,1398,1585,cp_2004002.txt
+U,"The inspectors determined that the robotic examination, witnessed and reviewed by a VT-2 Level III examiner, enabled easy identification of boundary leakage as described in NRC Bulletin 2002-02 and any RPV upper head corrosion, if present.",232,1585,1824,cp_2004002.txt
+U,".2 Condition of reactor vessel upper head The examination determined that the reactor vessel head outer surface was uniformly coated with a very thin layer of loose, grey dust.",232,1824,2000,cp_2004002.txt
+U,This was consistent with the previous inspection and no change in reactor vessel head outer surface was identified.,232,2000,2115,cp_2004002.txt
+U,A sample of the material had previously been evaluated and was determined to be consistent with concrete dust.,232,2115,2225,cp_2004002.txt
+U,It was concluded that the reactor vessel head surface was sound.,232,2225,2289,cp_2004002.txt
+U,"As identified during the last examination, some penetration tube bases had some small amounts of debris in or near the annulus region.",232,2289,2423,cp_2004002.txt
+U,"During this inspection, these areas were blown clean via the air nozzle on the magnetic crawler and photographs were extracted from the video.",232,2423,2565,cp_2004002.txt
+U,These penetration tube areas did not exhibit characteristics indicative of leakage from within the annulus.,232,2565,2672,cp_2004002.txt
+U,"As noted in previous examinations, there were some indications of past leakage on peripheral tubes and the reactor vessel head.",232,2672,2799,cp_2004002.txt
+U,"This was evident from the thin, reddish brown, and loosely adherent deposit that extended down the tube wall from above.",232,2799,2919,cp_2004002.txt
+U,The penetration tubes were compared to photographs from the previous examination with no noticeable change.,232,2919,3026,cp_2004002.txt
+U,Enclosure,234,0,9,cp_2004002.txt
+U,"-18.3 Capability to identify and characterize small boric acid deposits The inspectors determined that the visual inspection methods used by the licensee, as described in Section (.1), were capable of detecting, identifying, and characterizing small boric acid deposits, if present as described in NRC Bulletin 2002-02.",236,0,320,cp_2004002.txt
+U,This was determined through direct inspection during the licensee visual examination of the RPV upper head and by independent review of the video and photographic medium provided by the licensee.,236,320,515,cp_2004002.txt
+U,.4 Identified materiel deficiencies that required repair No materiel deficiencies that required repair were identified.,236,515,634,cp_2004002.txt
+U,".5 Impediments to effective examinations The inspectors concluded that, in general, the licensee encountered no serious impediments and performed a 100 percent bare metal examination of the RPV upper head and the VHP nozzle penetrations.",236,634,871,cp_2004002.txt
+U,"The licensee's preparation combined with the available lighting, and the excellent quality of the magnetic crawler robot, equipment, and camera resolution provided a thorough, complete, and well documented inspection.",236,871,1088,cp_2004002.txt
+U,".6 Basis for temperatures used in susceptibility rankings CPSES uses the reactor coolant system cold leg temperature of 561EF (nominal) in the equation contained in Electric Power Research Institute EPRI Document MRP-48, ""PWR Materials Reliability Program Response to NRC Bulletin 2001-01,"" August 2001 (also contained in TI2515/150, Revision 1).",236,1088,1434,cp_2004002.txt
+U,The nominal cold leg temperature was used as the reactor vessel head temperature because of the RPV design at CPSES.,236,1434,1550,cp_2004002.txt
+U,The RPV is designed such that part of the flow from the cold legs is diverted to the reactor vessel head area.,236,1550,1660,cp_2004002.txt
+U,"Therefore, the licensee estimates that the RPV head temperature should be approximately 561EF (nominal).",236,1660,1764,cp_2004002.txt
+U,"4OA6 Meetings, Including Exit Exit Meeting Summary The inspectors presented the inspection results of the integrated resident Inspection to Mr. J. Kelley, Vice President, Nuclear Engineering and Support, and other members of licensee management on March 30, 2004.",236,1764,2027,cp_2004002.txt
+U,The licensee acknowledged the findings presented.,236,2027,2076,cp_2004002.txt
+U,The inspectors confirmed that proprietary information was not provided or examined during the inspection.,236,2076,2181,cp_2004002.txt
+U,"The inspector presented the Periodic Maintenance Effectiveness Inspection results to Mr. J. Kelley, Vice President, Nuclear Engineering and Support, and other members of the licensee management at the conclusion of the inspection on March 5, 2004.",236,2181,2428,cp_2004002.txt
+U,The,236,2428,2431,cp_2004002.txt
+U,Enclosure,238,0,9,cp_2004002.txt
+U,-19licensee acknowledged the findings presented.,240,0,49,cp_2004002.txt
+U,The inspector asked the licensee whether any materials examined during the inspection should be considered proprietary.,240,49,168,cp_2004002.txt
+U,No proprietary information was identified.,240,168,210,cp_2004002.txt
+U,ATTACHMENT: SUPPLEMENTAL INFORMATION,240,210,246,cp_2004002.txt
+U,Enclosure,242,0,9,cp_2004002.txt
+U,ATTACHMENT SUPPLEMENTAL INFORMATION KEY POINTS OF CONTACT,244,0,58,cp_2004002.txt
+U,"Licensee personnel W. Black, Maintenance Rule Coordinator M. Blevins, Senior Vice President & Principal Nuclear Officer M. Bozeman, Manager, Emergency Preparedness S. Ellis, System Engineering Manager R. Flores, Vice President Operations C. Harrington, Technical Support Engineering J. Kelley, Vice President, Nuclear Engineering and Support M. Lucas, Director of Nuclear Engineering F. Madden, Regulatory Affairs Manager T. Marsh, Work Control Manager R. Morrison, Maintenance Smart Team Manager J. D. Skelton, System Engineer R. Smith, Operations Manager D. Wilder, Radiation and Industrial Safety Manager, Radiation and Industrial Safety NRC D. Allen, Senior Resident Inspector A. Sanchez, Resident Inspector J. Cruz, Senior Resident Inspector P. A. Goldberg, Reactor Inspector, Plant Engineering Branch",246,0,806,cp_2004002.txt
+U,"ITEMS OPENED, CLOSED, AND DISCUSSED Opened None Closed None Discussed None",248,0,74,cp_2004002.txt
+U,A-1,250,0,3,cp_2004002.txt
+U,Attachment,252,0,10,cp_2004002.txt
+U,A-2,254,0,4,cp_2004002.txt
+U,Attachment,256,0,10,cp_2004002.txt
+U,"LIST OF DOCUMENTS REVIEWED The following documents were selected and reviewed by the inspector to accomplish the objectives and scope of the inspection and to support any findings: Smart Forms SMF-2001-001255 SMF-2004-000594 SMF-2004-000791 SMF-2004-000805 SMF-2004-000786 SMF-2004-000761 SMF-2003-002889 SMF-2003-002553 SMF-2002-002991 SMF-2003-002373 SMF-2003-001189 SMF-2003-002430 SMF-2003-001857 SMF-2003-000833 SMF-2003-000838 SMF-2004-000170 Corrective Maintenance Work Orders 3-02-328126-01 4-02-140621-00 3-03-337902-01 4-03-151210-00 4-01-135165-00 4-04-153634-00 4-03-147287-00 4-04-153467-00 4-03-149225-00 4-04-152690-00 4-03-149846-00 4-04-153155-00 4-04-153170-00 4-03-151833-00 4-04-153257-00 4-04-153256-00 Procedures STA-744, ""Maintenance Effectiveness Monitoring Program,"" Revision 2",258,0,803,cp_2004002.txt
+U,A-3,260,0,3,cp_2004002.txt
+U,Attachment,262,0,10,cp_2004002.txt
+U,"STA-661, ""Non Plant Equipment Storage and Use Inside Seismic Category 1 Structures,"" Revision 4 STA-426, ""Industry Operating Experience Program,"" Revision 0 NQA-2.30, ""Industry Operating Experience Review Program,"" Revision 6 WCI-606, ""Work Control Process,"" Revision 6 STA-606, ""Control of Maintenance and Work Activities,"" Revision 27 Calculations 2002-002566-01-00, ""Evaluation of EDG unavailability,"" Revision 0 2002-002566-02-00, ""Evaluation of time EDGs operated in parallel with grid,"" Revision 0 DCN 11327, Rev 0, ""Change to DBD-ME-302A for EDG Room Ventilation,"" Revision 0 CS-CA-0000-3340, ""Seismic Calculation for STA-661,"" Revision 0 1-EB-302A-3, ""DGA Fan Lockout Schedule Unit 1,"" Revision 0 2004-000170-01-00, ""Evaluation of the cause of failure of starting air check valves,"" Revision 0 System Health Reports Auxiliary Feedwater System 4th Quarter 2003 Report Diesel Generators 14th Quarter 2003 Report Diesel Generator Fuel Oil 4th Quarter 2003 Report Diesel Generator Building HVAC 4th Quarter 2003 Report Service Water System 4th Quarter 2003 Report Medium Voltage (6.9kV and 480V) 4th Quarter 2003 Report Medium Voltage (6.9kV and 480V) 2nd Quarter 2003 Report Medium Voltage (6.9kV and 480V) 2rd Quarter 2002 Report Medium Voltage (6.9kV and 480V) 3rd Quarter 2002 Report Medium Voltage (6.9kV and 480V) 4th Quarter 2002 Report",264,0,1348,cp_2004002.txt
+U,A-4,266,0,3,cp_2004002.txt
+U,Attachment,268,0,10,cp_2004002.txt
+U,"Medium Voltage (6.9kV and 480V) 3nd Quarter 2000 Report Medium Voltage (6.9kV and 480V) 3rd Quarter 1999 Report Miscellaneous SA-2003-017, ""Maintenance Rule Periodic Assessment #5, June 16, 2001 through March 21, 2003,"" and Worksheets 1-9 Unavailability Report for diesel generators from Unit 1, from February 28, 2002 to February 29, 2004",270,0,340,cp_2004002.txt
+U,"LIST OF ACRONYMS ABN ASME CFR CPSES HVAC OPT NRC PWR RPV SMF SOP SSC STARS VHP abnormal operating procedure American Society of Mechanical Engineers Code of Federal Regulations Comanche Peak Steam Electric Station heating, ventilation, and air conditioning operability test Nuclear Regulatory Commission pressurized water reactor reactor pressure vessel Smart Form system operating procedure structures, systems, or components Strategic Teaming and Resource Sharing Alliance vessel head penetration",272,0,498,cp_2004002.txt
+U,A-5,274,0,3,cp_2004002.txt
+U,Attachment,276,0,10,cp_2004002.txt
