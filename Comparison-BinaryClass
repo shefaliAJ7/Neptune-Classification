@@ -1,0 +1,63 @@
+Epoch 20/20
+GloVe 
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification        0.720524      0.882353          0.736        125       634
+Word2Vec - Pretrained
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification         0.82287          0.92       0.673913        138       634
+Word2Vec - After Training
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification         0.79718      0.913462       0.727273        121       63
+==========================================================================================
+Epoch 30/30
+GloVe 
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification         0.82244      0.913462       0.731707        123       634
+Word2Vec - Pretrained
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification        0.908186      0.862745       0.793893        131       634
+Word2Vec - After Training
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification        0.849785      0.865385       0.741379        116       634
+==========================================================================================
+Epoch 40/40
+GloVe 
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification        0.850649      0.913462       0.798319        119       634
+Word2Vec - Pretrained
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification         0.95098       0.95098       0.758333        120       634
+Word2Vec - After Training
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification        0.913832      0.908163       0.751825        137       634
+==========================================================================================
+Epoch 60/60
+GloVe
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification        0.938841      0.923077       0.763636        110       634
+Word2Vec - Pretrained
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData  - Overfitting
+0  Binary_Classification        0.986755      0.931373       0.801587        126       634
+Word2Vec - After Training
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification        0.965556          0.96       0.865672        134       634
+==========================================================================================
+Epoch 80/80
+GloVe
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData
+0  Binary_Classification        0.980042      0.915094            0.8        105       634
+Word2Vec - Pretrained
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData  - Overfitting
+0  Binary_Classification        0.987152      0.923077       0.730435        115       634
+Word2Vec - After Training
+                   Coder  Train_Accuracy  Val_Accuracy  Test_Accuracy  #TestData  #AllData  - Overfitting
+0  Binary_Classification        0.975108      0.923077       0.818966        116       634
+==========================================================================================
+
+
+For GloVe-
+Validation accuracy gives a high value for epoch 10, then it decreases and agin give high accuracy at around after 50 epoch
+For Word2Vec - Pretrained -
+Validation accuracy gives a high value for epoch 7, then it decreases and agin give high accuracy at around after 40 epoch
+For Word2Vec - After Training-
+Validation accuracy gives a high value for epoch 10, then it decreases and agin give high accuracy at around after 50 epoch

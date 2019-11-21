@@ -3,10 +3,10 @@ from typing import List
 
 CURRENT_DATA = "resources/"
 
-CSV_DATA_PATH = CURRENT_DATA + 'raw_data_csvfiles/MergedFiles-SALLY/'
+CSV_DATA_PATH = CURRENT_DATA + 'raw_data_csvfiles/For_binary_classification/'
 PROCESSED_DATA_PATH = CURRENT_DATA + 'Modelling/'
 RESULTS_DATA_PATH = CURRENT_DATA + 'Results/'
-MODEL_TYPE = 'SentenceClassifier'
+MODEL_TYPE = 'BinarySentenceClassifier'
 
 GLOVE_PATH = os.path.abspath(os.path.dirname(__file__))+'/../../glove.6B.100d.txt'
 #GLOVE_PATH = os.path.abspath(os.path.dirname(__file__))+'/../../GoogleNews-vectors-negative300.bin'
@@ -23,7 +23,7 @@ CLEAN_DATA='clean_data.h5'
 TRAIN_DATA='train_data.h5'
 TEST_DATA='test_data.h5'
 
-MODEL_NAME = 'multiclass_model.h5'
+MODEL_NAME = 'binaryclass_model.h5'
 AGREEMENT = 1
 #TRAINING_LABEL = ['label_SALLY', 'label_struck']
 #TRAINING_LABEL_DROP = ['label_SALLY','label_struck']
@@ -33,4 +33,4 @@ TRAINING_LABEL_DROP = ['label_SALLY']
 #TRAINING_LABEL_DROP = ['label_Frenard']
 #TRAINING_LABEL = ['label_struck']
 #TRAINING_LABEL_DROP = ['label_struck']
-PREDICTION_FILE = 'Sally'
+PREDICTION_FILE = 'Binary_Classification'
