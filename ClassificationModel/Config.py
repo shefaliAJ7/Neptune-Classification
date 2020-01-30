@@ -7,6 +7,7 @@ CSV_DATA_PATH = CURRENT_DATA + 'raw_data_csvfiles/For_binary_classification/'
 PROCESSED_DATA_PATH = CURRENT_DATA + 'Modelling/'
 RESULTS_DATA_PATH = CURRENT_DATA + 'Results/'
 MODEL_TYPE = 'BinarySentenceClassifier'
+ep = 10
 
 GLOVE_PATH = os.path.abspath(os.path.dirname(__file__))+'/../../glove.6B.100d.txt'
 #GLOVE_PATH = os.path.abspath(os.path.dirname(__file__))+'/../../GoogleNews-vectors-negative300.bin'

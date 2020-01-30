@@ -155,7 +155,7 @@ Findings No findings of significance were identified.,102,1085,1138,ML092050743.
 "1R11 Licensed Operator Requalification Program (71111.11Q) .1 a. Resident Inspector Quarterly Review Inspection Scope (2 Samples) The inspectors observed simulator-based licensed operator requalification training for Unit 2 on April 28, 2009, and for Unit 3 on April 21, 2009.",102,1138,1414,ML092050743.txt,U
 "The inspectors evaluated crew performance in the areas of clarity and formality of communications, ability to take timely actions, prioritization, interpretation and verification of alarms, procedure use, control board manipulations, oversight and direction from supervisors, and command and control.",102,1414,1714,ML092050743.txt,U
 "Crew performance in these areas was compared to Dominion management expectations and guidelines as presented in OP-MP-100-1000, AMillstone Operations Guidance and Reference Document.",102,1714,1896,ML092050743.txt,U
-@ The inspectors compared simulator configurations with actual control board configurations.,102,1896,1988,ML092050743.txt,U
+#NAME?,102,1896,1988,ML092050743.txt,U
 "The inspectors also observed Dominion evaluators discuss identified weaknesses with the crew and/or individual crew members, as appropriate.",102,1988,2128,ML092050743.txt,U
 Documents reviewed during the inspection are listed in the Attachment.,102,2128,2198,ML092050743.txt,U
 b.,102,2198,2200,ML092050743.txt,U
@@ -184,7 +184,7 @@ Findings No findings of significance were identified.,118,0,53,ML092050743.txt,U
 1R15 Operability Evaluations (71111.15) a.,120,0,42,ML092050743.txt,U
 Inspection Scope (7 Samples) The inspectors reviewed seven operability determinations (OD).,120,42,133,ML092050743.txt,U
 "The inspectors evaluated the ODs against the guidance contained in NRC Regulatory Issue Summary 2005-20, Revision to Guidance Formerly Contained in NRC Generic Letter 91-18, AInformation to Licensees Regarding Two NRC Inspection Manual Sections on Resolution of Degraded and Nonconforming Conditions and on Operability.",120,133,452,ML092050743.txt,U
-"@ The inspectors also discussed the conditions with operators and system and design engineers, as necessary.",120,452,560,ML092050743.txt,U
+#NAME?,120,452,560,ML092050743.txt,U
 Documents reviewed during the inspection are listed in the Attachment.,120,560,630,ML092050743.txt,U
 "The inspectors reviewed the adequacy of the following evaluations of degraded or non-conforming conditions: Unit 2 Â· Â· Â· Â· OD 000281, ""Westinghouse Identified Error in MP2 Containment Pressure Analysis""; CR332990, ""U2 EDG room floor drain backflow preventers exhibit consistent failure""; CR334153, ""Bus 201B Ground Alarm was Received Indicating a Hard Ground on the Battery Bus""; CR335537, ""Potential Water Intrusion Identified at Vertical Crack in CTMT Outer Concrete El.",120,630,1102,ML092050743.txt,"T, D"
 "-25 ft"";",120,1102,1110,ML092050743.txt,"T, D"

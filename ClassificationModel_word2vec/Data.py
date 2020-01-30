@@ -36,6 +36,7 @@ class CreateDataset(object):
             main_df = pd.concat([main_df , df], ignore_index=True)
         if not os.path.exists(PROCESSED_DATA_PATH):
             os.mkdir(PROCESSED_DATA_PATH)
+        print(main_df.info())
         main_df.to_hdf(PROCESSED_DATA_PATH + RAW_DATA, key='raw', append=True, format='t', min_itemsize={'text': 4096})
         return main_df
 
