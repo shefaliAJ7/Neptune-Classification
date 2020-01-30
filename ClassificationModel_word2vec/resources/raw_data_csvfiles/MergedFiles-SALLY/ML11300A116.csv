@@ -54,7 +54,7 @@ U,"Specifically, the licensee failed to identify corrosion on the diesel fire pu
 U,The licensee entered the issue into their corrective action program and surface cleaned the terminals.,25,1088,1190,ML11300A116.txt
 U,"The inspectors determined that the finding was more than minor because, if left uncorrected, the presence of corrosion in conjunction with identified voltage issues for two battery cells could affect the reliability of the diesel fire pump.",25,1190,1430,ML11300A116.txt
 U,This finding was of very low safety significance because the diesel fire pump had started as part of a recent routine surveillance.,25,1430,1561,ML11300A116.txt
-O/T,This finding has a cross-cutting aspect in the area of Human Performance because the maintenance personnel who performed the battery surveillance did not have sufficient training to recognize the presence of corrosion.,25,1561,1779,ML11300A116.txt
+"O, T",This finding has a cross-cutting aspect in the area of Human Performance because the maintenance personnel who performed the battery surveillance did not have sufficient training to recognize the presence of corrosion.,25,1561,1779,ML11300A116.txt
 U,"[H.2(b)] (Section 1R05.3.b(1), Failure to Identify Diesel Fire Pump Battery Terminal Corrosion) åá Green.",25,1779,1883,ML11300A116.txt
 U,"The inspectors identified a finding of very low safety significance (Green) and associated NCV of 10 CFR Part 50, Appendix R, Section III.L., for the licensee's failure to ensure that operators required for safe shutdown were on-site at all times.",25,1883,2130,ML11300A116.txt
 U,"Specifically, operators required for safe shutdown in the event of a fire traveled off-site for performing routine operator rounds.",25,2130,2261,ML11300A116.txt

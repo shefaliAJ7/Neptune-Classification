@@ -1935,7 +1935,7 @@ U,"The actuation signal also generated a reactor trip signal; however, the plant
 U,The lowest level during this transient occurred in 13 steam generator and was 11.3 percent narrow range level.,149,1911,2021,ML072260460.txt
 U,Steam generator water level was restored to a normal value and the RCS cooldown recommenced.,149,2021,2113,ML072260460.txt
 U,There were no equipment failures that contributed to this event.,149,2113,2177,ML072260460.txt
-P/T,The cause of this event was attributed to the failure of the operating crew to establish clear termination criteria for stopping the cooldown based on low steam generator levels and the lack of clear termination criteria guidance in the procedure for maintaining steam generator levels during a cooldown.,149,2177,2481,ML072260460.txt
+"P, T",The cause of this event was attributed to the failure of the operating crew to establish clear termination criteria for stopping the cooldown based on low steam generator levels and the lack of clear termination criteria guidance in the procedure for maintaining steam generator levels during a cooldown.,149,2177,2481,ML072260460.txt
 U,"This failure to comply with 10 CFR 50, Appendix B, Criterion V, ""Instructions, Procedures, and Drawings"", constitutes a violation of minor significance that is not subject to enforcement action in accordance with Section IV of the NRC's enforcement policy.",149,2481,2737,ML072260460.txt
 U,PSEG documented the issue in notification 20318068.,149,2737,2788,ML072260460.txt
 U,This LER is closed.,149,2788,2807,ML072260460.txt

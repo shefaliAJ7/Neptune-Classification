@@ -12,6 +12,7 @@ MODEL_TYPE = 'SentenceClassifier'
 GLOVE_PATH = os.path.abspath(os.path.dirname(__file__))+'/../../GoogleNews-vectors-negative300.bin'
 # Number between 0 and 1
 TRAIN_TEST_SPLIT = 0.8
+ep = 40
 
 # hyper parameters
 SENTENCE_LENGTH = 20

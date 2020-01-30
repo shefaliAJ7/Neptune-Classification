@@ -204,7 +204,7 @@ U,The actual incremental core damage frequency is defined as the actual core dam
 U,The risk can then be calculated as follows: ICDPactual = (CDFactual - CDFzero-maintenance) * duration,103,3516,3617,ML14041A484.txt,U
 U,- 12 -,105,0,6,ML14041A484.txt,U
 U,"As a bounding assessment, the analyst assumed that the risk of a total loss of offsite power was no more than 100 times higher than usual during the performance of the subject maintenance.",107,0,189,ML14041A484.txt,U
-O/T,"Additionally, the analyst made the worst-case bounding assumption that inappropriate maintenance on the breaker could have resulted in the failure of Bus NB01.",107,189,348,ML14041A484.txt,U
+"O, T","Additionally, the analyst made the worst-case bounding assumption that inappropriate maintenance on the breaker could have resulted in the failure of Bus NB01.",107,189,348,ML14041A484.txt,U
 U,"Given these assumptions, the analyst utilized the Standardized Plant Analysis Risk model for Wolf Creek Version 8.20 to quantify the risk.",107,348,486,ML14041A484.txt,U
 U,The resulting actual core damage frequency was 8.50 x 10-3/year.,107,486,550,ML14041A484.txt,U
 U,The appropriate baseline risk evaluated by this model was a zero-maintenance core damage frequency of 1.44 x 10-6/year.,107,550,669,ML14041A484.txt,U
@@ -369,7 +369,7 @@ U,"The inspectors assessed the licensee's problem identification threshold, caus
 U,The inspectors verified that the licensee appropriately prioritized the planned corrective actions and that these actions were adequate to correct the condition.,183,142,303,ML14041A484.txt,U
 U,"These activities constitute completion of one annual follow-up sample, as defined in Inspection Procedure 71152. b.",183,303,418,ML14041A484.txt,U
 U,Findings Failure to Preclude Repetition of a Significant Condition Adverse to Quality Affecting the Train A Class 1E Air Conditioning Unit Introduction.,183,418,570,ML14041A484.txt,T
-O,"A Green self-revealing non-cited violation of 10 CFR 50, Appendix B, Criterion XVI, ""Corrective Actions,"" was identified for failure to preclude repetition of a significant condition adverse to quality.",183,570,772,ML14041A484.txt," O, T"
+O,"A Green self-revealing non-cited violation of 10 CFR 50, Appendix B, Criterion XVI, ""Corrective Actions,"" was identified for failure to preclude repetition of a significant condition adverse to quality.",183,570,772,ML14041A484.txt,"O, T"
 O,"Specifically, the licensee failed to determine the cause of the train A Class 1E air conditioner slug flow in the refrigerant prior to experiencing multiple failures and plant shutdowns of the train A Class 1E air conditioner slug flow in the refrigerant.",183,772,1027,ML14041A484.txt,T
 U,Description.,183,1027,1039,ML14041A484.txt,U
 U,"On May 6, 2013, Wolf Creek entered Technical Specification 3.0.3 action statements for a non-functional train A Class 1E air conditioning unit, after observing an unexplained rise in room temperatures, and a low refrigerant flow rate.",183,1039,1273,ML14041A484.txt,U
