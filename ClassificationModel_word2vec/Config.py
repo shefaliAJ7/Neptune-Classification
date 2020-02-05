@@ -34,4 +34,4 @@ TRAINING_LABEL_DROP = ['label_SALLY']
 #TRAINING_LABEL_DROP = ['label_Frenard']
 #TRAINING_LABEL = ['label_struck']
 #TRAINING_LABEL_DROP = ['label_struck']
-PREDICTION_FILE = 'Binary_Classification'
+PREDICTION_FILE = 'Binary_Classification_test'

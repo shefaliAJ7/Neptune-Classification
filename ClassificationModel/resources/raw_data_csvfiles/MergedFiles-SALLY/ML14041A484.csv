@@ -204,7 +204,7 @@ U,The actual incremental core damage frequency is defined as the actual core dam
 U,The risk can then be calculated as follows: ICDPactual = (CDFactual - CDFzero-maintenance) * duration,103,3516,3617,ML14041A484.txt
 U,- 12 -,105,0,6,ML14041A484.txt
 U,"As a bounding assessment, the analyst assumed that the risk of a total loss of offsite power was no more than 100 times higher than usual during the performance of the subject maintenance.",107,0,189,ML14041A484.txt
-O/T,"Additionally, the analyst made the worst-case bounding assumption that inappropriate maintenance on the breaker could have resulted in the failure of Bus NB01.",107,189,348,ML14041A484.txt
+"O,T","Additionally, the analyst made the worst-case bounding assumption that inappropriate maintenance on the breaker could have resulted in the failure of Bus NB01.",107,189,348,ML14041A484.txt
 U,"Given these assumptions, the analyst utilized the Standardized Plant Analysis Risk model for Wolf Creek Version 8.20 to quantify the risk.",107,348,486,ML14041A484.txt
 U,The resulting actual core damage frequency was 8.50 x 10-3/year.,107,486,550,ML14041A484.txt
 U,The appropriate baseline risk evaluated by this model was a zero-maintenance core damage frequency of 1.44 x 10-6/year.,107,550,669,ML14041A484.txt
