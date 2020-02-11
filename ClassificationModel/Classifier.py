@@ -8,13 +8,14 @@ import numpy as np
 # from nltk.tokenize import word_tokenize
 # from nltk.corpus import stopwords
 # import string
-
+from sklearn.model_selection import KFold, ShuffleSplit, StratifiedShuffleSplit, train_test_split
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential
 from keras.layers import Dense, Conv1D, Flatten, Embedding, Dropout, MaxPooling1D, LSTM
 # from keras.utils import to_categorical
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 from sklearn.preprocessing import MultiLabelBinarizer
 from keras.models import load_model
 
@@ -109,9 +110,63 @@ class Train(object):
         encoded_sent = self.tokenizer.texts_to_sequences(self.df['text'])
         return pad_sequences(encoded_sent, self.sentence_length, padding='post')
 
-    def train_model(self,model_file=MODEL_NAME):
+    def train_model_with_kfold(self):
+        X = self.padded_sent
+        Y = self.Y
+        n_split = 10
+        k_fold_train_accuracy = []
+        k_fold_val_accuracy = []
+        k_fold_test_accuracy = []
+
+        for train_index, test_index in StratifiedShuffleSplit(n_split, random_state=0).split(X, Y):
+            x_train, x_test = X[train_index], X[test_index]
+            y_train, y_test = Y[train_index], Y[test_index]
+            train_acc, val_acc, test_acc = self.train_model_for_every_k(x_train, y_train,x_test, y_test)
+
+            k_fold_train_accuracy.append(train_acc)
+            k_fold_val_accuracy.append(val_acc)
+            k_fold_test_accuracy.append(test_acc)
+
+        x = [1,2,3,4,5,6,7,8,9,10]
+        print("K_fold Training Accuracy for k = 5 fold : ", k_fold_train_accuracy)
+        print("K_fold Validation Accuracy for k = 5 fold : ", k_fold_val_accuracy)
+        print("K_fold test Accuracy for k = 5 fold : ", k_fold_test_accuracy)
+
+        plt.plot(x, k_fold_train_accuracy)
+        plt.plot(x, k_fold_val_accuracy)
+        plt.plot(x, k_fold_test_accuracy)
+        plt.xticks(np.arange(min(x), max(x)+1, 1.0))
+        plt.yticks(np.arange(0.0, 1.0 + 0.2, 0.10))
+        plt.title('K Fold Cross Validation accuracy')
+        plt.ylabel('accuracy')
+        plt.xlabel('Fold Value')
+        plt.legend(['train', 'validation', 'test'], loc='lower right')
+        plt.show()
+
+
+
+    def train_model_for_every_k(self, x_train, y_train, x_test, y_test):
+        model_file = MODEL_NAME
+        model = Sequential()
+        model.add(
+            Embedding(self.vocabulary_size, 100, input_length=self.sentence_length, weights=[self.embedding_matrix],
+                      trainable=True))
+        model.add(Dropout(0.2))
+        model.add(Conv1D(64, 5, activation='relu'))
+        model.add(LSTM(self.lstm_size))
+        model.add(Dense(self.number_of_classes, activation='sigmoid'))
+        model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
         if not self.ignore:
-            self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=ep, verbose =1)
+            self.history = model.fit(x_train, y_train, validation_split=0.1, batch_size=512, epochs=ep, verbose =1)
+            model.save(PROCESSED_DATA_PATH + model_file)
+            #self.plot_history()
+            test_loss, test_acc = model.evaluate(x_test, y_test)
+        return max(self.history.history['acc']), max(self.history.history['val_acc']), test_acc
+
+    def train_model(self, model_file=MODEL_NAME):
+        if not self.ignore:
+            self.history = self.model.fit(self.padded_sent, self.Y, validation_split=0.1, batch_size=512, epochs=ep,
+                                          verbose=1)
             self.model.save(PROCESSED_DATA_PATH + model_file)
             self.plot_history()
         return max(self.history.history['acc']), max(self.history.history['val_acc'])

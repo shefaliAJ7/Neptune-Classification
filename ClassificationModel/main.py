@@ -16,7 +16,7 @@ class MCC:
         self.train = Train(force_retrain=True)
         self.predict = Predict()
         self.train_accuracy = None
-        self.train_accuracy = None
+        self.val_accuracy = None
         self.test_accuracy = None
         self.result_df = None
         self.labels = None
@@ -26,8 +26,11 @@ class MCC:
         self.f1score = None
         self.final_result = pd.DataFrame(columns = ['Coder','Train_Accuracy','Val_Accuracy','Test_Accuracy','#TestData','#AllData'])
 
-    def train_model(self):
-        self.train_accuracy, self.val_accuracy = self.train.train_model()
+    def train_model(self, is_it_k_fold):
+        if is_it_k_fold:
+            self.train.train_model_with_kfold()
+        else:
+            self.train_accuracy, self.val_accuracy = self.train.train_model()
 
     def predict_labels(self):
         self.predict.load_model()
@@ -91,8 +94,9 @@ class MCC:
 
 
 if __name__ == '__main__':
+    doing_k_fold_validation = True
     shutil.rmtree(PROCESSED_DATA_PATH)
     mcc = MCC()
-    mcc.train_model()
-    mcc.predict_labels()
-    mcc.get_results()
+    mcc.train_model(doing_k_fold_validation)
+    #mcc.predict_labels()
+    #mcc.get_results()
