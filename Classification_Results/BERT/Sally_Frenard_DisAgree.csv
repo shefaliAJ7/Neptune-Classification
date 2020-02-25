@@ -1,0 +1,15 @@
+end_pos,file,line,start_pos,text,Y,Predicted_Values
+2997,ML14087A338.txt,40,2883,The team determined that this finding had a human performance cross cutting aspect in the area of work management.,O,O
+2540,ML14087A338.txt,134,2399,The team determined that the licensee's compliance review did not have any fire protection program commitments that would prevent the change.,O,O
+1550,ML14087A338.txt,170,1276,"Although the licensee would revise Technical specification 3.4.3 or shut down prior to exceeding 31 effective full power years, the team concluded the licensee had not met the conditions for meeting this time-limited aging analysis prior to the period of extended operation.",O,O
+1669,ML14087A338.txt,170,1550,"Similarly, the team concluded that the licensee had not met Commitment 17850 prior to the period of extended operation.",O,O
+1318,ML071350662.txt,167,1123,"Ã¥Ã¡ The licensee identified that maintenance craftsmen had failed to follow a loop calibration procedure for the Train A reactor auxiliary building controlled ventilation system on January 8, 2007.",T,O
+2013,ML12027A131.txt,99,1852,"Specifically, the performance deficiency affected the availability, reliability, and capability of the Unit 2 TDAFW pump to provide secondary decay heat removal.",O,O
+2234,ML14041A484.txt,35,2038,"A self-revealing non-cited violation of 10 CFR 50, Appendix B, Criterion XVI, ""Corrective Actions,"" was identified for failure to preclude repetition of a significant condition adverse to quality.",O,O
+2682,ML14041A484.txt,35,2420,"The licensee eventually determined that the probable cause of the failures was the failure to adequately chemically clean the system following the failure of a charcoal filter, in that some charcoal and cleaning agent was not removed following the work activity.",O,O
+1027,ML14041A484.txt,183,772,"Specifically, the licensee failed to determine the cause of the train A Class 1E air conditioner slug flow in the refrigerant prior to experiencing multiple failures and plant shutdowns of the train A Class 1E air conditioner slug flow in the refrigerant.",O,O
+369,ML14041A484.txt,191,214,"The root cause analysis also determined that the work performed under Work Order 13-370447-007, was not in accordance with station procedural requirements.",T,O
+1100,ML14041A484.txt,191,947,"Failure to preclude repetitive failures of the train A Class 1E air conditioner, a significant condition adverse to quality, is a performance deficiency.",O,O
+2377,ML14041A484.txt,191,2227,"The licensee did not ensure complete, accurate and up-to-date design documentation, procedures, and work packages, and correct labeling of components.",O,O
+2121,ML14041A484.txt,199,1961,"Some of the information used to make this decision, although complete and accurate to the best of the licensee's knowledge at the time, was not in fact correct.",O,O
+2276,ML14041A484.txt,199,2121,Specifically the licensee's repair plan did not address what was eventually determined to be the root cause and did not preclude repetition of the failure.,O,O
