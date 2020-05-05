@@ -21,7 +21,18 @@ Every IR .txt file is converted into .csv file with columns: text, line, start_p
 Every row specifies a sentence of IR, line no. in which that sentence lies, position where the sentence
 starts, position where the sentence ends, filename and label assigned by coders, respectively.
 
-We have implemented different Classification Models and have compared their results for different Coders.
+Because of 3 different coders, we consider types of Dataset. The type of Dataset depends upon 'Coder Types':
+1. Sally - for all sentences labelled by sally
+2. Trixy - for all sentences labelled by Trixy
+3. Frenard - for all sentences labelled by Frenard
+4. Sally_Trixy_Agree - for all sentences labelled by Sally and Trixy where they gave same labels
+5. Sally_Frenard_Agree - for all sentences labelled by Sally and Trixy where they gave same labels
+6. Sally_Trixy_DisAgree - for all sentences labelled by Sally where Sally and Trixy gave different labels
+7. Trixy_Sally_DisAgree - for all sentences labelled by Trixy where Sally and Trixy gave different labels
+8. Sally_Frenard_DisAgree - for all sentences labelled by Sally where Sally and Frenard gave different labels
+9. Frenard_Sally_DisAgree - for all sentences labelled by Frenard where Sally and Frenard gave different labels<br>
+
+We have implemented different Classification Models and have compared their results for different 'Dataset Types'.
 
 ## Prerequisites
 - <a href="https://realpython.com/installing-python/"> Python 3.x </a> 
