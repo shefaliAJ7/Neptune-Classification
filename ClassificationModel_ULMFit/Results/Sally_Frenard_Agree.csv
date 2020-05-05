@@ -1,0 +1,15 @@
+text,Y,Predicted_Values
+"The licensee investigated these concerns and determined that this alternate sample point was not adequate in that it did not meet the intent of Technical Specification 3.3.3.1, Action 28, which required that grab samples be taken every 8 hours.",O,O
+"Specifically, by failing to establish a preventive maintenance strategy for fire safe shutdown transfer/isolation switches, Exelon did not ensure that the local control circuits for several 4KV breakers would be isolated from the effects of fire damage.",O,O
+"Current plant configuration and Drawing G-499 S06, ""Common Foundation Structure, Masonry,"" Sheet 6, do not conform to the design basis, in that there are no openings other than the floor drains.",D,T
+"Also, the source of the water was not addressed.",P,O
+The operability section did not address the operability of the AFW pumps due to internal flooding from the clogged drain.,P,O
+"In accordance with Inspection Procedure 71111.11, each of the following was a performance deficiency against expected licensed operator knowledge and abilities: 1) Greater than 20 percent of the crews failing their scenarios and 2) greater than 20 percent of the licensed operator staff failing their operating tests.",O,O
+"This finding has a cross-cutting aspect in the area of human performance associated with resources, because the licensee failed to ensure that personnel were adequately trained to assure nuclear safety [H.2(b)].",O,O
+The inspectors also noted that Nuclear Oversight had identified four instances where operability determinations were not prompt or initial determinations did not invoke more timely and rigorous documentation of the conditions and concluded that the quality of some of the operability notes could be improved and that training was being performed to address the issue.,O,O
+"Specifically, by failing to establish a preventive maintenance strategy for fire safe shutdown transfer/isolation switches, Exelon did not ensure that the local control circuits for several 4KV breakers would be isolated from the effects of fire damage.",O,O
+"(3) of the Limerick Generating Station operating license, in that Exelon did not provide adequate procedural guidance for transporting the fire brigade and equipment to the spray pond pump house.",O,D
+"A Green self-revealing non-cited violation of 10 CFR 50, Appendix B, Criterion XVI, ""Corrective Actions,"" was identified for failure to preclude repetition of a significant condition adverse to quality.",O,D
+Analysis: Operation of the Unit 2 TDAFW pump with the pump suction valves closed is a performance deficiency because the operator did not follow the written instructions in the procedure.,H,O
+The inspectors found a number of examples where operability determinations did not address the degraded or non-conforming condition described in the AR when concluding operability.,O,O
+The inspectors determined that the cause of this finding was related to the Work Practices component of the Human Performance cross-cutting area due to lessthan-adequate human error prevention techniques [H.4(a)].,T,O

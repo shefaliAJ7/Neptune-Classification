@@ -1,0 +1,14 @@
+end_pos,file,line,start_pos,text,Y,Predicted_Values
+1600,ML14087A338.txt,102,1325,"Specifically, during the 30th anniversary (2010) of the concrete containment inspection of Unit 2 reactor building, the licensee failed to perform a subsequent visual inspection of concrete cracks that exceeded acceptable criteria from the 25th anniversary inspection (2005).",O,O
+1140,ML071350662.txt,31,869,"The inspectors identified a Green noncited violation of 10 CFR 50 Appendix B, Criterion III, ""Design Control,"" for failure to assure that the design basis, as specified in the license application, was correctly translated into drawings and the actual plant configuration.",D,O
+1676,ML071350662.txt,31,1482,"Current plant configuration and Drawing G-499 S06, ""Common Foundation Structure, Masonry,"" Sheet 6, do not conform to the design basis, in that there are no openings other than the floor drains.",D,O
+1090,ML071350662.txt,93,978,The failure to translate the design basis into drawings and the plant configuration is a performance deficiency.,D,O
+380,ML071350662.txt,161,188,The inspectors identified a finding of very low safety significance for the failure to ensure that the design basis for the dry cooling tower diesel-driven sump pumps was properly implemented.,D,D
+1723,ML071350662.txt,161,1545,"In response to the inspectors' concerns, the licensee performed a seismic analysis and determined that the non-seismic piping would not fall during an operating basis earthquake.",O,O
+2497,ML12027A131.txt,99,2423,"Specifically, procedural place keeping techniques were less than adequate.",P,O
+415,ML13182A476.txt,44,162,"Specifically, by failing to establish a preventive maintenance strategy for fire safe shutdown transfer/isolation switches, Exelon did not ensure that the local control circuits for several 4KV breakers would be isolated from the effects of fire damage.",O,O
+1241,ML13182A476.txt,80,1103,"By not testing these switches, there are failure mechanisms that are not monitored, such as a deck of contacts failing to rotate properly.",T,O
+974,ML14041A484.txt,81,918,There were two crew failures and 11 individual failures.,T,O
+772,ML14041A484.txt,183,570,"A Green self-revealing non-cited violation of 10 CFR 50, Appendix B, Criterion XVI, ""Corrective Actions,"" was identified for failure to preclude repetition of a significant condition adverse to quality.",O,O
+2590,ML14041A484.txt,191,2377,"Specifically applicable housekeeping requirements detailed in station procedure AP-12-002 ""Internal/External System Cleanliness"" were not met during the chemical cleaning of system piping on May 8, 2013, [H.2(c)].",P,O
+861,ML11244A041.txt,45,594,"It also defined an adverse trend as a negative change in performance that knowledge, experience, and judgment indicated an adverse impact on safety or reliability, or because a relative large number of performance problems pointed to more significant future problems.",O,O

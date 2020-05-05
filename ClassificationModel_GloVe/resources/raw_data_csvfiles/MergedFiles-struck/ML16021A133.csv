@@ -1,0 +1,372 @@
+text,line,start_pos,end_pos,file,label_struck
+"Specifically, the licensee's deterministic safe shutdown analysis identified the need for a procedural action to de-energize PORV 1NC34A at power supply 1EVDA, breaker 8.",39,1141,1311,ML16021A133.txt,"O, P"
+"Using IMC 0609, Appendix F, Attachment 2, the finding was assigned a moderate degradation rating because there were inconsistencies between the plant's SSD analysis and SSD procedures.",47,1046,1230,ML16021A133.txt,"O, P"
+"Contrary to the above, on November 16, 2015, the inspectors identified that the licensee failed to provide adequate procedural guidance to ensure fire safe shutdown due to a fire in FA 15/17.",47,2296,2487,ML16021A133.txt,"O, P"
+"The NRC identified a Green non-cited violation (NCV) of McGuire Technical Specification 5.4.1.a, for Unit 1, for having an inadequate procedure to support safe shutdown for a fire in fire area (FA) 15/17.",39,937,1141,ML16021A133.txt,P
+"Findings Introduction: The NRC identified a Green non-cited violation (NCV) of McGuire Technical Specification 5.4.1.a, ""Procedures,"" for Unit 1, for having an inadequate procedure to support safe shutdown for a fire in FA 15/17.",45,939,1168,ML16021A133.txt,P
+"Additionally, the procedural step taken to close PORV isolation valve 1NC-33A is not adequate to ensure that the valve remains closed, because a fire induced short on cables",45,3563,3736,ML16021A133.txt,P
+"5 1NC520, 1NC537, and 1NC538 could cause the valve to spuriously re-open, as identified in Attachment 11.7 of calculation MCC-1435.00-00-0059.",47,0,143,ML16021A133.txt,P
+Analysis: The failure to completely and accurately translate the safe shutdown analysis to procedures was a performance deficiency (PD).,47,143,279,ML16021A133.txt,"P, O"
+"(NCV 05000369/2015008-01, Failure to Completely and Accurately Translate the Safe Shutdown Analysis to Procedures) .02 a.",47,2916,3037,ML16021A133.txt,"P, O"
+"Specifically, the licensee's deterministic safe shutdown analysis identified the need for a procedural action to de-energize pressurizer power operated relief valve (PORV) 1NC-34A at power supply 1EVDA, breaker 8, and this action was not translated to Enclosure 15 of McGuire fire safe shutdown procedure AP-45, ""Plant Fire"", Rev.",45,1168,1498,ML16021A133.txt,"P, T"
+UNITED STATES NUCLEAR REGULATORY COMMISSION REGION II,0,0,53,ML16021A133.txt,U
+"245 PEACHTREE CENTER AVENUE NE, SUITE 1200 ATLANTA, GEORGIA 30303-1257",1,0,70,ML16021A133.txt,U
+"January 19, 2016 Mr. Steven D. Capps Site Vice President Duke Energy Carolinas, LLC McGuire Nuclear Station 12700 Hagers Ferry Road Huntersville, NC 28078-8985 SUBJECT: MCGUIRE NUCLEAR STATION, UNITS 1 AND 2 Â­ NRC TRIENNIAL FIRE PROTECTION INSPECTION REPORT 05000369/2015008 AND 05000370/2015008",3,0,295,ML16021A133.txt,U
+"Dear Mr. Capps: On December 10, 2015, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at your McGuire Nuclear Station, Units 1 and 2, and discussed the results of this inspection with you and other members of your staff.",5,0,241,ML16021A133.txt,U
+Inspectors documented the results of this inspection in the enclosed inspection report.,5,241,328,ML16021A133.txt,U
+NRC inspectors documented one finding of very low safety significance (Green) in this report.,5,328,421,ML16021A133.txt,U
+This finding involved a violation of NRC requirements.,5,421,475,ML16021A133.txt,U
+The NRC is treating this violation as a non-cited violation (NCV) consistent with Section 2.3.2.a of the Enforcement Policy.,5,475,599,ML16021A133.txt,U
+"If you contest the violation or significance of this NCV, you should provide a response within 30 days of the date of this inspection report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission, ATTN.",5,599,821,ML16021A133.txt,U
+": Document Control Desk, Washington DC 20555-001; with copies to the Regional Administrator Region II; the Director, Office of Enforcement, U.S Nuclear Regulatory Commission, Washington, DC 20555-0001; and the NRC resident inspector at the McGuire Nuclear Station.",5,821,1085,ML16021A133.txt,U
+"In accordance with Title 10 of the Code of Federal Regulations 2.390, ""public Inspections, Exemptions, Request for Withholding,"" of the NRC's ""Rules of Practice,"" a copy of this letter, its enclosure, and your response (if any) will be available electronically for public inspection in the NRC Public Document Room or from the Publicly Available Records (PARS) component of",5,1085,1458,ML16021A133.txt,U
+S. Capps,7,0,9,ML16021A133.txt,U
+2,9,0,1,ML16021A133.txt,U
+NRC's Agencywide Document Access Management System (ADAMS).,11,0,59,ML16021A133.txt,U
+ADAMS is accessible from the NRC Website at http://www.nrc.gov./reading-rm/adams.html (the Public Electronic Reading Room).,11,59,182,ML16021A133.txt,U
+"Sincerely, /RA/ Scott M. Shaeffer, Chief Engineering Branch 2 Division of Reactor Safety Docket Nos.",11,182,282,ML16021A133.txt,U
+": 50-369, 50-370 License Nos.",11,282,311,ML16021A133.txt,U
+": NPF-9, NPF-17 Enclosures: Inspection Report 05000369/2015008, 05000370/2015008 w/Attachment: Supplementary Information cc: Distribution via Listserv",11,311,461,ML16021A133.txt,U
+S. Capps,13,0,9,ML16021A133.txt,U
+2,15,0,1,ML16021A133.txt,U
+NRC's Agencywide Document Access Management System (ADAMS).,17,0,59,ML16021A133.txt,U
+ADAMS is accessible from the NRC Website at http://www.nrc.gov./reading-rm/adams.html (the Public Electronic Reading Room).,17,59,182,ML16021A133.txt,U
+"Sincerely, /RA/ Scott M. Shaeffer, Chief Engineering Branch 2 Division of Reactor Safety Docket Nos.",17,182,282,ML16021A133.txt,U
+": 50-369, 50-370 License Nos.",17,282,311,ML16021A133.txt,U
+": NPF-9, NPF-17 Enclosures: Inspection Report 05000369/2015008, 05000370/2015008 w/Attachment: Supplementary Information cc: Distribution via Listserv",17,311,461,ML16021A133.txt,U
+PUBLICLY AVAILABLE NON-PUBLICLY AVAILABLE ADAMS: x Yes ACCESSION NUMBER:_________________________ OFFICE SIGNATURE DATE E-MAIL COPY?,19,0,132,ML16021A133.txt,U
+RII:DRS JMM9 J. Montgomery 1/13/2016 YES NO,19,132,175,ML16021A133.txt,U
+SENSITIVE NON-SENSITIVE SUNSI REVIEW COMPLETE FORM 665 ATTACHED RII:DRS RII:DRS RII:DRS RII: RII: RII: JLD2 VIA EMAIL PJB4 VIA EMAIL RJF2 VIA EMAIL JGW1 FOR FJE P. Braaten 1/13/2016 YES NO NO R. Fanner 1/14/2016 YES NO EHRHARDT 1/19/2016 YES NO YES NO YES NO 1/13/2016 YES,21,0,272,ML16021A133.txt,U
+J. Dymek,23,0,8,ML16021A133.txt,U
+OFFICIAL RECORD COPY DOCUMENT NAME: S:\DRS\ENG BRANCH 2\REPORTS\TFPI REACTOR INSPECTION REPORTS\MCGUIRE\INSPECTION REPORTS\TFPI 2015-008\INSPECTION REPORT\MCGUIRE 2015-008 FINAL.DOCX,25,0,182,ML16021A133.txt,U
+"Letter to Steven D. Capps from Scott M. Shaeffer dated January 19, 2016.",27,0,73,ML16021A133.txt,U
+"SUBJECT: MCGUIRE NUCLEAR STATION, UNITS 1 AND 2 Â­ NRC TRIENNIAL FIRE PROTECTION INSPECTION REPORT 05000369/2015008 AND 05000370/2015008",27,73,208,ML16021A133.txt,U
+"DISTRIBUTION: S. Price, RII EICS L. Douglas, RII EICS RIDSNRRDIRS PUBLIC RidsNrrPMMcGuire Resource",29,0,98,ML16021A133.txt,U
+U.S. NUCLEAR REGULATORY COMMISSION REGION II Docket Nos: License Nos.,31,0,70,ML16021A133.txt,U
+: Report Nos.,31,70,83,ML16021A133.txt,U
+": Licensee: Facility: Location: Dates: 50-369, 50-370 NPF-9, NPF-17 05000369/2015008 and 05000370/2015008 Duke Energy Carolinas, LLC McGuire Nuclear Station, Units 1 and 2 Huntersville, NC 28078 November 16 Â­ 20, 2015 (Week 1) December 7 Â­ 11, 2015 (Week 2) P. Braaten, Reactor Inspector J. Dymek, Reactor Inspector R. Fanner, Senior Reactor Inspector J. Montgomery, Senior Reactor Inspector (Lead Inspector) Scott M. Shaeffer, Chief Engineering Branch 2 Division of Reactor Safety",31,83,564,ML16021A133.txt,U
+Inspectors:,33,0,11,ML16021A133.txt,U
+Approved by:,35,0,12,ML16021A133.txt,U
+Enclosure,37,0,9,ML16021A133.txt,U
+"SUMMARY IR 05000369/2015-008, 05000370/2015-008; 11/16/2015 - 11/20/2015 and 12/7/2015 Â­ 12/11/2015; McGuire Nuclear Station, Units 1 and 2; Fire Protection (Triennial).",39,0,170,ML16021A133.txt,U
+This report covers an announced two-week period of inspection by a triennial fire protection team composed of four regional inspectors.,39,170,305,ML16021A133.txt,U
+One Green non-cited violation (NCV) was identified.,39,305,356,ML16021A133.txt,U
+"The significance of most findings is indicated by their color (Green, White, Yellow, Red) using Inspection Manual Chapter (IMC) 0609, ""Significance Determination Process,"" (SDP) dated April 29, 2015.",39,356,555,ML16021A133.txt,U
+"Cross-cutting aspects are determined using IMC 0310, ""Components Within The Cross-Cutting Areas,"" dated December 4, 2014.",39,555,676,ML16021A133.txt,U
+"The NRC's program for overseeing the safe operation of commercial nuclear power reactors is described in NUREG1649, ""Reactor Oversight Process,"" Revision 5, dated February 2014.",39,676,853,ML16021A133.txt,U
+A. NRC-Identified and Self-Revealing Findings Cornerstone: Mitigating Systems Green.,39,853,937,ML16021A133.txt,U
+This action was not translated to Enclosure 15 of McGuire fire safe shutdown procedure AP-45.,39,1311,1404,ML16021A133.txt,U
+"This item was entered into the corrective action program (CAP) as action requests (ARs) 1979875 and 1983360, and the licensee initiated a procedure change to incorporate the missing action.",39,1404,1593,ML16021A133.txt,U
+The performance deficiency (PD) was more than minor because it was associated with the reactor safety Mitigating Systems cornerstone attribute of protection against external factors (i.e.,39,1593,1780,ML16021A133.txt,U
+"fire), and adversely affected the cornerstone objective of ensuring the availability, reliability, and capability of systems that respond to initiating events to prevent undesirable consequences.",39,1780,1975,ML16021A133.txt,U
+"Using the guidance of IMC 0609, App.",39,1975,2011,ML16021A133.txt,U
+"F, the finding was screened as Green because the finding did not affect the ability to reach and maintain a stable plant condition within the first 24 hours of a fire event (Task 1.4.5-B).",39,2011,2199,ML16021A133.txt,U
+No cross cutting aspect was assigned because the finding did not represent current licensee performance.,39,2199,2303,ML16021A133.txt,U
+(Section 1R05.01) B. Licensee Identified Violations None,39,2303,2359,ML16021A133.txt,U
+REPORT DETAILS 1.,41,0,18,ML16021A133.txt,U
+"REACTOR SAFETY Cornerstones: Initiating Events, Mitigating Systems, Barrier Integrity 1R05 Fire Protection This report documents the results of a triennial fire protection inspection (TFPI) of the McGuire Nuclear Station (MNS) Units 1 and 2.",41,18,259,ML16021A133.txt,U
+"The inspection was conducted in accordance with the guidance provided in NRC Inspection Procedure (IP) 71111.05T, ""Fire Protection (Triennial),"" dated January 31, 2013.",41,259,427,ML16021A133.txt,U
+The objective of the inspection was to review a minimum sample of three risk-significant fire areas (FAs) to evaluate implementation of the McGuire Fire Protection Program (FPP).,41,427,605,ML16021A133.txt,U
+"An additional objective was to review site specific implementation of one mitigating strategy from Section B.5.b of NRC Order EA-02-026, ""Order for Interim Safeguards and Security Compensatory Measures"" (commonly referred to as B.5.b), as well as the storage, maintenance, and testing of B.5.b mitigating equipment.",41,605,920,ML16021A133.txt,U
+"The sample FAs were chosen based on a review of available risk information as analyzed by a senior reactor analyst from Region II, a review of previous inspection results, plant walkdowns of FAs, consideration of relational characteristics of combustible material to targets, and location of equipment needed to achieve and maintain safe shutdown (SSD) of the reactor.",41,920,1288,ML16021A133.txt,U
+"In selecting a B.5.b mitigating strategy sample, the team reviewed licensee submittal letters, safety evaluation reports (SERs), licensee commitments, B.5.b implementing procedures, and previous NRC inspection reports.",41,1288,1506,ML16021A133.txt,U
+Section 71111.05-05 of the IP specifies a minimum sample size of three FAs and one B.5.b mitigating strategy for addressing large fires and explosions.,41,1506,1657,ML16021A133.txt,U
+This inspection fulfilled the requirements of the procedure by selecting a sample of four FAs and one B.5.b mitigating strategy.,41,1657,1785,ML16021A133.txt,U
+The FAs chosen were identified as follows: 1.,41,1785,1830,ML16021A133.txt,U
+2,41,1830,1832,ML16021A133.txt,U
+3,41,1832,1834,ML16021A133.txt,U
+4,41,1834,1836,ML16021A133.txt,U
+FA 6 Â­ Unit 1 `B' Emergency Diesel Generator Room--AB El.,41,1836,1893,ML16021A133.txt,U
+736' FA 13 Â­ Battery Room--AB El.,41,1893,1926,ML16021A133.txt,U
+733' FA 15/17 Â­ Unit 1 `A' Train Switchgear and Penetration Rooms--AB El.,41,1926,1999,ML16021A133.txt,U
+750' FA 21 Â­ Aux Building El.,41,1999,2028,ML16021A133.txt,U
+750',41,2028,2032,ML16021A133.txt,U
+"For each of the selected FAs, the team evaluated the licensee's FPP against applicable NRC requirements and licensee design basis documents.",43,0,140,ML16021A133.txt,U
+Applicable licensing and design basis documents reviewed by the team are listed in the Attachment to this report.,43,140,253,ML16021A133.txt,U
+.01 a.,43,253,259,ML16021A133.txt,U
+Protection of Safe Shutdown Capabilities Inspection Scope The team reviewed the licensee's FPP referenced in the Updated Final Safety Analysis Report (UFSAR) Chapter 9; the licensee's safe shutdown analysis (SSA); fire protection design basis document (DBD); plant procedures; piping and instrumentation drawings (P&IDs); electrical drawings; and other supporting documents.,43,259,633,ML16021A133.txt,U
+The team selected a sample of SSD systems to evaluate the licensee's ability to safely shut down the plant in the event of a fire.,43,633,763,ML16021A133.txt,U
+The team performed in-plant inspections to verify that the plant configuration was consistent with that described in the SSA.,43,763,888,ML16021A133.txt,U
+The team reviewed the licensee's shutdown methodology to verify that it properly identified the components and systems necessary to achieve and maintain SSD conditions for postulated fires resulting in shutdown from the main control room (MCR).,43,888,1132,ML16021A133.txt,U
+"The team focused their inspection activities on systems specified in the SSA for reactivity control,",43,1132,1232,ML16021A133.txt,U
+"4 reactor coolant makeup, and decay heat removal; as well as process monitoring instrumentation and necessary support systems, such as the electrical power distribution system, service water and heating ventilation and air conditioning systems.",45,0,245,ML16021A133.txt,U
+"The team reviewed and walked down applicable sections of procedures AP/0/A/5500/45, ""Plant Fire"".",45,245,342,ML16021A133.txt,U
+The team reviewed and performed a walkthrough of procedure steps used for post-fire SSD to ensure the technical and human factors adequacy of the procedures.,45,342,499,ML16021A133.txt,U
+The team verified the licensee personnel credited for performance of procedures were available in the event a fire occurred.,45,499,623,ML16021A133.txt,U
+"The team also verified that the credited licensee personnel had procedures available, and were trained on implementation.",45,623,744,ML16021A133.txt,U
+The team reviewed operator actions to ensure these actions could be implemented in accordance with plant procedures in a manner necessary to support the SSD method for the applicable fire zone.,45,744,937,ML16021A133.txt,U
+b.,45,937,939,ML16021A133.txt,U
+17,45,1498,1501,ML16021A133.txt,U
+"Description: McGuire calculation MCC-1435.00-00-0059, ""NFPA 805 Â­ App R Safe Shutdown Deterministic Analysis"", Rev.",45,1501,1616,ML16021A133.txt,U
+"2, served as the current licensing basis for McGuire, and detailed the strategy and performance goals to achieve and maintain shutdown for each FA.",45,1616,1763,ML16021A133.txt,U
+Section 7.5.15 of this calculation summarized the shutdown analysis for FA 15/17.,45,1763,1844,ML16021A133.txt,U
+The calculation stated that reactor pressure control is achieved and maintained partially through a combination of both train A and B PORV and PORV block valves being in the closed position.,45,1844,2034,ML16021A133.txt,U
+"PORV 1NC34A and PORV isolation valve 1NC-33A are located in series, and if both of these valves are open, it would represent an open pressure relief path that could adversely affect operators' ability to achieve and maintain SSD in the case of a fire.",45,2034,2285,ML16021A133.txt,U
+"Attachment 11.7 of calculation MCC-1435.00-00-0059 indicated that, for a fire in FA 15/17, the A-train PORV and block valve were required to be closed to achieve hot standby.",45,2285,2459,ML16021A133.txt,U
+"The attachment stated that cables 1NC522, 1NC525, and 1NC908 are located in FA 15/17 and a fire-induced short of these cables can cause a spurious opening of the 1NC-VA34A PORV.",45,2459,2636,ML16021A133.txt,U
+"Additionally, the attachment stated that cables 1NC520, 1NC537, and 1NC538 are also located in FA 15/17 and a fire-induced short of these cables can cause a spurious opening of the 1NC33A PORV isolation valve.",45,2636,2845,ML16021A133.txt,U
+"The assessment stated that this condition would be mitigated by removing DC power from PORV 1NC-34A at power supply 1EVDA, thereby failing the valve closed.",45,2845,3001,ML16021A133.txt,U
+"McGuire fire SSD procedure AP-45, ""Plant Fire"", Rev.",45,3001,3053,ML16021A133.txt,U
+"17, is the governing procedure in effect during a plant fire.",45,3053,3114,ML16021A133.txt,U
+"Enclosure 15 of AP-45, ""AB 750' 1ETA/Electrical Pen Room Fire Unit 1 Actions"", is the enclosure used for fire SSD due to a fire in FA 15/17.",45,3114,3254,ML16021A133.txt,U
+Step 3 of this enclosure directed operations personnel to close the pressurizer PORV isolation valves 1NC-33A and 1NC-31B from the control room.,45,3254,3398,ML16021A133.txt,U
+These steps are classified as time critical actions.,45,3398,3450,ML16021A133.txt,U
+No further actions are taken in this procedure to remove DC power from the PORV 1NC-34A to fail the valve closed.,45,3450,3563,ML16021A133.txt,U
+The PD was more than minor because it was associated with the reactor safety Mitigating Systems cornerstone attribute of protection against external factors (i.e.,47,279,441,ML16021A133.txt,U
+"fire), and adversely affected the cornerstone objective of ensuring the availability, reliability, and capability of systems that respond to initiating events to prevent undesirable consequences.",47,441,636,ML16021A133.txt,U
+"The finding was screened in accordance with NRC Inspection Manual Chapter (IMC) 0609, ""Significance Determination Process (SDP),"" Attachment 4, ""Initial Characterization of Findings,"" which determined that an IMC 0609 Appendix F, ""Fire Protection Significance Determination Process,"" review was required because the finding affected the ability to reach and maintain safe shutdown conditions in case of a fire.",47,636,1046,ML16021A133.txt,U
+"The team used step 1.4 ""Qualitative Screening Question Set for Seven Individual Categories,"" task 1.4.5 ""Post-fire safe-shutdown"" of IMC 0609, Appendix F, Attachment 1 to determine the finding to be of very low safety significance (i.e., Green) because operators would be able to reach and maintain a stable plant condition within the first 24 hours based on an existing and bounding small-break loss of coolant accident analysis that showed adequate protection in the event of a spurious opening of a pressurizer PORV and associated PORV isolation valve.",47,1230,1785,ML16021A133.txt,U
+The team determined that no cross cutting aspect was applicable to this performance deficiency because this finding was not indicative of current licensee performance.,47,1785,1952,ML16021A133.txt,U
+"Enforcement: McGuire Technical Specification 5.4.1.a, ""Procedures,"" for Unit 1 states that written procedures shall be established, implemented, and maintained covering activities listed in NRC Regulatory Guide 1.33, Revision 2, Appendix A, February 1978.",47,1952,2207,ML16021A133.txt,U
+Item 6.v of Appendix A lists Plant Fires as an activity that requires written procedures.,47,2207,2296,ML16021A133.txt,U
+This violation has existed since December 2012.,47,2487,2534,ML16021A133.txt,U
+"This item was entered into the CAP as ARs 1979875 and 1983360, and the licensee planned to make necessary procedural changes to direct operators to fail PORV 1NC-34A closed.",47,2534,2707,ML16021A133.txt,U
+"Because the finding was of very low safety significance (Green), and was entered into the licensee's CAP, this violation is being treated as an NCV, consistent with Section 2.3.2 of the NRC Enforcement Policy.",47,2707,2916,ML16021A133.txt,U
+"Passive Fire Protection Inspection Scope For the selected FAs, the inspectors verified the adequacy of fire barrier walls, ceilings, floors, mechanical and electrical penetration seals, fire doors, and fire dampers.",47,3037,3252,ML16021A133.txt,U
+The inspectors walked down accessible portions of the selected FAs to observe material condition of the passive barriers and to identify degradation or nonconformances.,47,3252,3420,ML16021A133.txt,U
+The inspectors compared the installed configurations to the approved construction details and supporting fire endurance test,47,3420,3544,ML16021A133.txt,U
+"6 data to assure that the respective fire barriers met the requirements of 10 CFR 50, Appendix R, Section III.G and Appendix A to BTP APCSB 9.5-1.",49,0,147,ML16021A133.txt,U
+"In addition, the inspectors reviewed licensing bases documentation to verify that passive fire protection features met license commitments.",49,147,286,ML16021A133.txt,U
+"A sample of completed surveillance and maintenance procedures for selected fire doors, fire dampers, and penetration seals were reviewed to ensure that these passive fire barriers were being properly inspected and maintained.",49,286,511,ML16021A133.txt,U
+Specific barriers reviewed are listed in the Attachment.,49,511,567,ML16021A133.txt,U
+b.,49,567,569,ML16021A133.txt,U
+Findings No findings were identified.,49,569,606,ML16021A133.txt,U
+.03 a.,49,606,612,ML16021A133.txt,U
+"Active Fire Protection Inspection Scope For the selected FA's, the inspectors performed in-plant observations to verify the material condition and operational lineup of the fire water intake structure; the electric motor driven fire pumps; the fire protection water supply distribution piping including sprinklers, manual fire hose, and standpipe systems; and installed fire extinguishers.",49,612,1001,ML16021A133.txt,U
+The inspectors reviewed engineering drawings and specifications to verify that the as-built configuration of fire suppression equipment was adequately maintained.,49,1001,1163,ML16021A133.txt,U
+"Internal standpipe and hose stations, and heat and smoke detection systems were reviewed against specifications, drawings and engineering calculations to verify that the fire detection and suppression methods were appropriate for the types of fire hazards that existed in the FAs.",49,1163,1443,ML16021A133.txt,U
+The inspectors also verified that the suppression equipment met applicable NFPA standards.,49,1443,1533,ML16021A133.txt,U
+The inspectors reviewed completed surveillance testing and maintenance procedures to verify that the equipment was adequately maintained.,49,1533,1670,ML16021A133.txt,U
+The inspectors reviewed firefighting pre-plans to verify that the strategies were adequate.,49,1670,1761,ML16021A133.txt,U
+The inspectors observed the fire brigade staging and dress out areas to assess the condition of firefighting and smoke control equipment.,49,1761,1898,ML16021A133.txt,U
+"In addition, the inspectors verified the capabilities of the fire brigade by reviewing staffing, qualification and training records.",49,1898,2030,ML16021A133.txt,U
+"The ""Letters of Agreement"" and ""Memorandums of Understanding"" with off-site emergency responders were reviewed to verify the availability of additional resources to combat fires.",49,2030,2208,ML16021A133.txt,U
+b.,49,2208,2210,ML16021A133.txt,U
+Findings No findings were identified.,49,2210,2247,ML16021A133.txt,U
+04. a.,49,2247,2253,ML16021A133.txt,U
+"Protection From Damage From Fire Suppression Activities Inspection Scope The inspectors evaluated whether manual water-based firefighting activities or heat and smoke migration from fires within the selected FAs could adversely affect equipment credited for SSD, inhibit access to alternate shutdown equipment, or adversely affect local operator actions required for SSD.",49,2253,2624,ML16021A133.txt,U
+"Inspectors reviewed fire strategies (pre-fire plans); fire brigade training procedures; heating, ventilating and air conditioning (HVAC) drawings; and abnormal procedures for fires to verify that inter-area migration of water or the ventilation of heat and smoke were addressed and would not adversely affect SSD equipment or the performance of operator manual actions (OMAs).",49,2624,3000,ML16021A133.txt,U
+7 b.,51,0,5,ML16021A133.txt,U
+Findings No findings were identified.,51,5,42,ML16021A133.txt,U
+.05 a.,51,42,48,ML16021A133.txt,U
+Alternative Shutdown Capability Inspection Scope Methodology The licensee credited an alternative shutdown capability for a postulated fire in FA 13 (Battery Room) and FA 21 (Aux Building El.,51,48,239,ML16021A133.txt,U
+750').,51,239,245,ML16021A133.txt,U
+"The inspectors reviewed UFSAR Section 9.5.1, the McGuire FPP, and corresponding abnormal procedures to ensure that appropriate controls provided reasonable assurance that alternative shutdown equipment remained operable, available, and accessible when required.",51,245,506,ML16021A133.txt,U
+"In cases where local OMAs were credited in lieu of cable protection of SSD components, the inspectors performed a walk-through of the procedures to verify that the OMAs were feasible.",51,506,689,ML16021A133.txt,U
+The inspectors reviewed applicable process and instrumentation diagrams to gain an understanding of credited equipment's flow path and function.,51,689,833,ML16021A133.txt,U
+The inspectors reviewed applicable licensee calculations to ensure the alternative shutdown methodology properly identified systems and components to achieve and maintain SSD for the FAs selected for review.,51,833,1040,ML16021A133.txt,U
+Reviews also included verification that alternative shutdown could be accomplished with or without offsite power.,51,1040,1153,ML16021A133.txt,U
+"The team reviewed procedures, work orders and completed surveillances to verify that the alternative shutdown transfer capability was periodically tested.",51,1153,1307,ML16021A133.txt,U
+"Additionally, the team reviewed electrical schematics and one line diagrams to ensure that the transfer of safe shutdown control functions to the alternate shutdown facility included sufficient instrumentation to safely shutdown the reactor.",51,1307,1548,ML16021A133.txt,U
+"Operational Implementation The inspectors reviewed procedure 1-AP-24, ""Loss of Plant Control Due to Fire or Sabotage"", Rev.",51,1548,1671,ML16021A133.txt,U
+"33, to verify the adequacy of this procedure to mitigate a fire in the Battery Room or Aux Building El.",51,1671,1774,ML16021A133.txt,U
+750'.,51,1774,1779,ML16021A133.txt,U
+The inspectors reviewed selected training materials for licensed and nonlicensed operators to verify that training reinforced the shutdown methodology that is utilized in the FPP and abnormal procedures for FAs 13 and 21.,51,1779,2000,ML16021A133.txt,U
+"The inspectors also reviewed shift turnover logs and shift manning to verify that personnel required for SSD using alternative shutdown systems and procedures were available onsite, exclusive of those assigned as fire brigade members.",51,2000,2234,ML16021A133.txt,U
+"The inspectors performed a walk-through of procedure steps with operations personnel to assess the implementation and human factors adequacy of the procedures and shutdown strategy to evaluate the ambient conditions, difficulty and operator familiarization associated with each OMA.",51,2234,2516,ML16021A133.txt,U
+The inspectors reviewed the systems and components credited for use during this shutdown method to verify that they would remain free from fire damage.,51,2516,2667,ML16021A133.txt,U
+The inspectors reviewed selected operator actions to verify that the operators could reasonably be expected to perform the specific actions within the time required to maintain plant parameters within specified limits.,51,2667,2885,ML16021A133.txt,U
+8 b.,53,0,5,ML16021A133.txt,U
+Findings No findings were identified.,53,5,42,ML16021A133.txt,U
+.06 a.,53,42,48,ML16021A133.txt,U
+"Circuit Analyses Inspection Scope The team reviewed the licensee's Appendix R design basis documentation, calculations, drawings, wiring diagrams, and applicable McGuire circuit breaker coordination curves for selected safe shutdown components to verify that fire damage to electrical circuits associated with the post-fire safe shutdown capability would not adversely affect achieving safe shutdown.",53,48,448,ML16021A133.txt,U
+b.,53,448,450,ML16021A133.txt,U
+Findings No findings were identified.,53,450,487,ML16021A133.txt,U
+.07 a.,53,487,493,ML16021A133.txt,U
+Communications Inspection Scope The team reviewed the adequacy of the communication system to support plant personnel in the performance of alternative safe shutdown functions and fire brigade duties.,53,493,693,ML16021A133.txt,U
+"The team verified that portable radios and fixed emergency communications systems were available, adequate, and operable for the performance of the designated activities.",53,693,863,ML16021A133.txt,U
+The team reviewed that the electrical power supplies and cable routing for the wall mounted phone system would allow them to remain functional following a fire in the selected fire areas.,53,863,1050,ML16021A133.txt,U
+"Additionally the team verified that a fire would not affect communication equipment such as antennas, repeaters and transmitters.",53,1050,1179,ML16021A133.txt,U
+b.,53,1179,1181,ML16021A133.txt,U
+Findings No findings were identified.,53,1181,1218,ML16021A133.txt,U
+.08 a.,53,1218,1224,ML16021A133.txt,U
+"Emergency Lighting Inspection Scope The inspectors reviewed maintenance and design aspects of the fixed 8-hour battery pack emergency lighting units (ELUs) required by the licensee's approved FPP and 10 CFR 50 Appendix R, Section III.J.",53,1224,1460,ML16021A133.txt,U
+The inspectors performed plant walkdowns of the post-fire SSD procedures for the selected FAs to observe the placement and coverage area of the ELUs throughout the selected FAs.,53,1460,1637,ML16021A133.txt,U
+"The inspectors also evaluated the adequacy of the ELUs to illuminate access and egress pathways, and any equipment requiring local operation and/or instrumentation monitoring for post-fire SSD.",53,1637,1830,ML16021A133.txt,U
+The inspectors reviewed preventive maintenance procedures and completed surveillance tests to verify that adequate surveillance testing was in place.,53,1830,1979,ML16021A133.txt,U
+"Additionally, the inspectors reviewed completed 8-hour discharge test records to verify the adequacy of the licensee's three year battery replacement schedule.",53,1979,2138,ML16021A133.txt,U
+9 b.,55,0,5,ML16021A133.txt,U
+Findings No findings were identified.,55,5,42,ML16021A133.txt,U
+.09 a.,55,42,48,ML16021A133.txt,U
+"Cold Shutdown Repairs Inspection Scope The inspectors reviewed the McGuire FPP and abnormal procedures to verify that the licensee identified repairs needed to reach and maintain cold shutdown and had dedicated repair procedures, equipment, and materials to accomplish these repairs after a fire event, assuming no offsite power was available.",55,48,391,ML16021A133.txt,U
+"The inspectors verified that the fire damage repair procedures were current, adequate, and that repair parts and equipment were being stored and maintained onsite.",55,391,554,ML16021A133.txt,U
+The inspectors viewed the containers where cold shutdown fire damage repair equipment and tools were stored to examine the material condition of the tools and equipment.,55,554,723,ML16021A133.txt,U
+The inspectors reviewed licensee inventory records to verify that repair parts and equipment were maintained in accordance with the applicable attachments in electrical preventive maintenance procedures.,55,723,926,ML16021A133.txt,U
+The inspectors reviewed the inventory inspection work order records and compared them to the equipment and tool lists to verify that all required replacement parts and equipment were being accounted for and were available for use.,55,926,1156,ML16021A133.txt,U
+b.,55,1156,1158,ML16021A133.txt,U
+Findings No findings were identified.,55,1158,1195,ML16021A133.txt,U
+".10 a. Compensatory Measures Inspection Scope The team reviewed the administrative controls for out-of-service, degraded and/or inoperable fire protection features (e.g.",55,1195,1364,ML16021A133.txt,U
+"detection and suppression systems and passive fire barriers) as well as hot work from cutting, welding and grinding activities.",55,1364,1491,ML16021A133.txt,U
+The team observed performance of a fire protection hot work activity in Fire Area 13 and compared it against the requirements posted on the hot work permit (MC-15-737 dated 11/17/2015).,55,1491,1676,ML16021A133.txt,U
+Fire watch personnel were interviewed for familiarity with job requirements and training records were verified as up to date and current with procedural requirements.,55,1676,1842,ML16021A133.txt,U
+b.,55,1842,1844,ML16021A133.txt,U
+Findings No findings were identified.,55,1844,1881,ML16021A133.txt,U
+.11 a.,55,1881,1887,ML16021A133.txt,U
+Review and Documentation of Fire Protection Program Changes Inspection Scope The inspectors reviewed eight modifications associated with the FPP to verify that changes were in accordance with the fire protection license condition and had no adverse effect on the ability to achieve SSD.,55,1887,2173,ML16021A133.txt,U
+10 b.,57,0,6,ML16021A133.txt,U
+Findings No findings were identified.,57,6,43,ML16021A133.txt,U
+.12 a.,57,43,49,ML16021A133.txt,U
+"Control of Combustibles and Ignition Sources Inspection Scope The inspectors conducted walkdowns of numerous plant areas that were important to reactor safety, including the selected FAs, to verify the licensee's implementation of fire protection requirements as described in procedures AD-EG-ALL-1520, ""Control of Transient Fire Loads,"" AD-EG-ALL-1521, ""Hot Work Authorization and Portable Heater Control,"" and NSD-316, ""Fire Protection Impairment and Surveillance"".",57,49,516,ML16021A133.txt,U
+"The inspectors verified that the licensee had properly evaluated transient fire hazards, controlled hot-work activities, and maintained general housekeeping consistent with administrative control procedures and the fire hazards analysis.",57,516,753,ML16021A133.txt,U
+"For the selected FAs, the inspectors evaluated the potential for fires and explosions, and potential fire severity.",57,753,868,ML16021A133.txt,U
+b.,57,868,870,ML16021A133.txt,U
+Findings No findings were identified.,57,870,907,ML16021A133.txt,U
+.13 a. B.5.b Inspection Activities Inspection Scope The team reviewed procedures to verify the adequacy of procedural guidance for the containment flooding with portable pump strategy.,57,907,1091,ML16021A133.txt,U
+"The team performed walkdowns to verify the feasibility of implementing the guidance provided in the procedures; and to verify that the apparatus required by the procedure, to include communication equipment, was adequately staged.",57,1091,1321,ML16021A133.txt,U
+The team reviewed records to verify that personnel were appropriately trained and to verify that appropriate preventive maintenance was performed on a recurring bases.,57,1321,1488,ML16021A133.txt,U
+The team reviewed a calculation to verify that the minimum required flow for the strategy was achievable.,57,1488,1593,ML16021A133.txt,U
+b.,57,1593,1595,ML16021A133.txt,U
+Findings No findings were identified.,57,1595,1632,ML16021A133.txt,U
+4,57,1632,1634,ML16021A133.txt,U
+OTHER ACTIVITIES 4OA2 Problem Identification and Resolution a.,57,1634,1696,ML16021A133.txt,U
+Inspection Scope The inspectors reviewed recent independent audits and evaluations to verify that the licensee was performing appropriate assessments of the FPP.,57,1696,1857,ML16021A133.txt,U
+"In addition, a sample of fire protection nonconformances were reviewed to verify that deficiencies were identified, entered into, and resolved by the licensee's corrective action program.",57,1857,2044,ML16021A133.txt,U
+"The ARs were reviewed with regard to the adequacy of the evaluation, appropriateness of the proposed corrective actions, and the timeliness of implementing the corrective actions.",57,2044,2223,ML16021A133.txt,U
+11 b.,59,0,6,ML16021A133.txt,U
+Findings No findings were identified.,59,6,43,ML16021A133.txt,U
+"4OA6 Meetings, Including Exit On December 10, 2015, the inspection team leader presented the preliminary inspection results to Mr. S. Capps and other members of the licensee's staff.",59,43,225,ML16021A133.txt,U
+The licensee acknowledged the results.,59,225,263,ML16021A133.txt,U
+The inspectors verified that no proprietary information was retained by the inspectors or documented in this report.,59,263,379,ML16021A133.txt,U
+ATTACHMENT: SUPPLEMENTARY INFORMATION,59,379,416,ML16021A133.txt,U
+"SUPPLEMENTARY INFORMATION KEY POINTS OF CONTACT Licensee Personnel J. Campellone, Appendix R/NFPA 805 Engineer G. Carpenter, Fire Protection Engineer J. Lukowski, Appendix R/NFPA 805 Engineer B. Richards, Regulatory Affairs Lead N. Sayles, Communications P. Thompson, Operations NRC Personnel J. Zeiler, Senior Resident Inspector S. Shaeffer, Chief, Engineering Branch 2, DRS, Region II LIST OF ITEMS OPENED, CLOSED, DISCUSSED, AND UPDATED Opened and Closed 05000369, 370/2015-008-01 NCV Failure to Completely and Accurately Translate the Safe Shutdown Analysis to Procedures (Section 1R05.01)",61,0,594,ML16021A133.txt,U
+Attachment,63,0,10,ML16021A133.txt,U
+LIST OF FIRE BARRIER FEATURES INSPECTED (Refer Report Section 1RO5.02- Passive Fire Barriers) Fire Barriers Floors/Walls/Ceiling Identification Fire Wall Floor Slab Fire Wall Floor Slab Fire Wall Floor Slab Fire Door Identification 1XCDDF0704 1XCDDF0701A 1XCDDF0603C 1XCDDF0801C 1XEXADF802 Fire Damper Identification 750-7.3.1 750-7.3.3 Fire Barrier Penetration Seal 736-5.1-1 750-13.1-1 750-15.0-2 750-26.1-2 Description DG1A to DG1B Auxiliary Bldg.,65,0,451,ML16021A133.txt,U
+El.,65,451,454,ML16021A133.txt,U
+750' from Col 56 to 61 Electrical Pen.,65,454,492,ML16021A133.txt,U
+Room along Col. AA Electrical Pen.,65,492,526,ML16021A133.txt,U
+Room from Col. AA to DD Vital Battery Room along Col 53 and 59 Vital Battery Room from Col 53 to 59 Description Diesel Generator Room 1A Vital Battery Room Electrical Pen.,65,526,697,ML16021A133.txt,U
+Room Electrical Pen.,65,697,717,ML16021A133.txt,U
+Room Electrical Pen.,65,717,737,ML16021A133.txt,U
+Room Description Electrical Pen Room Electrical Pen.,65,737,789,ML16021A133.txt,U
+Room Description Electrical Pen.,65,789,821,ML16021A133.txt,U
+Room (Wall) Electrical Pen.,65,821,848,ML16021A133.txt,U
+Room (Wall) Electrical Pen.,65,848,875,ML16021A133.txt,U
+Room (Floor) Electrical Pen.,65,875,903,ML16021A133.txt,U
+Room (Wall),65,903,914,ML16021A133.txt,U
+"LIST OF COMPONENTS REVIEWED (Refer to Report Sections 1R05.01 / 1R05.03 / 1R05.05 / 1R05.06) 2RN-174B A', `B', `C' Fire Pumps 1CA-18B 1NC-33A 1RN-162B 1NC-34A 0RN-148AC 0RN-5B 0RN-149A 1RN-70A 0RN-4AC 1RN-69A 0RN-5B 1RN-73A 1NC CR5900 1RN-171B 1NV-142B 1RN-174B 2RN-162B 2RN-171B",67,0,279,ML16021A133.txt,U
+"LIST OF DOCUMENTS REVIEWED Audits and Self Assessment Reports Self-Assessment AR 01934346 03, M-ENG-SA-15-12, Fire Protection Triennial Readiness SelfAssessment 2014-MNS-FP-01, McGuire Fire Protection Program Audit Cable Wiring Diagrams Cable Block Diagram for 0RY PU0006 Cable Block Diagram for 0RY PU0007 Cable Block Diagram for 0RY PU0008 Cable Block Diagram for 1NC VA0033A Cable Block Diagram for 1NC VA0034A Cable Block Diagram for 0RN VA0004AC Cable Block Diagram for 0RN VA0005B Cable Block Diagram for 0RN VA0148AC Cable Block Diagram for 0RN VA0149A Cable Block Diagram for 1CF P 5520 Cable Block Diagram for 1CF P 5530 Cable Block Diagram for 1CF P 5550 Cable Block Diagram for 1CF P 5560 Cable Block Diagram for 1NC CR5900 Cable Block Diagram for 1NV VA1012C Cable Block Diagram for 1NV VA1013C Cable Block Diagram for 1RN VA0069A Cable Block Diagram for 1RN VA0070A Cable Block Diagram for 1RN VA0073A Cable Block Diagram for 1SA VA0048ABC Cable Block Diagram for 1SA VA0049AB Cable Block Diagram for 2NV VA1012C Cable Block Diagram for 2SA VA0048ABC Cable Block Diagram for 2NV VA1013C Cable Block Diagram for 2SA VA0049AB Cable Block Diagram for 1NV VA0142B Cable Block Diagram for 1NC 522 Cable Block Diagram for 1NC 525 Cable Block Diagram for 1NC 545 Cable Block Diagram for 1NC 593 Cable Block Diagram for 1NC 906 Cable Block Diagram for 1NC 942 Cable Block Diagram for 1NC 948 Cable Block Diagram for 1NC 978 Cable Block Diagram for 1NC 979 Cable Block Diagram for 1NC 518 Cable Block Diagram for 1NC 520 Cable Block Diagram for 1NC 537 Cable Block Diagram for 1NC 538 Cable Block Diagram for 1NC 637",69,0,1621,ML16021A133.txt,U
+"4 Calculations EIR 51-9235439, McGuire Fire Protection Nuclear Safety Capability Assessment, Rev.",71,0,98,ML16021A133.txt,U
+"0MCC1535.00-00-0106, MNS Fire PRA Summary Report, Rev.",71,98,152,ML16021A133.txt,U
+"5 MCC-1435.00-00-0041, NFPA 805 Transition Risk-Informed, Performance-Based Fire Risk Evaluations, Rev.",71,152,255,ML16021A133.txt,U
+"2 MCC 1381.05-00-0335, Appendix R Coordination Study, Rev 1 MCC-1435.00.00-0059, NFPA 805-App R Safe Shutdown Deterministic Analysis, Rev.",71,255,393,ML16021A133.txt,U
+"2 MCC-1435.00-00-0022, Fire Prot.",71,393,426,ML16021A133.txt,U
+"Manual Action Feasibility and Reliability Demonstration, Rev.",71,426,487,ML16021A133.txt,U
+"0 MCC-1435.00-00-0023, NFPA 805 Transition Expert Panel Report for Addressing Potential McGuire Multiple Spurious Operations, Rev.",71,487,617,ML16021A133.txt,U
+"3 MCC-1435.00-00-0065, Fire Watch Reduction Analysis, Rev.",71,617,675,ML16021A133.txt,U
+"1 MCC-1435.00-00-0066, McGuire review of component non-compliances that were identified during the Appendix R Reconstitution Project that will not need compensatory actions, Rev.",71,675,853,ML16021A133.txt,U
+"0 MCC-1381.06-00-0072, Short Circuit Fault Capability for SDSP, SDSP1, SDSP2, 1EVDA1,from SDSP1 or 1EVDA and 2EVDA-1 from SDSP2 or 2EVDA, Rev.",71,853,995,ML16021A133.txt,U
+"0 MCC-1435.00-00-0045, NFPA 805 Transition Recovery Action Feasibility Review, Rev.",71,995,1078,ML16021A133.txt,U
+"0 MCC-1435.00-00-0038, NFPA 80 Code Conformance Review, Rev.",71,1078,1138,ML16021A133.txt,U
+"0 MCC-1435.00-00-0039, NFPA 90A Code Conformance Review, Rev.",71,1138,1199,ML16021A133.txt,U
+"1 MCC-1206.47-69-1001, Auxiliary Building Flooding Analysis, Rev.",71,1199,1264,ML16021A133.txt,U
+"17 MCC-1211-00-00-0042, McGuire Nuclear Station Hydrogen Gas Concentration Evaluation, Appendix K, Rev.",71,1264,1367,ML16021A133.txt,U
+"0039 MCC-1435.00-00-0010, Fire Protection Code Deviations, Rev.",71,1367,1430,ML16021A133.txt,U
+"7 MCC-1435.03-00-0012 Attachment 3, Fire Protection Evaluation for Wall Block-outs with Free Area in excess of 9ftÂ² and no Structural Support Framing, Rev.",71,1430,1585,ML16021A133.txt,U
+"0 MCC-1435.03-00-0014, Generic Letter 86-10 Evaluations for Fire Protection Features, Rev.",71,1585,1675,ML16021A133.txt,U
+"9 MCC-1435-00-00-0049, NFPA 13, Standard for the Installation of Sprinkler Systems, 2007 Edition, Code Conformance Review, Auxiliary Building Battery Rooms, Rev.",71,1675,1836,ML16021A133.txt,U
+"1 Completed Procedures/ Surveillances/ Work Orders PT/1/A/4200/041, SSF System Integrated Test Â­ Unit 1, completed 12/3/98 WO 489873, PT/0/A/4250/004, Fire Barrier Inspection, 6/18/2001 WO 523232, PT/0/A/4250/004, Fire Barrier Inspection, 11/14/2002 WO 549245, PT/0/A/4250/004, Fire Barrier Inspection, 5/26/2004 WO 00577354, Task 01-05, PT/0/A 4250/004, Fire Barrier Inspection, 5/15/2006 WO 00577354, Task 05, MP/0/A/7450/005, Control Room Ventilation (VC) Ductwork, AHU and Boundary Opening, 5/15/2006 WO 01746932, PT/0/A/4250/004, Fire Barrier Inspection, 10/16/2007 WO 01835317, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 03/30/2009 WO 01918458, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 10/05/2010 WO 02102624, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 03/25/2014 WO 02197151, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 10/29/2015 WO 490618, PT/0/A/4250/004, Fire Barrier Inspection, 05/30/2001 WO 522547, PT/0/A/4250/004, Fire Barrier Inspection, 10/16/2002 WO 548983, PT/0/A/4250/004, Fire Barrier Inspection, 08/05/2004 WO 00578796, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 05/03/2006 WO 01752938, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 01/17/2008 WO 01848446, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 06/23/2009 WO 01931754, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 04/07/2011 WO 02035113, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 01/02/2013",71,1836,3273,ML16021A133.txt,U
+"5 WO 02059186, Task 1-3, PT/1/A/4400/001N, Halon 3101 System Periodic Test, 08/13/13 WO 02128915, Task 01, PT/0/A/4250/004, Fire Barrier Inspection, 09/02/2014 WO 02178683, Task 02, MP/0/A/7400/049, Halon Cylinder Pressure and Weight Test, 05/27/2015 WO 02196990, Task 01, PT/0/A/4600/032F, Test Fire Zones, 08/18/2015 WO 02156992, PT/0/A/4400/010C, Main Fire Pump ""C"", 12/11/2014 WO 02007031, Task 01, PT/0/A/4400/001C, Fire Protection System Monthly Test, WO 02135008, Task 01, PT/0/A/4400/001M, Fire Protection System Flow Test, 08/14/2014 WO 02196990, Task 01, PT/0/A/4600/032F, Fire Detection System Operational Test for FACP # 8, 08/17/2015 WO 02173196, Task 01, PT/0/A/4400/010A, Main Fire Pump ""A"", 04/23/2015 WO 02102989, Task 01, PT/0/A/4400/010B, Main Fire Pump ""B"", 03/11/2014 WO 20013023, PT/0/A/4400/001C, Fire Protection System Monthly Test, 09/18/2015 PT/0/A/4250/011, Fire Door Inspections, 12/22/2015 Design Basis Documents MCS-1223.SS-00-0001, Design Basis Specification for the Standby Shutdown System, Rev.",73,0,1028,ML16021A133.txt,U
+"35 MCS-1465.00-00-0022, Design Basis Specification for Appendix R Safe Shutdown Analysis, Rev.",73,1028,1122,ML16021A133.txt,U
+"14 MCS-1465.00-00-0008, Design Basis Specification for Fire Protection, Rev.",73,1122,1198,ML16021A133.txt,U
+"19 MCS-1599.RF-00-0001, Design Basis Specification for the RF/RY System, Rev.",73,1198,1275,ML16021A133.txt,U
+"23 MCS-1578.VC-00-0001, Design Basis Specification for MNS Control Room and Battery Room Ventilation, Rev 28 Drawings MSFD-005.006, Unit 1 D/G Rooms, Rev.",73,1275,1429,ML16021A133.txt,U
+"1 MSFD-015.017, 1ETA/750 Elec Pen Room, Rev.",73,1429,1473,ML16021A133.txt,U
+"0 MSFD-021, Aux 750, Rev.",73,1473,1498,ML16021A133.txt,U
+"0 MC-1705-03.0, ""One and Three Line Diagram 250/125VDC Auxiliary Power System Standby Shutdown Facility, Rev.",73,1498,1607,ML16021A133.txt,U
+"37 MCEE-157-00.29, McGuire Nuclear Station Unit 1 Elementary Diagram Volume Control Tank #1 Outlet Isolation Valve 1NV142B, Rev.",73,1607,1735,ML16021A133.txt,U
+"11 MCFD-1553-01.00, Flow Diagram of Reactor Coolant System (NC), Rev.",73,1735,1804,ML16021A133.txt,U
+"12 MCFD-1553-02.00, Flow Diagram of Reactor Coolant System (NC), Rev.",73,1804,1873,ML16021A133.txt,U
+"10 MCFD-2553-02.00, Flow Diagram of Reactor Coolant System (NC), Rev.",73,1873,1942,ML16021A133.txt,U
+"9 MCFD-2553-02.01, Flow Diagram of Reactor Coolant System (NC), Rev.",73,1942,2010,ML16021A133.txt,U
+"12 MCFD-1553-04.01, Flow Diagram of Reactor Coolant System (NC), Rev.",73,2010,2079,ML16021A133.txt,U
+"2 MCFD-1554-01.03, Flow Diagram of Chemical and Volume Control System (NV), Rev.",73,2079,2159,ML16021A133.txt,U
+"4 MCFD-1554-01.01, Flow Diagram of Chemical and Volume Control System (NV), Rev.",73,2159,2239,ML16021A133.txt,U
+"11 MCFD-1592-01.03, Flow Diagram of Auxiliary Feedwater System (CA), Rev.",73,2239,2312,ML16021A133.txt,U
+"7 MCFD-1592-01.00, Flow Diagram of Auxiliary Feedwater System (CA), Rev.",73,2312,2384,ML16021A133.txt,U
+"8 CN-1713-07.01, ""Connection Diagram Left Front Half Input Cabinet 1IC7,"" Rev.",73,2384,2462,ML16021A133.txt,U
+"23 MC-1713-07.01, Connection Diagram Left Front Half Input Cabinet 1IC7,"" Rev.",73,2462,2540,ML16021A133.txt,U
+"14 MC-1717-08.01-02, ""Connection Diagram Area Terminal Cabinet 1ATC8 (Train A) Left Half,"" Rev.",73,2540,2635,ML16021A133.txt,U
+"49 MC-1713-07.02, ""Connection Diagram Right Front Half Input Cabinet 1IC7,"" Rev.",73,2635,2715,ML16021A133.txt,U
+"22 MC-1752-01.18, ""Interconnecting Diagram Motor Control Center 1EMXB-2 Units R4 Thru R1,"" Rev.",73,2715,2810,ML16021A133.txt,U
+"21 MC-1752-01.35, ""Interconnecting Diagram Motor Control Center 1EMXH Units 5 Thru 8,"" Rev.",73,2810,2901,ML16021A133.txt,U
+24,73,2901,2903,ML16021A133.txt,U
+"6 MC-1760-01.05, ""Connection Diagram Nuclear Service Water Sys.",75,0,64,ML16021A133.txt,U
+"Terminal Boxes TB192 & TB193,"" Rev.",75,64,99,ML16021A133.txt,U
+"10 MC-1767-09.09, ""Connection Diagram Reactor Building Penetrations Type K, Instrumentation Penetration E439,"" Rev.",75,99,214,ML16021A133.txt,U
+"17 MC-1845-13.03, ""Lighting Hot Standby Emergency Battery Lights Schedule,"" Rev.",75,214,294,ML16021A133.txt,U
+"0 MC-1887-01.00, ""Station Grounding Auxiliary Plan At El.",75,294,351,ML16021A133.txt,U
+"750' + 0',"" Rev.",75,351,367,ML16021A133.txt,U
+"70 MC-1907-08.01, ""Computer Cable Routing Auxiliary Building Penetration & Switchgear Room Sections & Details Below El.",75,367,486,ML16021A133.txt,U
+"767'+0',"" Rev.",75,486,500,ML16021A133.txt,U
+"9 MC-1907-01.01, ""Computer Cable Routing Auxiliary Building Penetration & Switchgear Room Plan Below El 767'+0', Rev.",75,500,617,ML16021A133.txt,U
+"27 MCEE-138-00.40, ""Elementary Diagram CCW Discharge A Isolation Valve 0RN148A, C,"" Rev.",75,617,705,ML16021A133.txt,U
+"9 MCEE-138-00.40-01, ""Elementary Diagram CCW Discharge A Isolation Valve 0RN148A,C,"" Rev.",75,705,794,ML16021A133.txt,U
+"5 MCEE-138-00.40-02, ""Elementary Diagram CCW Discharge A Isolation Valve 0RN0148A,C,"" Rev.",75,794,884,ML16021A133.txt,U
+"6 MCFD-1574-01.00, ""Flow Diagram of Nuclear Service Water System (RN),"" Rev.",75,884,960,ML16021A133.txt,U
+"31 MCFD-1574-02.00, ""Flow Diagram of Nuclear Service Water System (RN),"" Rev.",75,960,1037,ML16021A133.txt,U
+"33 MCFD-1574-03.00, ""Flow Diagram of Nuclear Service Water System (RN),"" Rev.",75,1037,1114,ML16021A133.txt,U
+"37 MCFD-1592-01.00, ""Flow Diagram of Auxiliary Feedwater System (CA),"" Rev.",75,1114,1189,ML16021A133.txt,U
+"33 MCFD-1604-01.02, ""Flow Diagram of Condenser Circulating Water (RC),"" Rev.",75,1189,1265,ML16021A133.txt,U
+"19 MCFD-1604-02.00, ""Flow Diagram of Condenser Circulating Water (RC),"" Rev.",75,1265,1341,ML16021A133.txt,U
+"5 MCFD-2574-03.00, ""Flow Diagram of Nuclear Service Water System (RN),"" Rev.",75,1341,1417,ML16021A133.txt,U
+"20 MCFD-2574-03.01, ""Flow Diagram of Nuclear Service Water System (RN),"" Rev.",75,1417,1494,ML16021A133.txt,U
+"12 MC-1578-01.01, Flow Diagram of Control Area Ventilation System (VC), Rev.",75,1494,1570,ML16021A133.txt,U
+"30 MC-1578-03.00, Flow Diagram of Control Area Ventilation System (VC) Cable, Battery and Cable MCC Rooms, Rev.",75,1570,1681,ML16021A133.txt,U
+"16 MC-1578-2, Flow Diagram of Control Area Ventilation System (VC) Control & Electrical Penetration Rooms, Rev.",75,1681,1792,ML16021A133.txt,U
+"11 MC-1315-05.01-001, Penetration Seal Configuration Electrical Penetration Seal Firestop Design Detail E-1 & E-2, Rev.",75,1792,1911,ML16021A133.txt,U
+"0 MC-1315-05.01-002, Penetration Seal Configuration Electrical Penetration Seal Firestop Design Detail E-3 & E-4, Rev.",75,1911,2029,ML16021A133.txt,U
+"0 MC-1315-05.01-005, Penetration Seal Configuration Electrical Penetration Seal Firestop Design Detail E-9, Rev.",75,2029,2141,ML16021A133.txt,U
+"0 MC-1384-07.22.00, Fire Protection Outside Fire Loop, Rev.8 MCFD-1599-01.00, Flow Diagram of Fire Protection System (RF, RY), Rev.",75,2141,2272,ML16021A133.txt,U
+"18 MCFD-1599-02.01, Flow Diagram of Fire Protection System (RF, RY), Rev.",75,2272,2345,ML16021A133.txt,U
+"17 MCFD-1599-02.03, Flow Diagram of Fire Protection System (RF), Rev.",75,2345,2414,ML16021A133.txt,U
+"8 MCFD-1599-04.00, Flow Diagram of Fire Protection System (RF), Rev.",75,2414,2482,ML16021A133.txt,U
+"3 MCM-1376.00-0113.001, Fire Detection and Alarm System, Auxiliary Building Unit 1-Floor Area 736+6, Diesel Generator Area, Rev.",75,2482,2610,ML16021A133.txt,U
+"0 MCM-1376.00-0107.001, Fire Detection and Alarm System, Auxiliary Building Units 1 & 2- Floor 733+6 Battery Room and Electrical Equipment Room, Rev.",75,2610,2759,ML16021A133.txt,U
+"0 MCM-1376.00-0116.001, Fire Detection and Alarm System, Auxiliary Building Units 1 & 2- Floor 750+0, Switchgear Rooms Plans Battery Room and Electrical Equipment Room, Rev.",75,2759,2932,ML16021A133.txt,U
+"0 MCM-1376.00-0092.001, Fire Detection and Alarm System, Auxiliary Building Units 1 & 2- Floor 750+0, Rev.",75,2932,3038,ML16021A133.txt,U
+"1A MCM-1376.00-0093.001Fire Detection and Alarm System, Auxiliary Building Units 1 & 2- Floor 750+0, Rev.",75,3038,3143,ML16021A133.txt,U
+1A,75,3143,3145,ML16021A133.txt,U
+"7 Engineering Changes (EC) 109072, Assured CA Suction For Extended SBO, 2/26/2015 103896, Replace EVDB-3E Feeder Breaker to 1EVIB With C-H TYPE HFD3150, 7/6/2010 104503, Replace 1A EDG Voltage Regulators, 5/18/2015 104506, Replace 2B EDG Voltage Regulators, 4/29/2015 106365, Replace Panelboard 1EKVA, 6/30/2015 109084, Provide Electrical Power Connections For Portable Power Sources, 4/15/2015 112867, 2MXG-F5B: Change Bkr Type, Trip Setting & OL HTR Â­ VLV 2HA0003, 7/9/2014 112868, 2MXG-R3F: Replace HMCP030H1C Breaker With HFD3020 Breaker, 4/22/2014 Fire Protection Pre-Plans and Fire Drill Critiques FS/1/B/9000/006, 1B D/G Fire Strategy #6, Rev.",77,0,651,ML16021A133.txt,U
+"0 FS/1/B/9000/015, Unit 1 750' Electrical Penetration Room Fire Strategy #15, Rev.",77,651,733,ML16021A133.txt,U
+"0 FS/1/B/9000/017A, HVAC Room for 1ETA Fire Strategy #17A, Rev.",77,733,796,ML16021A133.txt,U
+"0 FS/1/B/9000/017, 1ETA Room Fire Strategy #17, Rev.",77,796,848,ML16021A133.txt,U
+"0 FS/1/B/9000/021, Aux 750 Fire Strategy #21, Rev.",77,848,898,ML16021A133.txt,U
+"0 MFDS-013 & McGuire Nuclear Station Fire Strategy-Vital Battery Room, Elevation 733' MFDS-021 & McGuire Nuclear Station Fire Strategy-Auxiliary Building, Elevation 750' MFDS-005.006 & McGuire Nuclear Station Fire Strategy- Unit 1 D/G Room, Elevation 736' MFDS-015.017 & McGuire Nuclear Station Fire Strategy-1ETA / Electrical Penetration Room, Elevation 750' PT/0/B/4600/121, Fire Drills, 1/31/2015, ""A"" Shift (Unannounced) PT/0/B/4600/121, Fire Drills, 11/04/2013, Off-Site Drill with ""Agreement"" Fire Departments Procedures AP/2/A/5500/24, Loss of Plant Control Due to Fire or Sabotage, Rev.",77,898,1492,ML16021A133.txt,U
+"33 AP/0/A/5500/45, Plant Fire, Rev.",77,1492,1527,ML16021A133.txt,U
+"17 EP/1/A/5000/E-0, Reactor Trip or Safety Injection, Rev.",77,1527,1585,ML16021A133.txt,U
+"34 EP/1/A/5000/ES-0.1, Reactor Trip Response, Rev.",77,1585,1635,ML16021A133.txt,U
+"42 EP/1/A/5000/ES-0.2, Natural Circulation Cooldown, Rev.",77,1635,1692,ML16021A133.txt,U
+"12 AD-EG-ALL-1530, Fire Brigade Training, Rev.",77,1692,1738,ML16021A133.txt,U
+"0 OP/0/A/6100/020, Operational Guidelines Following a Fire in Auxiliary Building or Vital Area, Rev.",77,1738,1838,ML16021A133.txt,U
+"30 OP/0/A/6100/21, Shutdown Outside the Control Room following a Fire, Rev.",77,1838,1913,ML16021A133.txt,U
+"19 OP/1/A/6100/004, Shutdown Outside The Control Room From Hot Standby to Cold Shutdown, Rev.",77,1913,2006,ML16021A133.txt,U
+"26 OP/0/B/6400/002 D, FLEX Hale Pump (Low Pressure) Operation, Rev.",77,2006,2073,ML16021A133.txt,U
+"8 PT/1/A/4200/041, Unit 1 SSF Systems Integrated Test, Rev.",77,2073,2132,ML16021A133.txt,U
+"4 PT/2/A/4200/041, Unit 2 SSF Systems Integrated Test, Rev.",77,2132,2191,ML16021A133.txt,U
+"5 PT/0/A/4400/017, Fire Pump C Operability Test, Rev.17 PT/0/4600/127, B.5.b Equipment Inventory, Rev.",77,2191,2293,ML16021A133.txt,U
+"0 NAP000LW, Nuclear Scaffold Manual ADS-EG-ALL-1501, ""Fire Protection Change Process, Rev.",77,2293,2383,ML16021A133.txt,U
+"1 AD-PI-ALL-0100, ""Corrective Action Program,"" Rev.",77,2383,2434,ML16021A133.txt,U
+"3 AP/1/A/5500/06, ""S/G Feedwater Malfunction,"" Rev.",77,2434,2485,ML16021A133.txt,U
+"19 Nuclear System Directive (NSD) 208, ""Problem Investigation Program (PIP), Rev.",77,2485,2566,ML16021A133.txt,U
+"13 OP/1/A/6250/002/ ""Auxiliary Feedwater System,"" Rev.",77,2566,2620,ML16021A133.txt,U
+"117 OP/2/A/6250/002/ ""Auxiliary Feedwater System,"" Rev.",77,2620,2675,ML16021A133.txt,U
+"082 PT/0/A/4200/002, ""Standby Shutdown Facility Operability Test,"" Rev.",77,2675,2746,ML16021A133.txt,U
+"062 PT/1/A/4200/041, ""Unit 1 SSF Systems Integrated Test,"" Rev.004 PT/2/A/4200/041, ""Unit 2 SSF Systems Integrated Test,"" Rev.004",77,2746,2875,ML16021A133.txt,U
+"8 PT/1/A/4207/005 A, NM Train A Stroke Timing Â­ Shutdown, Rev.",79,0,63,ML16021A133.txt,U
+"003 AD-EG-ALL-1502, Fire Protection Impact Screenings for Plant Design Changes, Rev.",79,63,147,ML16021A133.txt,U
+"0 AD-EG-ALL-1520, Transient Combustible Control, Rev.",79,147,200,ML16021A133.txt,U
+"3 AD-EG-ALL-1521, Hot Work Permits, Rev.",79,200,240,ML16021A133.txt,U
+"3 AD-EG-ALL-1530, Fire Brigade Training, Rev.",79,240,285,ML16021A133.txt,U
+"0 AL-EG-ALL-1531, Selection, Care and Maintenance of Fire Fighting Ensembles, Rev.",79,285,367,ML16021A133.txt,U
+"0 MP/0/A/7400/049, Diesel Generator Halon Cylinder Pressure and Weight Test, Rev.",79,367,448,ML16021A133.txt,U
+"034 PT/1/A/4400/001N, Halon 3101 System Periodic Test, Rev.",79,448,507,ML16021A133.txt,U
+"039 PT/0/A/4600/032F, Fire Detection System Operational Tests for FACP8, Rev.",79,507,584,ML16021A133.txt,U
+"12 Miscellaneous Documents DC-1.01, Separation Â­ McGuire, Rev.",79,584,646,ML16021A133.txt,U
+"26 Transition to 10 CFR 50.48(c) - NFPA 805 Performance-Based Standard for Fire Protection for Light Water Reactor Electric Generating Plants, 2001 Edition, date September 2013 Regulatory Guide (RG) 1.28, ""Quality Assurance Program Criteria (Design and Construction), Rev.",79,646,918,ML16021A133.txt,U
+"4 ML081300697, ""Clarification of 10 CFR 50.48(c), 50.48(a), and GDC 3,"" ML12129A299, ""Duke Energy Carolinas, LLC McGuire Nuclear Station, Units 1 and 2 Docket Nos.",79,918,1081,ML16021A133.txt,U
+"50-369 and 50-370 Selected Licensee Commitment Manual, dated April 16, 2012 Letter of Agreement between Duke Energy Company and Cornelius VFD, 3/14/2013 Memorandum of Understanding between Duke Energy Company and Gaston County Department of Emergency Management, 05/01/2014 Letter of Agreement between Duke Energy Company and Huntersville FD, 5/20/2014 LCOTR #A-0-15-00456, PT/0/4400/001S Fire Protection System Test, dated 07/23/2015 LCOTR #A-0-15-00540, PM ""C Fire Pump Motor, SLC 16.9.1, dated 08/02/2015 LCOTR #A-0-15-00977, A & C Main Fire Pumps Inoperable, SLC 16.9.1, dated 09/08/2015 NRC Triennial Fire Protection Inspection Report 05000369/2013005 and 05000370/2013005 dated January 23, 2014 NRC Triennial Fire Protection Inspection Report 05000369/2009007 and 05000370/2009007, dated June 25, 2009 NRC Triennial Fire Protection Inspection Report 05000369/2006008 and 05000370/2006008, dated January 29, 2007 NRC Triennial Fire Protection Inspection Report 50-369/03-07 and 50-370/03-07, July 03, 2003 NFPA 12A- 1977, Standard on Halon 1301 Extinguishing Systems NFPA 13-1978, Standard for the Installation of Sprinkler Systems NFPA 14-1976 Standard for the Installation of Standpipes and Hose Systems NFPA 15-1977, Standard for Water Spray Fixed Systems for Fire Protection NFPA 20-1978, Standard for the Installation of Centrifugal Fire Pumps NFPA 24-1977, Standard for the Installation of Private Service Mains and their Appurtenances NFPA 72E-1974, Standard on Automatic Fire Detection NFPA 80-1977, Fire Doors and Windows NFPA 80-2007, Fire Doors and Other Opening Protectives NFPA 80-2013, Fire Doors and Other Opening Protectives NEI 96-07 Rev.",79,1081,2741,ML16021A133.txt,U
+"1, Nuclear Energy Institute, Guidelines for 10 CFR 50.59 Evaluations, 02/22/2000 NEI 02-03, Nuclear Energy Institute, Guidance for Performing a Regulatory Review of Proposed Changes to the Approved Fire Protection Program, June 2003 NRC IN 89-52, Potential Fire Damper Operational Problems, June 8, 1989 Hot Work Permit # MC-15-737 and Associated WO 02156746, 11/17/2015 Fire Protection System Impairment Log, 11/19/2015 Fire Protection Operator Compensatory Actions Log, 11/19/2015",79,2741,3223,ML16021A133.txt,U
+"9 Completed Learning Activity Report TTC1641-N Hot Work Fire Watch, Verification of Individual Qualifications Performing Work under MC-15-737 Control Room Supervisor Turnover Checklist, Fire Brigade Training and Medical Records 11/18/2015 Control Room Supervisor Turnover Checklist, Fire Team Leader Training and Medical Records 11/18/2015 TP/1/A1400/05B, Fire Protection System Functional Test, Diesel Generator Halon, 7/25/1978 TT/1/A/9100/08, Halon Discharge Test for Unit 1 Diesel Generator Rooms, 05/09/1978 10CFR50.59 Evaluation, UFSAR Section 16.9.5 Selected Licensee Conditions, Fire Rated Assemblies, 08/29/2002 System Health Report, RF/RY Fire Protection, 2015Q3 Program Health Report, FP- Fire Protection, 2015Q3 Operating Experience (OE) Fire Protection Report, Attachment 1-5, 2013 - 2015 Technical Manuals and Vendor Information Data Sheet Motorola MTR3000 Base Station/Repeater & Satellite Receiver Pacific Air Products, Investigation of Malfunction of Fire Dampers, June 01, 1983 Licensing Documents McGuire Nuclear Station Units 1 & 2 Renewed Facility Operating License McGuire Nuclear Station Technical Specifications McGuire Nuclear Station Selected License Commitments McGuire Updated Final Safety Analysis Report, Chapter 9 Selected Licensing Commitment, 16.9.7, Standby Shutdown System NUREG-0422, Safety Evaluation Report Related to the Operation of McGuire Nuclear Station Units 1 and 2, March 1978 NUREG-0422, Supplement 2, Safety Evaluation Report Related to the Operation of McGuire Nuclear Station Units 1 and 2, March 1979NUREG-0422, Supplement 3, Safety Evaluation Report Related to the Operation of McGuire Nuclear Station Units 1 and 2, May 1980 NUREG-0422, Supplement 4, Safety Evaluation Report Related to the Operation of McGuire Nuclear Station Units 1 and 2, January 1981 NUREG-0422, Supplement 5 with Corrections, Safety Evaluation Report Related to the Operation of McGuire Nuclear Station Units 1 and 2, November 1993 NUREG-0422, Supplement 6, Safety Evaluation Report Related to the Operation of McGuire Nuclear Station Units 1 and 2, February 1983 Selected Licensee Commitment 16.9.7- Standby Shutdown System Letter dated January 5, 1983 regarding responses to several concerns in the draft Safety Evaluation Report for the McGuire Standby Shutdown System Supplemental Safety Evaluation Report, July 21, 1983 Letter dated September 10, 1984 regarding the Standby Shutdown System at McGuire and Catawba Nuclear Station Letter dated December 14, 1982 regarding the McGuire Standby Shutdown System Letter dated August 2, 1984 regarding Fire Protection for Redundant Safe Shutdown Equipment Letter dated September 12, 1984 regarding meeting at Region II office to discuss the Standby Shutdown Facility for McGuire Units 1 and 2, Catawba Unit 1 and Oconee SSF Safety Evaluation regarding Appendix R Deviations for McGuire Unit 1 and 2, dated May 15, 1989 McGuire Nuclear Station, Unit 1 Â­ Request for Deviation from Fire Protection Program Incorporating Requirements of Appendix R to Part 50 of Title 10 of the Code of Federal Regulations, January 13, 2003 NRC Letter dated April 16, 1984 regarding Issuance of Amendment No.",81,0,3162,ML16021A133.txt,U
+31,81,3162,3164,ML16021A133.txt,U
+"10 Duke Power Letter dated October 21, 1981 regarding Response to Appendix R at McGuire Nuclear Station Duke Power Letter dated March 22, 1984 regarding changes to Catawba Technical Specifications List Of Problem Identification Reports (PIP) and Action Requests (AR) Reviewed During Inspection PIP 12-2194 Â­ Evaluation had identified an Appendix R non-compliance which has the potential to adversely affect the ability to achieve and maintain a cold shutdown on Unit 2.",83,0,470,ML16021A133.txt,U
+"Document reportability PIP 13-1514 Â­ App R related conclusions and basis is not contained in a controlled document PIP 13-0451 Â­ An EC is needed for Unit 1 and Unit 2 Main Condenser Hotwell Drain Valves 1/2 CM-950, 951, and 952 PIP 13-0925 Â­ The printed version of MCC-1223.20-00-0016, B.5.b Portable Pump Requirements, contains the computer model output data but does not contain the computer model input data PIP 13-0951 Â­ There is a discrepancy in the nomenclature used on the Motorola XPR 6550 radios used at the plant PIP 13-0980 Â­ Evaluate Maint Rule Functional Failure criteria for emergency lighting PIP 15-2981 Â­ PIP EVALUATE FAILED EMERGENCY LIGHTS FOR MAINTENANCE RULE FUNCTIONAL FAILURE AR 01647728 Â­ While developing the Manual Action Feasibility Calculation determined that there is no straight forward way to document radio communications PIP 03-0881 Â­ This PIP is being written to track changes to PT/0/A/4250/004... AR 01903962, B.5.b Portable Pump Requirements and Supporting Calculation MCC-1223.2000-0016, Input Data not Available for Review/Verification AR 01596930, Fire Barrier Inspection List of Action Requests (AR) Generated as a Result of this Inspection 01975927 Â­ 2015 TFPI Handtrucks at Col Line MM51 01976301 Â­ NRC Triennial cable identification in FA 15 and FA 17 01976312 Â­ 2015 triennial fire protection (TFPI) comment 01977117 Â­ Fire Suppression Equipment in wrong location 01977174 Â­ EVAL ST MGT IN TSC VOL-2 BK-3 01977182 Â­ PT/0/A/4600/127 Change 01979725 Â­ 2015 TFPI item of concern Â­ fire dampers 01979730 Â­ 2015 TFPI item of concern Â­ fire pump SLC 01979875 Â­ 2015 TFPI item of concern Â­ PORV and block valves 01982345 Â­ 2015 TFPI concern Â­ SLC change without an 86-10 eval 01983360 Â­ 2015 triennial fire protection inspection Â­ Green NCV 01983362 Â­ NRC observation regarding inspection of fire dampers",83,470,2312,ML16021A133.txt,U
