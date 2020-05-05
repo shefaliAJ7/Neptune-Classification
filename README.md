@@ -21,7 +21,7 @@ Every IR .txt file is converted into .csv file with columns: text, line, start_p
 Every row specifies a sentence of IR, line no. in which that sentence lies, position where the sentence
 starts, position where the sentence ends, filename and label assigned by coders, respectively.
 
-Because of 3 different coders, we consider different types of Dataset. The type of Dataset depends upon 'Coder Types':
+Because of 3 different coders we have considered various 'Coder Types'. These 'Coder Types' basically define different types of Dataset. The 'Dataset Types' depends upon 'Coder Types':
 1. Sally - for all sentences labelled by sally
 2. Trixy - for all sentences labelled by Trixy
 3. Frenard - for all sentences labelled by Frenard
