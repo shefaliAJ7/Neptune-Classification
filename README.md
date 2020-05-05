@@ -1,4 +1,4 @@
-# Classification
+# Neptune Classification
 
 We have Instructional Reports (IRs) that are documents that explains the Human Errors in Nuclear Power Plants. <br>
 Every sentence in a document can be labelled by the type of Human Error. <br>
