@@ -1,0 +1,30 @@
+text,Y,Predicted_Values
+The inspectors determined that the cause of this finding was related to the Work Practices component of the Human Performance cross-cutting area due to lessthan-adequate human error prevention techniques [H.4(a)].,T,T
+The finding has a cross-cutting aspect in the area of problem identification and resolution because PSEG did not take appropriate corrective actions to address safety issues and adverse trends in a timely manner commensurate with their safety significance (P.1.d).,T,T
+"Further, maintenance personnel did not understand the requirement to remove materials from an area once they had completed their work.",T,T
+"Specifically, the existing fire procedure had incorrect guidance which would have needlessly delayed the fire brigade response.",P,O
+"A Green self-revealing non-cited violation of 10 CFR 50, Appendix B, Criterion XVI, ""Corrective Actions,"" was identified for failure to preclude repetition of a significant condition adverse to quality.",O,O
+The inspection also revealed a weakness in identifying trends in human performance and equipment issues.,O,T
+(Section 1R12) åá Green.,O,D
+"Because these switches were not in the maintenance program, there was no maintenance strategy developed for them so no periodic testing was assigned to the switches.",O,O
+"Contrary to vendor recommendations that each sight glass be installed and torqued in place only one time, maintenance technicians had re-installed the sight glass on the demineralizer following vessel maintenance.",T,O
+This finding has a cross-cutting aspect in the area of Human Performance because the maintenance personnel who performed the battery surveillance did not have sufficient training to recognize the presence of corrosion.,O,O
+"The licensee did not implement a process of planning, controlling, and executing work activities such that nuclear safety was the overriding priority [H.5] (Section 4OA5.02.b.3).",O,O
+"This finding is greater than minor because the performance deficiency is associated with the equipment performance attribute of the Mitigating Systems cornerstone, and affected the cornerstone objective to ensure the availability and reliability of systems that respond to initiating events to prevent undesirable consequences.",O,O
+"As a result, Exelon failed to ensure that the local control circuits for several 4KV breakers would be isolated from the effects of fire damage.",O,O
+The operability section did not address the pitting and corrosion of SW piping.,O,T
+"The inspectors identified a Green noncited violation of 10 CFR 50 Appendix B, Criterion III, ""Design Control,"" for failure to assure that the design basis, as specified in the license application, was correctly translated into drawings and the actual plant configuration.",D,O
+"Also, the source of the water was not addressed.",P,O
+"(3) of the Limerick Generating Station operating license, in that Exelon did not provide adequate procedural guidance for transporting the fire brigade and equipment to the spray pond pump house.",O,O
+"Analysis: The inspectors determined that the failure to obtain NRC approval prior to making a change which was adverse to safe shutdown was contrary to License Conditions 2.E and 3.G for Units 2 and 3, respectively, and was a performance deficiency.",O,O
+"Specifically, the licensee failed to ensure that, during postfire safe shutdown involving a large fire in the main control room (MCR), Unit 1 and Unit 2 RCS process variables would be maintained within those predicted for a loss of normal ac power.",O,O
+The inspectors determined that the finding was more than minor because the failure to implement the diesel fire pump battery surveillance procedure was associated with the Mitigating Systems cornerstone attribute of Protection Against External Factors (Fire) and affected the cornerstone objective of ensuring the availability and reliability of mitigating systems to respond to fire events to prevent undesirable consequences.,O,O
+"(1) Failure to Ensure Operators Required for Safe Shutdown Were On-Site: Introduction: The inspectors identified a finding of very low safety significance (Green) and associated NCV of 10 CFR Part 50, Appendix R, Section III.L., for the licensee's failure to ensure that operators required for safe shutdown were on-site at all times.",O,O
+The inspectors determined that this failure to adequately implement procedural guidance was a performance deficiency.,T,O
+The finding has a cross-cutting aspect in the area of human performance because PSEG personnel did not follow plant procedures (H.4.b).,T,T
+The non-conforming condition was the existence of the ground and was not addressed in the operability section.,P,H
+"In accordance with Inspection Procedure 71111.11, each of the following was a performance deficiency against expected licensed operator knowledge and abilities: 1) Greater than 20 percent of the crews failing their scenarios and 2) greater than 20 percent of the licensed operator staff failing their operating tests.",O,O
+The inspectors identified a finding of very low safety significance (Green) and associated NCV of Technical Specifications for the licensee's failure to implement the diesel fire pump battery surveillance procedure.,O,O
+The operator became distracted due to conditions in the control room and failed to perform Step 5.3.1.a prior to continuing on in the procedure.,H,D
+"since it had been previously entered, even though newly installed equipment may have affected the corrective actions or priority of the initial issue.",H,O
+"Specifically, by failing to establish a preventive maintenance strategy for fire safe shutdown transfer/isolation switches, Exelon did not ensure that the local control circuits for several 4KV breakers would be isolated from the effects of fire damage.",O,O

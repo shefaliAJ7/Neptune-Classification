@@ -1,0 +1,11 @@
+﻿Coder,Train_Accuracy,Val_Accuracy,Test_Accuracy,#TestData,#AllData
+Binary_Classification,,0.877551019,0.911564626,147,634
+Sally,,0.807692,0.786885,61,317
+Trixy,,0.55384618,0.625,72,395
+Frenard,,0.485294104,0.447368421,76,413
+Sally_Trixy_Agree,,0.782608688,0.75,32,144
+Sally_Frenard_Agree,,0.666666687,0.461538462,13,70
+Sally_Trixy_DisAgree,,0.769230783,0.9,20,84
+Sally_Frenard_DisAgree,,0.899999976,0.857142857,14,62
+Trixy_Sally_DisAgree,,0.571428597,0.53125,32,134
+Frenard_Sally_DisAgree,,0.363636374,0.541666667,24,133
