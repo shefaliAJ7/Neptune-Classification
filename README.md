@@ -24,10 +24,10 @@ starts, position where the sentence ends, filename and label assigned by coders,
 We have implemented different Classification Models and have compared their results for different Coders.
 
 ## Prerequisites
-- Python 3.x
-- Pip
-- Jupyter Notebook
-- Google Colab
+- <a href="https://realpython.com/installing-python/"> Python 3.x </a> 
+- <a href="https://pip.pypa.io/en/stable/installing/"> Pip3 </a>
+- <a href="https://jupyter.org/install"> Jupyter Notebook </a>
+- <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true"> Google Colab </a>
 
 ## Project Structure
 
