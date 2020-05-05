@@ -10,7 +10,7 @@ a google colab notebook with GPU, to apply multi-class classification using BERT
 ### 4. BERT_multiclass_kfold.ipunb: 
 a google colab notebook with GPU, to apply K-Fold Cross Validation on multi-class classification using BERT. It calculates Test Accuracy for K=10 iterations with each iteration having a different set of Training and Test Data. It produces a line-graph that tells accuracies for each iteration.
 ### 5. Results: 
-stores predictions and accuracies for Test Data for different Coder Types.
+stores predictions and accuracies of Test Data of all 'Dataset Types'.
 ### 6. Results_KFold: 
-stores Accuracy vs K-iteration graph-plots for different Coder Types.
+stores Accuracy vs K-iteration graph-plots of all 'Dataset Types'.
 
