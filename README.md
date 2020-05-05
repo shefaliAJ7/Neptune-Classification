@@ -51,5 +51,5 @@ This classification model implements BERT using tensorflow 1.x.
 ### 6. ClassificationModel_ULMFit
 This classification model implements ULMFit using FastAI. 
 
-#### 7. Classification_Results_Compilations
+### 7. Classification_Results_Compilations
 All the classification results of the above models are compiled and compared
