@@ -64,9 +64,9 @@ This classification model implements ULMFit using FastAI.
 All the classification results of the above models are compiled and compared
 
 ## Classification
-We have implemented different Classification Models and have compared their results for different 'Dataset Types'.
+We have implemented different Classification Models and have compared their results for different 'Dataset Types'. <br>
 All the above Classification Models are used in:
-1. Binary Classification:
+### 1. Binary Classification:
 This is done to observe how accurate a model is in predicting if a sentence is <b> useless </b> or <b> useful </b>. It uses the Dataset which contains all the sentences labelled by Sally. Equal no. of <b> useless </b> or <b> useful </b> sentences are taken in this Dataset. 
-2. Multi-class Classification: 
+### 2. Multi-class Classification: 
 This is done to observe how accurate a model is in predicting the type of Human Error of a sentence. This is done on all the 'Dataset Types' for the 'Coder Types' mentioned above. 
