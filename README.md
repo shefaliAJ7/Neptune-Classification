@@ -1,6 +1,6 @@
 # Neptune Classification
 
-We have Instructional Reports (IRs) that are documents that explains the Human Errors in Nuclear Power Plants. <br>
+We have Instructional Reports (IRs) that are documents that explain the Human Errors in Nuclear Power Plants. <br>
 Every sentence in a document can be labelled by the type of Human Error. <br>
 
 The types of Human Errors are: <br>
@@ -10,10 +10,10 @@ O: Organizational <br>
 D: Design <br>
 H: Human <br>
 
-The sentences in IR documents needs to be classified into the type of these Human Errors.
+The sentences in IR documents need to be classified into the type of these Human Errors.
 
 We have 3 coders: Sally, Trixy and Frenard. They have labelled the sentences of various Instruction Reports (IRs).
-For the sentences, which do not belong to any of the type of Human Error, were labelled as U: uselss, by them.
+For the sentences, which do not belong to any of the type of Human Error, were labelled as U: useless, by them.
 
 ## Dataset
 The entire text in an IR file is split by periods(.) into sentences.
